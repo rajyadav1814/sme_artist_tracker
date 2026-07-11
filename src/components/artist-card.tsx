@@ -309,7 +309,7 @@ function KpiRow({ kpi }: { kpi: KpiEntry }) {
   }
 
   // Value colour: recency and engagement get semantic colours; others white
-  let valueColor = '#ffffff';
+  let valueColor = 'var(--color-text-primary)';
   if (kpi.kpi_id === 9)  valueColor = recencyColor(v);
   if (kpi.kpi_id === 3)  valueColor = engColor(kpi.benchmark_tier);
   if (kpi.kpi_id === 2 || kpi.kpi_id === 5) {
@@ -459,7 +459,7 @@ export function ArtistCard({ artist, snapshot, initiallyExpanded = false }: Arti
         </p>
         {/* Narrative interpretation — business action takeaway */}
         <p
-          className="mt-2.5 mx-1 text-[13px] leading-snug font-[family-name:var(--font-ui)] italic text-white"
+          className="mt-2.5 mx-1 text-[13px] leading-snug font-[family-name:var(--font-ui)] italic text-[var(--color-text-primary)]"
         >
           {buildNarrative(snapshot)}
         </p>

@@ -6,6 +6,7 @@ import { KpiLeaderboard } from './components/kpi-leaderboard';
 import { SmlLogo }        from './components/sml-logo';
 import { ChatAgent }      from './components/chat-agent';
 import { AnalystPage }    from './components/analyst-page';
+import { ThemeToggle, useTheme } from './components/theme-toggle';
 import { buildSystemPrompt } from './lib/ai-utils';
 
 type Tab = 'overview' | 'stories' | 'roster' | 'leaderboards' | 'analyst';
@@ -103,7 +104,7 @@ function TabNav({ active, onSelect }: { active: Tab; onSelect: (t: Tab) => void 
                   className="font-[family-name:var(--font-mono)] text-[11px] px-1.5 py-0.5 rounded-sm font-bold"
                   style={{
                     background: isActive ? tab.color : `${tab.color}22`,
-                    color:      isActive ? '#0a0a0a'  : tab.color,
+                    color:      isActive ? 'var(--color-bg-primary)' : tab.color,
                   }}
                 >
                   {tab.count}
@@ -385,7 +386,7 @@ function Overview() {
 
 // ── Sections ──────────────────────────────────────────────────────────────────
 
-function Masthead() {
+function Masthead({ theme, onToggleTheme }: { theme: string; onToggleTheme: () => void }) {
   const alertCount = snapshot.artists.reduce(
     (n, a) => n + a.kpis.filter(k => k.alert !== null).length, 0
   );
@@ -395,6 +396,7 @@ function Masthead() {
       {/* Logo bar — sits above the editorial rule */}
       <div className="flex items-center justify-between mb-5">
         <SmlLogo className="h-[34px] w-auto opacity-90" />
+        <ThemeToggle theme={theme as 'dark' | 'light'} onToggle={onToggleTheme} />
       </div>
 
       {/* Top rule — double-weight editorial line */}
@@ -457,35 +459,143 @@ function Masthead() {
   );
 }
 
+// Signal-type accent colours for the ticker badges
+const TICKER_SIGNAL_COLOR: Record<string, string> = {
+  milestone:                 '#fbbf24',
+  new_release:               '#4ade80',
+  chart_movement:            '#4ade80',
+  rapid_follower_surge:      '#60a5fa',
+  platform_silence_breaking: '#60a5fa',
+  viral_spike:               '#f472b6',
+  collaboration:             '#a78bfa',
+  award:                     '#fbbf24',
+  pr_event:                  '#22d3ee',
+  tour_announcement:         '#fb923c',
+  declining_metrics:         '#f87171',
+  platform_silence:          '#f87171',
+};
+
+const TICKER_SIGNAL_LABEL: Record<string, string> = {
+  rapid_follower_surge:      'SURGE',
+  platform_silence_breaking: 'RETURN',
+  new_release:               'NEW DROP',
+  declining_metrics:         'DECLINE',
+  platform_silence:          'DARK',
+  viral_spike:               'VIRAL',
+  milestone:                 'MILESTONE',
+  chart_movement:            'CHART',
+  award:                     'AWARD',
+  collaboration:             'COLLAB',
+  pr_event:                  'PRESS',
+  tour_announcement:         'TOUR',
+};
+
 function NewsTicker() {
   const items = [...briefing.items, ...briefing.items];
   return (
     <div
-      className="anim-fade-in overflow-hidden border-y border-[var(--color-border)] bg-[var(--color-bg-secondary)] py-2.5 -mx-6"
+      className="anim-fade-in overflow-hidden -mx-6 relative"
       style={{ animationDelay: '180ms' }}
     >
+      {/* Top glow line */}
       <div
-        className="flex gap-0 whitespace-nowrap"
-        style={{ animation: 'ticker 60s linear infinite' }}
-      >
-        {items.map((item, i) => (
-          <span
-            key={i}
-            className="inline-flex items-center gap-2 px-6 font-[family-name:var(--font-mono)] text-[12px]"
+        className="absolute inset-x-0 top-0 h-[1px]"
+        style={{
+          background: 'linear-gradient(90deg, transparent, rgba(251,191,36,0.5) 20%, rgba(244,114,182,0.5) 50%, rgba(96,165,250,0.5) 80%, transparent)',
+        }}
+      />
+      {/* Bottom glow line */}
+      <div
+        className="absolute inset-x-0 bottom-0 h-[1px]"
+        style={{
+          background: 'linear-gradient(90deg, transparent, rgba(96,165,250,0.5) 20%, rgba(74,222,128,0.5) 50%, rgba(251,191,36,0.5) 80%, transparent)',
+        }}
+      />
+
+      <div className="bg-[var(--color-bg-secondary)] py-5">
+        {/* "BREAKING" label pinned left */}
+        <div className="flex items-center">
+          <div
+            className="flex-shrink-0 flex items-center gap-2 pl-6 pr-4 z-10"
+            style={{ background: 'var(--color-bg-secondary)' }}
           >
-            <span className="text-[var(--color-text-muted)]">
-              {String(item.priority).padStart(2, '0')}
+            <span className="relative flex h-2.5 w-2.5">
+              <span className="animate-ping absolute inline-flex h-full w-full rounded-full opacity-40" style={{ background: '#f87171' }} />
+              <span className="relative inline-flex rounded-full h-2.5 w-2.5" style={{ background: '#f87171' }} />
             </span>
-            <span className="text-[var(--color-text-secondary)] tracking-wider">
-              {item.artist_name.toUpperCase()}
+            <span
+              className="font-[family-name:var(--font-mono)] text-[13px] tracking-[0.3em] uppercase font-bold"
+              style={{ color: '#f87171' }}
+            >
+              Live
             </span>
-            <span className="text-[var(--color-text-muted)] opacity-40">·</span>
-            <span className="text-[var(--color-text-primary)]">
-              {item.headline}
-            </span>
-            <span className="text-[var(--color-border-light)] opacity-30 ml-4">///</span>
-          </span>
-        ))}
+            <span className="text-[var(--color-border-light)] opacity-40">│</span>
+          </div>
+
+          {/* Scrolling items */}
+          <div className="overflow-hidden flex-1">
+            <div
+              className="flex gap-0 whitespace-nowrap items-center"
+              style={{ animation: 'ticker 80s linear infinite' }}
+            >
+              {items.map((item, i) => {
+                const accentColor = TICKER_SIGNAL_COLOR[item.signal_type] ?? '#999';
+                const signalLabel = TICKER_SIGNAL_LABEL[item.signal_type] ?? item.signal_type.replace(/_/g, ' ').toUpperCase();
+                const imgUrl = imageBySlug[item.artist_slug];
+
+                return (
+                  <span
+                    key={i}
+                    className="inline-flex items-center gap-3.5 px-6"
+                  >
+                    {/* Artist avatar */}
+                    {imgUrl && (
+                      <img
+                        src={imgUrl}
+                        alt={item.artist_name}
+                        className="w-[44px] h-[44px] rounded-full object-cover flex-shrink-0 border-2"
+                        style={{ borderColor: `${accentColor}66` }}
+                      />
+                    )}
+
+                    {/* Signal badge */}
+                    <span
+                      className="font-[family-name:var(--font-mono)] text-[11px] tracking-[0.15em] uppercase font-bold px-2 py-1 rounded-sm flex-shrink-0"
+                      style={{
+                        background: `${accentColor}20`,
+                        color: accentColor,
+                        border: `1px solid ${accentColor}44`,
+                      }}
+                    >
+                      {signalLabel}
+                    </span>
+
+                    {/* Artist name */}
+                    <span
+                      className="font-[family-name:var(--font-mono)] text-[15px] tracking-wider uppercase font-bold flex-shrink-0"
+                      style={{ color: accentColor }}
+                    >
+                      {item.artist_name}
+                    </span>
+
+                    {/* Headline */}
+                    <span className="text-[var(--color-text-primary)] font-[family-name:var(--font-ui)] text-[16px] font-medium">
+                      {item.headline}
+                    </span>
+
+                    {/* Separator */}
+                    <span
+                      className="font-[family-name:var(--font-mono)] text-[14px] opacity-20 ml-3 flex-shrink-0"
+                      style={{ color: accentColor }}
+                    >
+                      ◆
+                    </span>
+                  </span>
+                );
+              })}
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
@@ -728,6 +838,7 @@ function Footer() {
 export default function App() {
   const [activeTab,        setActiveTab]        = useState<Tab>('stories');
   const [selectedQuestion, setSelectedQuestion] = useState('');
+  const { theme, toggle: toggleTheme } = useTheme();
 
   function handleQuestionNavigate(question: string) {
     setSelectedQuestion(question);
@@ -738,7 +849,7 @@ export default function App() {
     <div className="min-h-screen bg-[var(--color-bg-primary)]">
 
       <div className="px-6 pt-10">
-        <Masthead />
+        <Masthead theme={theme} onToggleTheme={toggleTheme} />
       </div>
 
       {/* Full-bleed ticker — always visible on every tab */}

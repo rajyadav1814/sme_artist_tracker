@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-  /* ── Palette ─────────────────────────────── */
+  /* ── Palette (Dark — default) ────────────── */
   --color-bg-primary:    #0A0A0A;
   --color-bg-secondary:  #141414;
   --color-bg-card:       #1A1A1A;
@@ -19,6 +19,22 @@
   --font-headline: "Playfair Display", Georgia, serif;
   --font-mono:     "IBM Plex Mono", "SF Mono", monospace;
   --font-ui:       "DM Sans", "Helvetica Neue", sans-serif;
+}
+
+/* ── Light theme overrides ────────────────────── */
+[data-theme="light"] {
+  --color-bg-primary:    #F5F3EF;
+  --color-bg-secondary:  #EBE8E2;
+  --color-bg-card:       #FFFFFF;
+  --color-bg-card-hover: #F0EDE7;
+  --color-text-primary:  #1A1A1A;
+  --color-text-secondary:#555555;
+  --color-text-muted:    #888888;
+  --color-border:        #D8D4CC;
+  --color-border-light:  #C8C4BC;
+  --color-accent-up:     #1A1A1A;
+  --color-accent-down:   #888888;
+  --color-accent-highlight: #333333;
 }
 
 /* ── Animations ──────────────────────────────── */
@@ -69,6 +85,7 @@ body {
   font-family: var(--font-ui);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.4s ease, color 0.4s ease;
 }
 
 /* CRT scanline overlay — fixed so it persists while scrolling */
@@ -87,6 +104,17 @@ body::before {
   z-index: 9998;
 }
 
+/* Reduce scanline visibility in light mode */
+[data-theme="light"] body::before {
+  background-image: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 3px,
+    rgba(0, 0, 0, 0.012) 3px,
+    rgba(0, 0, 0, 0.012) 4px
+  );
+}
+
 /* Artist avatar — used across all image contexts */
 .artist-avatar {
   width: 192px;
@@ -100,4 +128,52 @@ body::before {
 
 .artist-avatar:hover {
   filter: grayscale(0%);
+}
+
+/* ── Theme toggle ──────────────────────────────── */
+.theme-toggle {
+  position: relative;
+  width: 56px;
+  height: 28px;
+  border-radius: 14px;
+  background: var(--color-bg-card);
+  border: 1.5px solid var(--color-border-light);
+  cursor: pointer;
+  transition: background 0.3s ease, border-color 0.3s ease;
+  flex-shrink: 0;
+}
+
+.theme-toggle:hover {
+  border-color: var(--color-text-muted);
+}
+
+.theme-toggle-knob {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--color-text-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1), background 0.3s ease;
+}
+
+[data-theme="light"] .theme-toggle-knob {
+  transform: translateX(28px);
+}
+
+.theme-toggle-icon {
+  width: 13px;
+  height: 13px;
+  color: var(--color-bg-primary);
+  transition: color 0.3s ease;
+}
+
+/* Smooth transition for cards and borders */
+.theme-transition,
+.theme-transition * {
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
 }

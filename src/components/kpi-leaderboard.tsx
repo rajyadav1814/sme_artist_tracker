@@ -290,7 +290,7 @@ export function KpiLeaderboard({ kpiId, artists, title, limit = 5 }: KpiLeaderbo
           <div className="text-right">
             <span
               className="font-[family-name:var(--font-mono)] text-[15px] tabular-nums whitespace-nowrap font-semibold"
-              style={{ color: row.rank === 1 ? (KPI_COLOR[kpiId] ?? '#fff') : '#ffffff' }}
+              style={{ color: row.rank === 1 ? (KPI_COLOR[kpiId] ?? 'var(--color-text-primary)') : 'var(--color-text-primary)' }}
             >
               {fmtValue(row.currentValue, meta.format)}
             </span>

@@ -12,6 +12,16 @@
     />
   </head>
   <body>
+    <script>
+      // Sync theme before paint to prevent flash
+      (function() {
+        var t = localStorage.getItem('sml-pulse-theme');
+        if (t !== 'dark' && t !== 'light') {
+          t = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+        }
+        document.documentElement.setAttribute('data-theme', t);
+      })();
+    </script>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
