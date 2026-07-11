@@ -1,0 +1,1388 @@
+{
+  "roster_date": "2026-05-28",
+  "source": "curated:curated_artists.yaml (v1.0)",
+  "artist_count": 46,
+  "artists": [
+    {
+      "name": "Alejandro Sanz",
+      "slug": "alejandro-sanz",
+      "profile_url": "https://www.sonymusiclatin.com/artists/alejandro-sanz/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eba6b5085fa84ce968ca556162",
+      "image_local_path": "data/images/alejandro-sanz.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/alejandrosanz/",
+        "youtube": "https://music.youtube.com/channel/UCGe3279ZI3YLoCWCd7wB0pg",
+        "tiktok": null,
+        "x": "https://twitter.com/AlejandroSanz",
+        "spotify": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF",
+        "apple_music": "https://itunes.apple.com/artist/id162036",
+        "facebook": "https://www.facebook.com/ASanzOficial",
+        "soundcloud": "https://soundcloud.com/alejandro-sanz-official"
+      },
+      "country": "ES",
+      "genre_tags": [
+        "pop",
+        "flamenco-pop",
+        "ballad"
+      ],
+      "label_division": "Universal Music Spain",
+      "label_status": "non-sony",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Beéle",
+      "slug": "beele",
+      "profile_url": "https://www.sonymusiclatin.com/artists/beele/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb8e10d05db45e77a86256fc5d",
+      "image_local_path": "data/images/beele.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/beele",
+        "youtube": "https://www.youtube.com/channel/UCYAQgXVSRzUeNo34-RJOWUw",
+        "tiktok": "https://www.tiktok.com/@beele",
+        "x": "https://twitter.com/beelemusica",
+        "spotify": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7",
+        "apple_music": "https://music.apple.com/co/artist/1470139605",
+        "facebook": "https://www.facebook.com/beelemusica/",
+        "soundcloud": null
+      },
+      "country": "CO",
+      "genre_tags": [
+        "reggaeton",
+        "afrobeats",
+        "urbano"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "C. Tangana",
+      "slug": "c-tangana",
+      "profile_url": "https://www.sonymusiclatin.com/artists/c-tangana/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Goyas_2025_-_C_Tangana_%28cropped%29.jpg/330px-Goyas_2025_-_C_Tangana_%28cropped%29.jpg",
+      "image_local_path": "data/images/c-tangana.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/c.tangana/",
+        "youtube": "https://www.youtube.com/channel/UCOZyjrZSrTJJHU05DlF71Jw",
+        "tiktok": "https://www.tiktok.com/@c.tangana",
+        "x": "https://twitter.com/c_tangana",
+        "spotify": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO",
+        "apple_music": "https://itunes.apple.com/es/artist/id600574924",
+        "facebook": "https://www.facebook.com/ctanganaoficial/",
+        "soundcloud": null
+      },
+      "country": "ES",
+      "genre_tags": [
+        "hip-hop",
+        "alt-flamenco",
+        "urbano"
+      ],
+      "label_division": "Sony Music Spain",
+      "label_status": "sony-spain",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "CA7RIEL & Paco Amoroso",
+      "slug": "ca7riel-paco-amoroso",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ca7riel-paco-amoroso/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5ebbb8e08103d6467aacfd7609f",
+      "image_local_path": "data/images/ca7riel-paco-amoroso.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/ca7rielypacoamoroso/",
+        "youtube": "https://www.youtube.com/channel/UCysiER15Vj3gjdsNUN84uLA",
+        "tiktok": "https://www.tiktok.com/@ca7rielypacoamoroso",
+        "x": "https://twitter.com/ca7rielypaco",
+        "spotify": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/ca7rielypaco/",
+        "soundcloud": null
+      },
+      "country": "AR",
+      "genre_tags": [
+        "urbano",
+        "rap",
+        "alternative"
+      ],
+      "label_division": "Sony Music Latin Argentina",
+      "label_status": "sony-latin",
+      "entity_type": "duo",
+      "members": [
+        {
+          "name": "CA7RIEL",
+          "slug": "ca7riel"
+        },
+        {
+          "name": "Paco Amoroso",
+          "slug": "paco-amoroso"
+        }
+      ],
+      "status": "active",
+      "priority": "high",
+      "notes": "Viral via NPR Tiny Desk 2024."
+    },
+    {
+      "name": "Caetano Veloso",
+      "slug": "caetano-veloso",
+      "profile_url": "https://www.sonymusiclatin.com/artists/caetano-veloso/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5ebcffb538293045411d2b51b8a",
+      "image_local_path": "data/images/caetano-veloso.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/caetanoveloso/",
+        "youtube": "https://www.youtube.com/channel/UCPcx7C0G024NtLNLODhu3VA",
+        "tiktok": "https://www.tiktok.com/@caetano_veloso",
+        "x": "https://twitter.com/falacaetano",
+        "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ",
+        "apple_music": "https://itunes.apple.com/artist/id134260",
+        "facebook": "https://www.facebook.com/FalaCaetano",
+        "soundcloud": null
+      },
+      "country": "BR",
+      "genre_tags": [
+        "mpb",
+        "tropicalia",
+        "samba"
+      ],
+      "label_division": "Sony Music Brasil (historical)",
+      "label_status": "unconfirmed",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "standard",
+      "notes": "Current label affiliation unconfirmed; track via public profiles."
+    },
+    {
+      "name": "Camila",
+      "slug": "camila",
+      "profile_url": "https://www.sonymusiclatin.com/artists/camila/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb76470faf6330235edbcb90a9",
+      "image_local_path": "data/images/camila.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/CamilaMx/",
+        "youtube": "https://www.youtube.com/channel/UCTbABe0xvBjIQeCMXU_R7fA",
+        "tiktok": "https://www.tiktok.com/@camila_mx",
+        "x": "https://twitter.com/Camilamx",
+        "spotify": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU",
+        "apple_music": "https://itunes.apple.com/mx/artist/id152260603",
+        "facebook": "https://www.facebook.com/Camilamusic",
+        "soundcloud": "https://soundcloud.com/camilacabello"
+      },
+      "country": "MX",
+      "genre_tags": [
+        "pop-rock",
+        "ballad"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "group",
+      "members": [
+        {
+          "name": "Mario Domm",
+          "slug": "mario-domm"
+        },
+        {
+          "name": "Pablo Hurtado",
+          "slug": "pablo-hurtado"
+        },
+        {
+          "name": "Samo",
+          "slug": "samo"
+        }
+      ],
+      "status": "active",
+      "priority": "high",
+      "notes": "Original trio reunited 2024; 'Regresa' album March 2024."
+    },
+    {
+      "name": "Carlos Santana",
+      "slug": "carlos-santana",
+      "profile_url": "https://www.sonymusiclatin.com/artists/carlos-santana/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb09882b1b7b33732abd60fc38",
+      "image_local_path": "data/images/carlos-santana.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/carlossantana",
+        "youtube": "https://www.youtube.com/channel/UCI7pNDDat9jR8TjgF48aBDA",
+        "tiktok": null,
+        "x": "https://twitter.com/SantanaCarlos",
+        "spotify": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P",
+        "apple_music": "https://music.apple.com/gb/artist/217174",
+        "facebook": "https://www.facebook.com/carlossantana",
+        "soundcloud": null
+      },
+      "country": "MX",
+      "genre_tags": [
+        "rock",
+        "latin-rock",
+        "blues-rock"
+      ],
+      "label_division": "BMG / Concord",
+      "label_status": "non-sony",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "standard"
+    },
+    {
+      "name": "Carlos Vives",
+      "slug": "carlos-vives",
+      "profile_url": "https://www.sonymusiclatin.com/artists/carlos-vives/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Carlos_Vives_-_World_Economic_Forum_on_Latin_America_2010.jpg/330px-Carlos_Vives_-_World_Economic_Forum_on_Latin_America_2010.jpg",
+      "image_local_path": "data/images/carlos-vives.jpg",
+      "bio_excerpt": "With 17 Latin GRAMMY® Awards, two GRAMMY® Awards, and a place in the Billboard Latin Music Awards Hall of Fame, Carlos Vives has forever changed Latin music. The Colombian singer, songwriter, actor, and philanthropist remains one of the most recognizable stars in the world with a massive social audi",
+      "social_links": {
+        "instagram": "https://www.instagram.com/carlosvives/",
+        "youtube": "https://www.youtube.com/channel/UCcoTDF00osWsjkiO3eC9viw",
+        "tiktok": "https://www.tiktok.com/@carlosvives",
+        "x": "https://twitter.com/carlosvives",
+        "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr",
+        "apple_music": "https://itunes.apple.com/co/artist/id554369",
+        "facebook": "https://www.facebook.com/carlosvivesoficial/",
+        "soundcloud": "https://soundcloud.com/carlos-vives-official"
+      },
+      "country": "CO",
+      "genre_tags": [
+        "vallenato",
+        "pop",
+        "cumbia"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Charly García",
+      "slug": "charly-garcia",
+      "profile_url": "https://www.sonymusiclatin.com/artists/charly-garcia/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5ebe08032d12aeaad81d139f913",
+      "image_local_path": "data/images/charly-garcia.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/charlygarcia/",
+        "youtube": "https://www.youtube.com/channel/UCwdcsrSoGZLPNpRurWqySAA",
+        "tiktok": "https://www.tiktok.com/@charlysaynomore",
+        "x": "https://twitter.com/charlygarciabg",
+        "spotify": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo",
+        "apple_music": "https://music.apple.com/es/artist/573925",
+        "facebook": "https://www.facebook.com/Partedelareligion/",
+        "soundcloud": null
+      },
+      "country": "AR",
+      "genre_tags": [
+        "rock",
+        "rock-nacional"
+      ],
+      "label_division": "Sony Music Latin Argentina",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "standard"
+    },
+    {
+      "name": "Chayanne",
+      "slug": "chayanne",
+      "profile_url": "https://www.sonymusiclatin.com/artists/chayanne/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chayanne_-_Chicago_2010-11-24.jpg/330px-Chayanne_-_Chicago_2010-11-24.jpg",
+      "image_local_path": "data/images/chayanne.jpg",
+      "bio_excerpt": "Chayanne was born in Puerto Rico but raised in the world stage. Performing before crowds of adoring fans, acting on film and television at a very young age as part of the group Los Chicos, transitioning to a solo artist came naturally to Chayanne. Today he is recognized throughout Iberia-America as ",
+      "social_links": {
+        "instagram": "https://www.instagram.com/chayanne/",
+        "youtube": "https://www.youtube.com/channel/UCltTIW3M5KliU-pu5nPaGUg",
+        "tiktok": "https://www.tiktok.com/@chayanne",
+        "x": "https://twitter.com/chayannemusic",
+        "spotify": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv",
+        "apple_music": "https://music.apple.com/gb/artist/1313256",
+        "facebook": "https://www.facebook.com/CHAYANNE/",
+        "soundcloud": null
+      },
+      "country": "PR",
+      "genre_tags": [
+        "pop",
+        "ballad"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Christina Aguilera",
+      "slug": "christina-aguilera",
+      "profile_url": "https://www.sonymusiclatin.com/artists/christina-aguilera/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Liberation_Tour_%2845997616942%29_%28cropped%29.jpg/330px-Liberation_Tour_%2845997616942%29_%28cropped%29.jpg",
+      "image_local_path": "data/images/christina-aguilera.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/xtina",
+        "youtube": "https://www.youtube.com/channel/UCgBN6eQyZPnsApiL1QW44Hg",
+        "tiktok": "https://www.tiktok.com/@xtina",
+        "x": "https://twitter.com/xtina",
+        "spotify": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS",
+        "apple_music": "https://itunes.apple.com/us/artist/id259398",
+        "facebook": "https://www.facebook.com/christinaaguilera",
+        "soundcloud": "https://soundcloud.com/xoxtina"
+      },
+      "country": "US",
+      "genre_tags": [
+        "pop",
+        "latin-pop"
+      ],
+      "label_division": "RCA Records (Sony BMG)",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "DARUMAS",
+      "slug": "darumas",
+      "profile_url": "https://www.sonymusiclatin.com/artists/darumas/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5ebbfba3bd0862be2766507caec",
+      "image_local_path": "data/images/darumas.jpg",
+      "bio_excerpt": "Introducing DARUMAS, an extraordinary live musical trio composed of multi-talented musicians and songwriters spanning the diverse landscape of Latin rhythms and culture – Aldana, Ceci, and Vedala. This vibrant band promises a cultural revolution making major waves in the genre by uniting a beautiful",
+      "social_links": {
+        "instagram": "https://www.instagram.com/darumasband/",
+        "youtube": "https://www.youtube.com/@DARUMASVEVO",
+        "tiktok": "https://www.tiktok.com/@darumasband",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9",
+        "apple_music": "https://music.apple.com/ar/artist/1738658630",
+        "facebook": "https://www.facebook.com/profile.php?id=61552074323922",
+        "soundcloud": null
+      },
+      "country": "MULTI",
+      "genre_tags": [
+        "latin-funk",
+        "pop",
+        "r-and-b"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "group",
+      "members": [
+        {
+          "name": "Aldana",
+          "slug": "aldana-darumas"
+        },
+        {
+          "name": "Ceci",
+          "slug": "ceci-darumas"
+        },
+        {
+          "name": "Vedala",
+          "slug": "vedala-darumas"
+        }
+      ],
+      "status": "active",
+      "priority": "rising",
+      "notes": "Trio: Aldana (AR), Ceci (CU-US), Vedala (HT-CL). Debut album 2024."
+    },
+    {
+      "name": "DENNIS",
+      "slug": "dennis",
+      "profile_url": "https://www.sonymusiclatin.com/artists/dennis/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb8240d5b7cb894d3fbb8c31f0",
+      "image_local_path": "data/images/dennis.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/dennisdj/",
+        "youtube": "https://www.youtube.com/channel/UCrPMM16a2XymtrPJwFW4kAQ",
+        "tiktok": "https://www.tiktok.com/@dennisdjoficial",
+        "x": "https://twitter.com/hs16bm",
+        "spotify": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy",
+        "apple_music": "https://music.apple.com/au/artist/167013064",
+        "facebook": "https://www.facebook.com/DJ-Dennis-Entertainment-123950110998187/",
+        "soundcloud": null
+      },
+      "country": "BR",
+      "genre_tags": [
+        "funk-carioca",
+        "electronic"
+      ],
+      "label_division": "Sony Music Brasil",
+      "label_status": "sony-brasil",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high",
+      "notes": "Performs as DENNIS DJ. Funk carioca producer/DJ."
+    },
+    {
+      "name": "Djavan",
+      "slug": "djavan",
+      "profile_url": "https://www.sonymusiclatin.com/artists/djavan/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5ebe699e9c224d7602835111180",
+      "image_local_path": "data/images/djavan.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/djavanoficial/",
+        "youtube": "https://www.youtube.com/channel/UCQkUNXUhkm6KewHbDxK_g0g",
+        "tiktok": "https://www.tiktok.com/@djavan",
+        "x": "https://twitter.com/djavanoficial",
+        "spotify": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA",
+        "apple_music": "https://itunes.apple.com/us/artist/id10416",
+        "facebook": "https://www.facebook.com/Djavanoficial",
+        "soundcloud": null
+      },
+      "country": "BR",
+      "genre_tags": [
+        "mpb",
+        "samba",
+        "jazz-fusion"
+      ],
+      "label_division": "Sony Music Brasil (historical)",
+      "label_status": "unconfirmed",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "standard"
+    },
+    {
+      "name": "Emilia",
+      "slug": "emilia",
+      "profile_url": "https://www.sonymusiclatin.com/artists/emilia/",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305a03f55aaf243747e1d6403",
+      "image_local_path": "data/images/emilia.jpg",
+      "bio_excerpt": "Emilia is a young Argentine singer-songwriter, musician, dancer, and actress whose tireless pursuit of excellence in the arts has led her to become an exceptional figure in the entertainment industry. From her first release as a solo artist, Emilia is known worldwide with such hits as: “No Soy Yo” f",
+      "social_links": {
+        "instagram": "https://www.instagram.com/emiliamernes/",
+        "youtube": "https://www.youtube.com/channel/UC4osEqmcQL5d1UYJVft-klA",
+        "tiktok": "https://www.tiktok.com/@emiliamernes",
+        "x": "https://twitter.com/SoyEmiliamusica",
+        "spotify": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/tarlandemilia/",
+        "soundcloud": "https://soundcloud.com/emilia-mitiku"
+      },
+      "country": "AR",
+      "genre_tags": [
+        "urbano-pop",
+        "reggaeton"
+      ],
+      "label_division": "Sony Music Latin Argentina",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Filipe Ret",
+      "slug": "filipe-ret",
+      "profile_url": "https://www.sonymusiclatin.com/artists/filipe-ret/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb0eb25db573261498b72fb6f3",
+      "image_local_path": "data/images/filipe-ret.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/filiperet/",
+        "youtube": "https://www.youtube.com/channel/UC9vsg8Lpxf2R8CjaLrd-R1g",
+        "tiktok": "https://www.tiktok.com/@filiperet",
+        "x": "https://twitter.com/filiperet",
+        "spotify": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/FilipeRetOficial/",
+        "soundcloud": null
+      },
+      "country": "BR",
+      "genre_tags": [
+        "hip-hop",
+        "trap",
+        "rap"
+      ],
+      "label_division": "Sony Music Brasil",
+      "label_status": "sony-brasil",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Fito Páez",
+      "slug": "fito-paez",
+      "profile_url": "https://www.sonymusiclatin.com/artists/fito-paez/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb5822a9eab577a43cfa1ba9ca",
+      "image_local_path": "data/images/fito-paez.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/fitopaezmusica/",
+        "youtube": "https://www.youtube.com/channel/UCnlr4LDiHnZCazpfuCT1czg",
+        "tiktok": "https://www.tiktok.com/@fitopaezmusica",
+        "x": "https://twitter.com/fitopaezmusica",
+        "spotify": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/fitopaez",
+        "soundcloud": null
+      },
+      "country": "AR",
+      "genre_tags": [
+        "rock",
+        "rock-nacional",
+        "ballad"
+      ],
+      "label_division": "Sony Music Latin Argentina",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "standard"
+    },
+    {
+      "name": "Grupo Menos É Mais",
+      "slug": "grupo-menos-e-mais",
+      "profile_url": "https://www.sonymusiclatin.com/artists/grupo-menos-e-mais/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb3f2cb99077dcbee55e3d355a",
+      "image_local_path": "data/images/grupo-menos-e-mais.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/grupomenosemais/",
+        "youtube": "https://www.youtube.com/channel/UCmkSzYG4ykYKFE4Ow0030zw",
+        "tiktok": "https://www.tiktok.com/@grupomenosemais",
+        "x": "https://twitter.com/grupomenosemais",
+        "spotify": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi",
+        "apple_music": "https://music.apple.com/br/artist/1442094707",
+        "facebook": "https://www.facebook.com/menosemais",
+        "soundcloud": null
+      },
+      "country": "BR",
+      "genre_tags": [
+        "pagode",
+        "samba"
+      ],
+      "label_division": "Sony Music Brasil",
+      "label_status": "sony-brasil",
+      "entity_type": "group",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Gusttavo Lima",
+      "slug": "gusttavo-lima",
+      "profile_url": "https://www.sonymusiclatin.com/artists/gusttavo-lima/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb08cacf062848b7318679b1b4",
+      "image_local_path": "data/images/gusttavo-lima.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/gusttavolima/",
+        "youtube": "https://www.youtube.com/channel/UCXooz9whNJZBRTHi9AqdjPw",
+        "tiktok": "https://www.tiktok.com/@gusttavolima",
+        "x": "https://twitter.com/gusttavo_lima",
+        "spotify": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/gusttavolimaoficial",
+        "soundcloud": "https://soundcloud.com/gusttavo-lima-official"
+      },
+      "country": "BR",
+      "genre_tags": [
+        "sertanejo"
+      ],
+      "label_division": "Som Livre / Sony Brasil distribution",
+      "label_status": "unconfirmed",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Ha*Ash",
+      "slug": "ha-ash",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ha-ash/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ha%2AAsh_Grammys_2017.png/330px-Ha%2AAsh_Grammys_2017.png",
+      "image_local_path": "data/images/ha-ash.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/haashoficial/",
+        "youtube": "https://www.youtube.com/channel/UC6kb0evup3Kgbz0N067E9wA",
+        "tiktok": "https://www.tiktok.com/@haashoficial",
+        "x": "https://twitter.com/haashoficial",
+        "spotify": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/haashoficial",
+        "soundcloud": null
+      },
+      "country": "MX",
+      "genre_tags": [
+        "pop",
+        "latin-pop",
+        "ballad"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "duo",
+      "members": [
+        {
+          "name": "Hanna Nicole",
+          "slug": "hanna-nicole"
+        },
+        {
+          "name": "Ashley Grace",
+          "slug": "ashley-grace"
+        }
+      ],
+      "status": "active",
+      "priority": "high",
+      "aliases": [
+        "HA-ASH",
+        "HAASH"
+      ]
+    },
+    {
+      "name": "Jorge Drexler",
+      "slug": "jorge-drexler",
+      "profile_url": "https://www.sonymusiclatin.com/artists/jorge-drexler/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5ebc14083493601217d95797d73",
+      "image_local_path": "data/images/jorge-drexler.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/drexlerjorge/",
+        "youtube": "https://www.youtube.com/channel/UCh9gFyjZsmt_Fz3QXO_5fVA",
+        "tiktok": "https://www.tiktok.com/@jorgedrexler0",
+        "x": "https://twitter.com/drexlerjorge",
+        "spotify": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt",
+        "apple_music": "https://music.apple.com/gb/artist/16421943",
+        "facebook": "https://www.facebook.com/JorgeDrexlerOficial",
+        "soundcloud": "https://soundcloud.com/jorgedrexleroficial"
+      },
+      "country": "UY",
+      "genre_tags": [
+        "folk",
+        "songwriter",
+        "latin-alternative"
+      ],
+      "label_division": "Warner Music",
+      "label_status": "non-sony",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "standard"
+    },
+    {
+      "name": "Kany García",
+      "slug": "kany-garcia",
+      "profile_url": "https://www.sonymusiclatin.com/artists/kany-garcia/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kany_Garc%C3%ADa.jpg/330px-Kany_Garc%C3%ADa.jpg",
+      "image_local_path": "data/images/kany-garcia.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/kanygarcia/",
+        "youtube": "https://www.youtube.com/channel/UCc2ZilH94OFrGRaVKwh75tA",
+        "tiktok": "https://www.tiktok.com/@kanygarcia",
+        "x": "https://twitter.com/kanygarcia",
+        "spotify": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV",
+        "apple_music": "https://itunes.apple.com/us/artist/id251432197",
+        "facebook": "https://www.facebook.com/kanygarcia/",
+        "soundcloud": null
+      },
+      "country": "PR",
+      "genre_tags": [
+        "pop",
+        "songwriter",
+        "latin-alternative"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Kapo",
+      "slug": "kapo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/kapo/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/10f75e8c917bc28174f25073ae19d4c2/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/kapo.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/yosoytukapo",
+        "youtube": "https://www.youtube.com/channel/UCMuUGNq6D6FJXVss3yayfpQ",
+        "tiktok": "https://www.tiktok.com/@yosoytukapo",
+        "x": "https://twitter.com/yosoytukapo",
+        "spotify": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/kapooficial?mibextid=LQQJ4d",
+        "soundcloud": null
+      },
+      "country": "CO",
+      "genre_tags": [
+        "afrobeats",
+        "reggaeton",
+        "urbano"
+      ],
+      "label_division": "La Industria Inc.",
+      "label_status": "non-sony",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "rising",
+      "notes": "2024 hit 'Ohnana'. Distribution may flow through Sony partners."
+    },
+    {
+      "name": "Kenia OS",
+      "slug": "kenia-os",
+      "profile_url": "https://www.sonymusiclatin.com/artists/kenia-os/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb7893167475ec2afed1c7cc20",
+      "image_local_path": "data/images/kenia-os.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/keniaos/",
+        "youtube": "https://www.youtube.com/channel/UCSEY-xdBrV-J1zpLg9-mr6w",
+        "tiktok": "https://www.tiktok.com/@keniaos",
+        "x": "https://twitter.com/keniaos",
+        "spotify": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/La-Kenini-620585684988775",
+        "soundcloud": "https://soundcloud.com/keniaos"
+      },
+      "country": "MX",
+      "genre_tags": [
+        "pop",
+        "latin-pop"
+      ],
+      "label_division": "Sony Music Mexico",
+      "label_status": "sony-mexico",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Luan Santana",
+      "slug": "luan-santana",
+      "profile_url": "https://www.sonymusiclatin.com/artists/luan-santana/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb09882b1b7b33732abd60fc38",
+      "image_local_path": "data/images/luan-santana.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/luansantana/",
+        "youtube": "https://www.youtube.com/channel/UC6rwiIxv0w2fbmmr66wl1rA",
+        "tiktok": "https://www.tiktok.com/@luansantana",
+        "x": "https://twitter.com/luansantana",
+        "spotify": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r",
+        "apple_music": "https://music.apple.com/gb/artist/217174",
+        "facebook": "https://www.facebook.com/luansantana",
+        "soundcloud": null
+      },
+      "country": "BR",
+      "genre_tags": [
+        "sertanejo",
+        "pop"
+      ],
+      "label_division": "Sony Music Brasil",
+      "label_status": "sony-brasil",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Luck Ra",
+      "slug": "luck-ra",
+      "profile_url": "https://www.sonymusiclatin.com/artists/luck-ra/",
+      "image_url": "https://i.scdn.co/image/66bf46ec1bfc2c72b97986f84af1a69f07531329",
+      "image_local_path": "data/images/luck-ra.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/luckra/",
+        "youtube": "https://www.youtube.com/channel/UC9KvDJG-v_Pvceni6W2d1hg",
+        "tiktok": "https://www.tiktok.com/@luckra",
+        "x": "https://twitter.com/luckraok",
+        "spotify": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk",
+        "apple_music": "https://music.apple.com/gb/artist/72824",
+        "facebook": "https://www.facebook.com/LuckRaOficial/",
+        "soundcloud": "https://soundcloud.com/heunaevivalostrautrockrchestra"
+      },
+      "country": "AR",
+      "genre_tags": [
+        "cuarteto",
+        "urbano"
+      ],
+      "label_division": "Sony Music Latin Argentina",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "rising"
+    },
+    {
+      "name": "Luísa Sonza",
+      "slug": "luisa-sonza",
+      "profile_url": "https://www.sonymusiclatin.com/artists/luisa-sonza/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb3d765e372734cc9938527e98",
+      "image_local_path": "data/images/luisa-sonza.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/luisasonza/",
+        "youtube": "https://www.youtube.com/@LuisaSonza",
+        "tiktok": "https://www.tiktok.com/@luisasonza",
+        "x": "https://twitter.com/luisasonza",
+        "spotify": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d",
+        "apple_music": "https://music.apple.com/br/artist/1109477747",
+        "facebook": "https://www.facebook.com/LuisaSonza/",
+        "soundcloud": "https://soundcloud.com/luisasonza"
+      },
+      "country": "BR",
+      "genre_tags": [
+        "pop",
+        "electropop"
+      ],
+      "label_division": "Sony Music Brasil",
+      "label_status": "sony-brasil",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Marisa Monte",
+      "slug": "marisa-monte",
+      "profile_url": "https://www.sonymusiclatin.com/artists/marisa-monte/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5ebdf680c991c829899faf1283c",
+      "image_local_path": "data/images/marisa-monte.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/marisamonte/",
+        "youtube": "https://www.youtube.com/channel/UC4EZ1VRVao2-bByh-x8O6PQ",
+        "tiktok": "https://www.tiktok.com/@marisamonte",
+        "x": "https://twitter.com/marisamonte",
+        "spotify": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH",
+        "apple_music": "https://music.apple.com/au/artist/115410499",
+        "facebook": "https://www.facebook.com/marisamonteoficial",
+        "soundcloud": "https://soundcloud.com/marisamonte"
+      },
+      "country": "BR",
+      "genre_tags": [
+        "mpb",
+        "samba",
+        "bossa-nova"
+      ],
+      "label_division": "Sony Music Brasil (historical)",
+      "label_status": "unconfirmed",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "standard"
+    },
+    {
+      "name": "Mon Laferte",
+      "slug": "mon-laferte",
+      "profile_url": "https://www.sonymusiclatin.com/artists/mon-laferte/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5ebd4d9941b20bbf2bbe3714acc",
+      "image_local_path": "data/images/mon-laferte.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "http://www.instagram.com/monlaferte",
+        "youtube": "https://www.youtube.com/channel/UCn51E6eKnnLklWOcdFT3w5A",
+        "tiktok": "https://www.tiktok.com/@monlaferte",
+        "x": "http://www.twitter.com/monlaferte",
+        "spotify": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr",
+        "apple_music": "https://itunes.apple.com/cl/artist/id447436990",
+        "facebook": "http://www.facebook.com/monlaferte",
+        "soundcloud": "https://soundcloud.com/monlaferte"
+      },
+      "country": "CL",
+      "genre_tags": [
+        "pop",
+        "ranchera-fusion",
+        "latin-alternative"
+      ],
+      "label_division": "Universal Music",
+      "label_status": "non-sony",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Natalia Lafourcade",
+      "slug": "natalia-lafourcade",
+      "profile_url": "https://www.sonymusiclatin.com/artists/natalia-lafourcade/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/f5fbaaae3d6a033115868dc7058c5538/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/natalia-lafourcade.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/natalialafourcade/",
+        "youtube": "https://www.youtube.com/channel/UCKw8oP0rF37jTEq_3R8O5Mg",
+        "tiktok": "https://www.tiktok.com/@natalialafourcadeoficial",
+        "x": "http://twitter.com/lafourcade",
+        "spotify": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp",
+        "apple_music": "https://itunes.apple.com/artist/id14937569",
+        "facebook": "https://www.facebook.com/people/Natalia-Lafourcade-Oficial/100043833654240/",
+        "soundcloud": "https://soundcloud.com/natalialafourcade"
+      },
+      "country": "MX",
+      "genre_tags": [
+        "folk",
+        "songwriter",
+        "latin-alternative"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Nathy Peluso",
+      "slug": "nathy-peluso",
+      "profile_url": "https://www.sonymusiclatin.com/artists/nathy-peluso/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb075721c2893416cd8b851099",
+      "image_local_path": "data/images/nathy-peluso.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/nathypeluso/",
+        "youtube": "https://www.youtube.com/channel/UCTjZWgoZjy-rn7nAjdtIdyQ",
+        "tiktok": "https://www.tiktok.com/@nathypeluso",
+        "x": "https://twitter.com/nathypeluso",
+        "spotify": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN",
+        "apple_music": "https://music.apple.com/es/artist/1336405189",
+        "facebook": "https://www.facebook.com/nathy.peluso/",
+        "soundcloud": "https://soundcloud.com/nathy-peluso"
+      },
+      "country": "AR",
+      "genre_tags": [
+        "hip-hop",
+        "jazz",
+        "salsa",
+        "urbano"
+      ],
+      "label_division": "Sony Music Spain",
+      "label_status": "sony-spain",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Nicki Nicole",
+      "slug": "nicki-nicole",
+      "profile_url": "https://www.sonymusiclatin.com/artists/nicki-nicole/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/7b4261dc1d0a02c4437d8cd418bea481/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/nicki-nicole.jpg",
+      "bio_excerpt": "NICKI NICOLE is one of the Argentine artists with the most impact and recognition worldwide.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/nicki.nicole",
+        "youtube": "https://www.youtube.com/channel/UCEMoAW9Qk0HrZqLxV5BFhDw",
+        "tiktok": "https://www.tiktok.com/@nicki.nicole",
+        "x": "https://twitter.com/Nicki_Nicole19",
+        "spotify": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y",
+        "apple_music": "https://music.apple.com/de/artist/615815",
+        "facebook": "https://www.facebook.com/naikinai19",
+        "soundcloud": null
+      },
+      "country": "AR",
+      "genre_tags": [
+        "hip-hop",
+        "r-and-b",
+        "urbano"
+      ],
+      "label_division": "Sony Music Latin Argentina",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Prince Royce",
+      "slug": "prince-royce",
+      "profile_url": "https://www.sonymusiclatin.com/artists/prince-royce/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/34c4613ef715fdae5afec5b8da10485f/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/prince-royce.jpg",
+      "bio_excerpt": "En los últimos 7 años, el galardonado cantante y compositor multi-platino Prince Royce se ha convertido en una auténtica superestrella, con quince #1’s en la radio, 22 Premios Billboard de la Música Latina, 19 Premios lo Nuestro, 19 Premios Juventud, 6 Latin AMAs y 11 nominaciones al Latin GRAMMY®.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/princeroyce/",
+        "youtube": "https://www.youtube.com/channel/UCAMpOm4QAk15tLyjuBNtQyg",
+        "tiktok": "https://www.tiktok.com/@princeroyce",
+        "x": "https://twitter.com/princeroyce",
+        "spotify": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC",
+        "apple_music": "https://itunes.apple.com/artist/id333299061",
+        "facebook": "https://www.facebook.com/princeroyce",
+        "soundcloud": "https://soundcloud.com/princeroyce1"
+      },
+      "country": "US",
+      "genre_tags": [
+        "bachata",
+        "urbano",
+        "latin-pop"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Rauw Alejandro",
+      "slug": "rauw-alejandro",
+      "profile_url": "https://www.sonymusiclatin.com/artists/rauw-alejandro/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/0e7b2b93b91789a054bc3f08bb3df3a8/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/rauw-alejandro.jpg",
+      "bio_excerpt": "Latin GRAMMY® award winning and 4x GRAMMY® nominated Puerto Rican singer and songwriter Rauw Alejandro has been leading the new generation of Latin music artists since he appeared on the scene in 2016.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/rauwalejandro",
+        "youtube": "https://www.youtube.com/channel/UC_Av98lDjf5KvFib5elhpYg",
+        "tiktok": "https://www.tiktok.com/@rauwalejandro",
+        "x": "https://twitter.com/rauwalejandro",
+        "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq",
+        "apple_music": "https://music.apple.com/us/artist/1107186883",
+        "facebook": "https://www.facebook.com/rauwalejandro/",
+        "soundcloud": "https://soundcloud.com/rauwalejandro"
+      },
+      "country": "PR",
+      "genre_tags": [
+        "urbano",
+        "reggaeton",
+        "r-and-b"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Reik",
+      "slug": "reik",
+      "profile_url": "https://www.sonymusiclatin.com/artists/reik/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Reik.jpg/330px-Reik.jpg",
+      "image_local_path": "data/images/reik.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/reikmx",
+        "youtube": "https://www.youtube.com/@reik",
+        "tiktok": "https://www.tiktok.com/@reikmx",
+        "x": "https://twitter.com/reikmx",
+        "spotify": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2",
+        "apple_music": "https://music.apple.com/gb/artist/117471769",
+        "facebook": "https://www.facebook.com/Reik",
+        "soundcloud": null
+      },
+      "country": "MX",
+      "genre_tags": [
+        "pop",
+        "latin-pop",
+        "ballad"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "group",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Residente",
+      "slug": "residente",
+      "profile_url": "https://www.sonymusiclatin.com/artists/residente/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb5bda9ce5834fff3c8baa646f",
+      "image_local_path": "data/images/residente.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/residente/",
+        "youtube": "https://www.youtube.com/channel/UCzSz51ZH79cp5jvSkw_tJGA",
+        "tiktok": "https://www.tiktok.com/@residente",
+        "x": "https://twitter.com/residente",
+        "spotify": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS",
+        "apple_music": "https://music.apple.com/gb/artist/1188464870",
+        "facebook": "https://www.facebook.com/residente/",
+        "soundcloud": null
+      },
+      "country": "PR",
+      "genre_tags": [
+        "hip-hop",
+        "latin-alternative"
+      ],
+      "label_division": "Sony Music Latin (independent imprint)",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Ricky Martin",
+      "slug": "ricky-martin",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ricky-martin/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ricky_Martin_Golden_Globe_Awards_2018.jpg/330px-Ricky_Martin_Golden_Globe_Awards_2018.jpg",
+      "image_local_path": "data/images/ricky-martin.jpg",
+      "bio_excerpt": "Ricky Martin es la figura líder de la música latina de su generación – amado por los fans de todo el mundo por su comprensión instintiva del ritmo, su pasión por la interpretación y su compasión para dar. Con un historial de 95 discos de Platino y 40 discos de Oro, ha recibido muchos premios incluye",
+      "social_links": {
+        "instagram": "https://www.instagram.com/ricky_martin/",
+        "youtube": "https://www.youtube.com/channel/UCGkkG-VYVXenlhVIqjH-9oA",
+        "tiktok": "https://www.tiktok.com/@ricky__martin",
+        "x": "https://twitter.com/ricky_martin",
+        "spotify": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ",
+        "apple_music": "https://music.apple.com/us/artist/217142",
+        "facebook": "https://www.facebook.com/RickyMartinOfficialPage",
+        "soundcloud": "https://soundcloud.com/ricky-martin-official"
+      },
+      "country": "PR",
+      "genre_tags": [
+        "pop",
+        "latin-pop"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Roberto Carlos",
+      "slug": "roberto-carlos",
+      "profile_url": "https://www.sonymusiclatin.com/artists/roberto-carlos/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/LS3_1288_%2853332367864%29_%28cropped%29.jpg/330px-LS3_1288_%2853332367864%29_%28cropped%29.jpg",
+      "image_local_path": "data/images/roberto-carlos.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/robertocarlosoficial/",
+        "youtube": "https://www.youtube.com/channel/UCkgOVlkdnCiQ94trAJ0vxCw",
+        "tiktok": null,
+        "x": "https://twitter.com/robertocarlos",
+        "spotify": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65",
+        "apple_music": "https://music.apple.com/gb/artist/6487686",
+        "facebook": "https://www.facebook.com/RobertoCarlosOficial",
+        "soundcloud": null
+      },
+      "country": "BR",
+      "genre_tags": [
+        "mpb",
+        "romantico",
+        "ballad"
+      ],
+      "label_division": "Sony Music Brasil",
+      "label_status": "sony-brasil",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high",
+      "notes": "Sony Brasil's longest-tenured artist (since 1960s)."
+    },
+    {
+      "name": "Romeo Santos",
+      "slug": "romeo-santos",
+      "profile_url": "https://www.sonymusiclatin.com/artists/romeo-santos/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/0a20c1c5fb5cdd61052c915a325b3589/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/romeo-santos.jpg",
+      "bio_excerpt": "Conocido como “El Rey de la Bachata”, Romeo Santos es un ícono mundial que bate récords dentro de la industria de la música latina como cantante, compositor, intérprete, magnate, actor y productor. Con más de dos décadas de carrera como solista y productor jefe y compositor del legendario grupo Aven",
+      "social_links": {
+        "instagram": "https://www.instagram.com/romeosantos/",
+        "youtube": "https://www.youtube.com/channel/UCyxbZF7_PK4nLiexj0kkCNg",
+        "tiktok": "https://www.tiktok.com/@romeosantos",
+        "x": "https://twitter.com/RomeoSantosPage",
+        "spotify": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP",
+        "apple_music": "https://itunes.apple.com/artist/id434832774",
+        "facebook": "https://www.facebook.com/RomeoSantosOfficial",
+        "soundcloud": "https://soundcloud.com/romeo-santos"
+      },
+      "country": "US",
+      "genre_tags": [
+        "bachata",
+        "urbano"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Rosalía",
+      "slug": "rosalia",
+      "profile_url": "https://www.sonymusiclatin.com/artists/rosalia/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb9354faf80eb87961466edfbf",
+      "image_local_path": "data/images/rosalia.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/rosalia.vt/",
+        "youtube": "https://www.youtube.com/channel/UCQt9awGIFZeldFsATZNeJag",
+        "tiktok": "https://www.tiktok.com/@rosalia",
+        "x": "https://twitter.com/rosalia",
+        "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1",
+        "apple_music": "https://music.apple.com/fr/artist/313845115",
+        "facebook": "https://www.facebook.com/rosalia.vt/",
+        "soundcloud": "https://soundcloud.com/rosaliaofficial"
+      },
+      "country": "ES",
+      "genre_tags": [
+        "flamenco-pop",
+        "experimental",
+        "urbano"
+      ],
+      "label_division": "Columbia Records (Sony)",
+      "label_status": "sony-spain",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Shakira",
+      "slug": "shakira",
+      "profile_url": "https://www.sonymusiclatin.com/artists/shakira/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/69c569506a8ff6ab0edfecbd1adf94b0/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/shakira.jpg",
+      "bio_excerpt": "En el transcurso de su prolífica carrera, la cantante y compositora colombiana Shakira ha vendido más de 60 millones de discos a nivel mundial y ganado numerosos premios incluyendo dos GRAMMYs®, ocho Latin GRAMMY® y varios World Music Awards, American Music Awards y Premios Billboard, por nombrar so",
+      "social_links": {
+        "instagram": "https://www.instagram.com/shakira/",
+        "youtube": "https://www.youtube.com/channel/UCYLNGLIzMhRTi6ZOLjAPSmw",
+        "tiktok": "https://www.tiktok.com/@shakira",
+        "x": "http://twitter.com/shakira",
+        "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp",
+        "apple_music": "https://itunes.apple.com/artist/id889327",
+        "facebook": "http://www.facebook.com/shakira",
+        "soundcloud": "https://soundcloud.com/shakira"
+      },
+      "country": "CO",
+      "genre_tags": [
+        "pop",
+        "latin-pop",
+        "rock"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Thalía",
+      "slug": "thalia",
+      "profile_url": "https://www.sonymusiclatin.com/artists/thalia/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/e33972e57d491ed494ccd588f486c427/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/thalia.jpg",
+      "bio_excerpt": "Ella es “la reina del pop latino” , una de las artistas latinas más populares de las últimas dos décadas. Thalía ha tenido una trayectoria increíble y versátil, llena de éxitos y seguida por millones de fieles seguidores a lo largo de sus 20 años de carrera. Esta cantante/actriz/empresaria ganadora ",
+      "social_links": {
+        "instagram": "http://www.instagram.com/thalia",
+        "youtube": "https://www.youtube.com/channel/UCgyFSSvdNv3MC_atQPqM_XA",
+        "tiktok": "https://www.tiktok.com/@thalia",
+        "x": "http://www.twitter.com/thalia",
+        "spotify": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb",
+        "apple_music": "https://itunes.apple.com/mx/artist/id88612122",
+        "facebook": "http://www.facebook.com/thalia",
+        "soundcloud": null
+      },
+      "country": "MX",
+      "genre_tags": [
+        "pop",
+        "latin-pop"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Tiago Iorc",
+      "slug": "tiago-iorc",
+      "profile_url": "https://www.sonymusiclatin.com/artists/tiago-iorc/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb0a83cc413c067914df832490",
+      "image_local_path": "data/images/tiago-iorc.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/tiagoiorc/",
+        "youtube": "https://www.youtube.com/channel/UC_aoNApcsdzwaWaQQS2spvg",
+        "tiktok": "https://www.tiktok.com/@tiagoiorc",
+        "x": "https://twitter.com/tiagoiorc",
+        "spotify": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/iorcmusic",
+        "soundcloud": null
+      },
+      "country": "BR",
+      "genre_tags": [
+        "indie",
+        "songwriter",
+        "mpb"
+      ],
+      "label_division": "Sony Music Brasil",
+      "label_status": "sony-brasil",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "standard"
+    },
+    {
+      "name": "TINI",
+      "slug": "tini",
+      "profile_url": "https://www.sonymusiclatin.com/artists/tini/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/efb8ac71cf0c9358acbce2b8126bfa39/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/tini.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/tinistoessel/",
+        "youtube": "https://www.youtube.com/channel/UCJusEPcWIH9EyYSCqGP-1ew",
+        "tiktok": "https://www.tiktok.com/@tinistoessel",
+        "x": "https://twitter.com/TiniStoessel",
+        "spotify": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp",
+        "apple_music": "https://music.apple.com/gb/artist/1093346777",
+        "facebook": "https://www.facebook.com/TinitaStoesel/",
+        "soundcloud": null
+      },
+      "country": "AR",
+      "genre_tags": [
+        "pop",
+        "urbano-pop"
+      ],
+      "label_division": "Sony Music Latin Argentina",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high",
+      "aliases": [
+        "Tini",
+        "Tini Stoessel"
+      ]
+    },
+    {
+      "name": "Trueno",
+      "slug": "trueno",
+      "profile_url": "https://www.sonymusiclatin.com/artists/trueno/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb2315882f47bbd20b3b808232",
+      "image_local_path": "data/images/trueno.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/trueno/",
+        "youtube": "https://www.youtube.com/channel/UCR8xLrhLmZoMirYnjj4zEWg",
+        "tiktok": "https://www.tiktok.com/@trueno",
+        "x": "https://twitter.com/TruenoOficiaI",
+        "spotify": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz",
+        "apple_music": "https://music.apple.com/ar/artist/269919603",
+        "facebook": "https://www.facebook.com/TruenoOficiaI",
+        "soundcloud": null
+      },
+      "country": "AR",
+      "genre_tags": [
+        "hip-hop",
+        "rap",
+        "urbano"
+      ],
+      "label_division": "Sony Music Latin Argentina",
+      "label_status": "sony-latin",
+      "entity_type": "solo",
+      "status": "active",
+      "priority": "high"
+    },
+    {
+      "name": "Vicente Fernández",
+      "slug": "vicente-fernandez",
+      "profile_url": "https://www.sonymusiclatin.com/artists/vicente-fernandez/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb18d0ae87d123dae4de445c0f",
+      "image_local_path": "data/images/vicente-fernandez.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/_vicentefdez/",
+        "youtube": "https://www.youtube.com/channel/UCwPTC2n6D8asyi1G5uBZlpw",
+        "tiktok": "https://www.tiktok.com/@_vicentefdez",
+        "x": "https://twitter.com/_vicentefdez",
+        "spotify": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l",
+        "apple_music": "https://itunes.apple.com/mx/artist/id6742830",
+        "facebook": "https://www.facebook.com/VicenteFernandezOficial/",
+        "soundcloud": null
+      },
+      "country": "MX",
+      "genre_tags": [
+        "ranchera",
+        "mariachi"
+      ],
+      "label_division": "Sony Music Latin",
+      "label_status": "sony-latin",
+      "entity_type": "estate",
+      "status": "legacy_estate",
+      "deceased_date": "2021-12-12",
+      "priority": "catalog",
+      "notes": "Track posthumous releases & catalog momentum only. Engagement/velocity KPIs disabled."
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "news_date": "2026-04-05",
+  "source_snapshot": "2026-04-05",
+  "previous_snapshot": "2026-04-04",
+  "generated_by": "manual — sample editorial content for dashboard development",
+  "note": "Top 15 most newsworthy changes across the full 94-artist Sony Music Latin roster, scored per skill/references/news-scoring.md. Ties broken by artist reach tier, then recency.",
+  "scoring_version": "1.0",
+  "items": [
+    {
+      "priority": 1,
+      "score": 14.8,
+      "signal_type": "rapid_follower_surge",
+      "headline": "Shakira Adds 11.7 Million Followers in 24 Hours — Biggest Single-Day Surge on the Entire Roster",
+      "artist_name": "Shakira",
+      "artist_slug": "shakira",
+      "artist_tier": "mega",
+      "kpi_impact": [
+        { "kpi_id": 1, "kpi_name": "Total Social Reach",     "delta_absolute": 11679091, "delta_percent": 5.33,  "direction": "up" },
+        { "kpi_id": 2, "kpi_name": "Social Reach Velocity",  "current_value": 5.33,      "benchmark_tier": "Breakout" },
+        { "kpi_id": 6, "kpi_name": "Content Velocity",       "current_value": 16,        "benchmark_tier": "Hyperactive" },
+        { "kpi_id": 10,"kpi_name": "News & Press Mentions",  "current_value": 44,        "benchmark_tier": "Trending" }
+      ],
+      "summary": "Shakira gained 11.7 million followers across platforms in the past 24 hours — a 5.33% single-day surge that tops every artist on the Sony Music Latin roster and pushes her total reach to 230.8 million. The spike arrives alongside a jump to 16 weekly posts, 44 press articles in the last seven days, and 39.3 million Spotify monthly listeners, all while her last official release remains 242 days in the past. The data pattern — sustained audience growth, hyperactive content output, and press momentum building without a drop — is consistent with a pre-release campaign in late activation.",
+      "source": "Social platform aggregators; Spotify monthly listeners (direct fetch); press mention count via web search",
+      "data_confidence": "●●●●○",
+      "timestamp": "2026-04-05T06:12:00Z"
+    },
+    {
+      "priority": 2,
+      "score": 13.5,
+      "signal_type": "platform_silence_breaking",
+      "headline": "Ozuna Goes Hyperactive After 295-Day Release Drought, Leads All Roster Artists in Weekly Press Coverage",
+      "artist_name": "Ozuna",
+      "artist_slug": "ozuna",
+      "artist_tier": "mega",
+      "kpi_impact": [
+        { "kpi_id": 6,  "kpi_name": "Content Velocity",           "current_value": 18,       "delta_absolute": 3,        "benchmark_tier": "Hyperactive" },
+        { "kpi_id": 9,  "kpi_name": "Latest Release Recency",     "current_value": 295,      "benchmark_tier": "Dark" },
+        { "kpi_id": 10, "kpi_name": "News & Press Mentions",      "current_value": 50,       "benchmark_tier": "Trending" },
+        { "kpi_id": 4,  "kpi_name": "Spotify Monthly Listeners",  "current_value": 80802771, "delta_percent": 4.26, "benchmark_tier": "Global Star" }
+      ],
+      "summary": "Ozuna has not released music in 295 days — the longest release drought of any Mega-tier artist on the roster — yet he is simultaneously posting 18 times a week across platforms and generating 50 press mentions, more than any other Sony Music Latin artist this week. His Spotify monthly listeners have grown to 80.8 million (+4.26%), ranking him as a Global Star by streaming tier despite the content gap. The divergence between a Dark release status and a surging activity baseline is the clearest pre-announcement signal in this snapshot.",
+      "source": "Press mention count via web search; Spotify monthly listeners (direct fetch); social content tracking",
+      "data_confidence": "●●●●○",
+      "timestamp": "2026-04-05T06:18:00Z"
+    },
+    {
+      "priority": 3,
+      "score": 13.5,
+      "signal_type": "new_release",
+      "headline": "Becky G's New Release Drives 3.3M Follower Surge and 43.8M Spotify Listeners in Opening Week",
+      "artist_name": "Becky G",
+      "artist_slug": "becky-g",
+      "artist_tier": "mega",
+      "kpi_impact": [
+        { "kpi_id": 9, "kpi_name": "Latest Release Recency",    "current_value": 6,        "previous_value": 71,       "delta_absolute": -65,    "benchmark_tier": "Fresh" },
+        { "kpi_id": 1, "kpi_name": "Total Social Reach",        "delta_absolute": 3286969, "delta_percent": 5.17,      "benchmark_tier": "Mega" },
+        { "kpi_id": 4, "kpi_name": "Spotify Monthly Listeners", "current_value": 43754377, "delta_percent": 2.01,      "benchmark_tier": "Regional Power" },
+        { "kpi_id": 10,"kpi_name": "News & Press Mentions",     "current_value": 32,       "benchmark_tier": "Trending" }
+      ],
+      "summary": "Becky G dropped new material six days ago, ending a 71-day release gap, and the response across all tracked metrics is clear: total social reach is up 3.3 million in 24 hours (+5.17%), Spotify monthly listeners have climbed to 43.8 million, and 32 press articles have covered the release this week. She is posting 18 times per week — the highest content velocity of any artist on the roster — and her reach of 66.9 million places her solidly in Mega tier. The opening week trajectory has the new release on a trajectory to become one of her stronger commercial launches of the past two years.",
+      "source": "Spotify monthly listeners (direct fetch); press mention count via web search; social aggregators",
+      "data_confidence": "●●●●●",
+      "timestamp": "2026-04-05T06:25:00Z"
+    },
+    {
+      "priority": 4,
+      "score": 12.5,
+      "signal_type": "rapid_follower_surge",
+      "headline": "Nicky Jam Surges 7.5 Million Followers in 24 Hours — Largest Absolute Single-Day Gain After Shakira",
+      "artist_name": "Nicky Jam",
+      "artist_slug": "nicky-jam",
+      "artist_tier": "mega",
+      "kpi_impact": [
+        { "kpi_id": 1,  "kpi_name": "Total Social Reach",    "current_value": 165937999, "delta_absolute": 7479253, "delta_percent": 4.72, "benchmark_tier": "Mega" },
+        { "kpi_id": 2,  "kpi_name": "Social Reach Velocity", "current_value": 4.72,      "benchmark_tier": "Strong" },
+        { "kpi_id": 10, "kpi_name": "News & Press Mentions", "current_value": 42,        "benchmark_tier": "Trending" }
+      ],
+      "summary": "Nicky Jam added 7.5 million followers across platforms in 24 hours, a 4.72% surge that ranks second on the roster only to Shakira in absolute daily gain, pushing his combined reach to 165.9 million. The movement coincides with 42 press mentions this week — up from an average baseline — and arrives 136 days after his last official release, a period the KPI engine flags as Overdue. The spike is not explained by a visible drop, suggesting an external catalyst such as a media appearance, viral post, or unannounced collaboration is driving the discovery.",
+      "source": "Social aggregators; press mention count via web search",
+      "data_confidence": "●●●○○",
+      "timestamp": "2026-04-05T06:31:00Z"
+    },
+    {
+      "priority": 5,
+      "score": 12.0,
+      "signal_type": "declining_metrics",
+      "headline": "Ricky Martin's Spotify Listeners Fall 2.1 Million Despite 46-Article Press Week — A Rare Divergence",
+      "artist_name": "Ricky Martin",
+      "artist_slug": "ricky-martin",
+      "artist_tier": "mega",
+      "kpi_impact": [
+        { "kpi_id": 4,  "kpi_name": "Spotify Monthly Listeners", "current_value": 83444607, "delta_absolute": -2122053, "delta_percent": -2.48, "benchmark_tier": "Global Star" },
+        { "kpi_id": 10, "kpi_name": "News & Press Mentions",     "current_value": 46,        "delta_absolute": 5,        "benchmark_tier": "Trending" },
+        { "kpi_id": 3,  "kpi_name": "Engagement Rate",           "current_value": 0.49,      "benchmark_tier": "Low" },
+        { "kpi_id": 9,  "kpi_name": "Latest Release Recency",    "current_value": 93,        "benchmark_tier": "Aging" }
+      ],
+      "summary": "Ricky Martin is generating 46 press mentions this week — placing him third on the roster — while simultaneously losing 2.1 million Spotify monthly listeners (-2.48%), a rare press-versus-streaming divergence that warrants editorial attention. His engagement rate has fallen to 0.49%, the only Low-tier engagement reading among Mega-tier artists in this snapshot, and his last release is now 93 days old, crossing into the Aging flag. The press coverage appears to be driven by non-music activity, as the streaming and engagement metrics suggest audiences are not being converted into platform activity.",
+      "source": "Spotify monthly listeners (direct fetch); press mention count via web search; social aggregators",
+      "data_confidence": "●●●●○",
+      "timestamp": "2026-04-05T06:38:00Z"
+    },
+    {
+      "priority": 6,
+      "score": 11.7,
+      "signal_type": "new_release",
+      "headline": "Tini Drops First Music in 80 Days, Spotify Listeners Climb 7.93% in Release Week",
+      "artist_name": "Tini",
+      "artist_slug": "tini",
+      "artist_tier": "major",
+      "kpi_impact": [
+        { "kpi_id": 9, "kpi_name": "Latest Release Recency",    "current_value": 4,        "previous_value": 84,      "delta_absolute": -80,   "benchmark_tier": "Fresh" },
+        { "kpi_id": 1, "kpi_name": "Total Social Reach",        "delta_absolute": 1846258, "delta_percent": 5.84,     "benchmark_tier": "Major" },
+        { "kpi_id": 4, "kpi_name": "Spotify Monthly Listeners", "current_value": 15957584, "delta_percent": 7.93,     "benchmark_tier": "Strong" },
+        { "kpi_id": 10,"kpi_name": "News & Press Mentions",     "current_value": 24,       "benchmark_tier": "Trending" }
+      ],
+      "summary": "Tini released new music four days ago — her first drop after an 80-day absence — and the impact is visible across every tracked metric: total social reach is up 1.85 million (+5.84%), Spotify monthly listeners have risen to 16 million (+7.93% in release week), and 24 press articles have covered the debut, putting her in Trending territory. With a fully diversified platform presence and an engagement rate of 2.15% maintaining Good-tier standing, she enters the peak of the release window with strong momentum. This is the highest Spotify opening-week growth rate of any confirmed release in this snapshot.",
+      "source": "Spotify monthly listeners (direct fetch); press mention count via web search; social aggregators",
+      "data_confidence": "●●●●●",
+      "timestamp": "2026-04-05T06:44:00Z"
+    },
+    {
+      "priority": 7,
+      "score": 11.7,
+      "signal_type": "new_release",
+      "headline": "Gloria Estefan Drops Surprise Release Today — First New Music in 90 Days",
+      "artist_name": "Gloria Estefan",
+      "artist_slug": "gloria-estefan",
+      "artist_tier": "major",
+      "kpi_impact": [
+        { "kpi_id": 9, "kpi_name": "Latest Release Recency",    "current_value": 0,       "previous_value": 90,    "delta_absolute": -90,  "benchmark_tier": "Fresh" },
+        { "kpi_id": 4, "kpi_name": "Spotify Monthly Listeners", "current_value": 6373096, "delta_percent": 5.82,   "benchmark_tier": "Strong" },
+        { "kpi_id": 5, "kpi_name": "Spotify Listener Trend",    "current_value": 5.82,    "benchmark_tier": "Breakout" }
+      ],
+      "summary": "Gloria Estefan released new material today, ending a 90-day quiet period and registering a release recency of zero — the only artist in this snapshot with a same-day drop. Her Spotify monthly listeners have already ticked up to 6.4 million (+5.82%), flipping from a neutral trend to a Breakout classification on the listener momentum KPI. With an engagement rate of 3.38% (Good tier) and 42.5 million total followers, she retains one of the deepest-rooted fanbases of any artist on the roster, giving the release strong catalog-lift potential as existing fans resurface to stream.",
+      "source": "Spotify monthly listeners (direct fetch); release date confirmed via Spotify/Apple Music",
+      "data_confidence": "●●●●●",
+      "timestamp": "2026-04-05T07:02:00Z"
+    },
+    {
+      "priority": 8,
+      "score": 11.2,
+      "signal_type": "pr_event",
+      "headline": "Maluma Registers 48 Weekly Press Mentions — Second on Roster — While Reach Softens and Release Clock Ticks Past 162 Days",
+      "artist_name": "Maluma",
+      "artist_slug": "maluma",
+      "artist_tier": "mega",
+      "kpi_impact": [
+        { "kpi_id": 10, "kpi_name": "News & Press Mentions",     "current_value": 48,        "benchmark_tier": "Trending" },
+        { "kpi_id": 1,  "kpi_name": "Total Social Reach",        "delta_absolute": -2067412, "delta_percent": -1.39, "benchmark_tier": "Mega" },
+        { "kpi_id": 9,  "kpi_name": "Latest Release Recency",    "current_value": 162,       "benchmark_tier": "Overdue" },
+        { "kpi_id": 4,  "kpi_name": "Spotify Monthly Listeners", "current_value": 47323627,  "delta_percent": 1.47, "benchmark_tier": "Regional Power" }
+      ],
+      "summary": "Maluma is generating 48 press articles this week — second on the roster behind Ozuna — while his combined social reach has dipped 2.1 million (-1.39%) and his last release sits 162 days in the past, firmly in the Overdue zone. The press activity is not yet translating to platform engagement: his content velocity is a steady 7 posts per week (Active tier), and Spotify listeners are holding at 47.3 million with only modest 1.47% growth. A Mega-tier artist showing this level of media presence without a corresponding release or audience metric uptick is a pattern that often precedes a major announcement within the next two to four weeks.",
+      "source": "Press mention count via web search; Spotify monthly listeners (direct fetch); social aggregators",
+      "data_confidence": "●●●●○",
+      "timestamp": "2026-04-05T07:09:00Z"
+    },
+    {
+      "priority": 9,
+      "score": 11.0,
+      "signal_type": "rapid_follower_surge",
+      "headline": "Young Miko Posts Best Engagement Rate in Major Tier as Follower Count Surges 5.5%",
+      "artist_name": "Young Miko",
+      "artist_slug": "young-miko",
+      "artist_tier": "major",
+      "kpi_impact": [
+        { "kpi_id": 1, "kpi_name": "Total Social Reach",   "current_value": 39510225, "delta_absolute": 2059775, "delta_percent": 5.5,  "benchmark_tier": "Major" },
+        { "kpi_id": 3, "kpi_name": "Engagement Rate",      "current_value": 4.11,     "benchmark_tier": "Excellent" },
+        { "kpi_id": 10,"kpi_name": "News & Press Mentions","current_value": 19,       "benchmark_tier": "Visible" }
+      ],
+      "summary": "Young Miko gained 2.06 million followers in the past 24 hours (+5.5%), placing her in Breakout velocity tier, while sustaining an engagement rate of 4.11% — the highest reading of any Major-tier artist on the roster and the only Excellent-tier engagement score at her reach level. The combination of high absolute growth and high quality audience interaction signals that her fanbase is not only expanding but deeply active. With 19 press mentions this week and a release that is now 107 days old and entering Aging territory, the data suggests momentum is running ahead of content output.",
+      "source": "Social aggregators; press mention count via web search",
+      "data_confidence": "●●●●○",
+      "timestamp": "2026-04-05T07:15:00Z"
+    },
+    {
+      "priority": 10,
+      "score": 10.8,
+      "signal_type": "new_release",
+      "headline": "Enrique Iglesias Activates World's Largest Latin Catalog: 71.2M Spotify Listeners Respond to First Release in 71 Days",
+      "artist_name": "Enrique Iglesias",
+      "artist_slug": "enrique-iglesias",
+      "artist_tier": "mega",
+      "kpi_impact": [
+        { "kpi_id": 9, "kpi_name": "Latest Release Recency",    "current_value": 5,        "previous_value": 76,      "delta_absolute": -71,  "benchmark_tier": "Fresh" },
+        { "kpi_id": 4, "kpi_name": "Spotify Monthly Listeners", "current_value": 71240084, "delta_percent": 2.0,      "benchmark_tier": "Global Star" },
+        { "kpi_id": 6, "kpi_name": "Content Velocity",          "current_value": 16,       "benchmark_tier": "Hyperactive" }
+      ],
+      "summary": "Enrique Iglesias dropped new material five days ago, ending a 71-day release gap, and his Spotify monthly listeners have responded by reaching 71.2 million (+2.0%) — the highest absolute streaming audience of any artist on the Sony Music Latin roster and a Global Star-tier designation. He is posting 16 times per week (Hyperactive tier), suggesting a full rollout is underway. The counterpoint: total social reach has dipped 9.3 million (-2.94%) in the same period, a decline that the pipeline flags as Declining velocity and that suggests the release has not yet translated into the follower acquisition that his streaming response would imply.",
+      "source": "Spotify monthly listeners (direct fetch); social aggregators",
+      "data_confidence": "●●●●●",
+      "timestamp": "2026-04-05T07:22:00Z"
+    },
+    {
+      "priority": 11,
+      "score": 10.8,
+      "signal_type": "new_release",
+      "headline": "Camilo Releases Yesterday — Can New Music Reverse a 826K Spotify Listener Slide?",
+      "artist_name": "Camilo",
+      "artist_slug": "camilo",
+      "artist_tier": "major",
+      "kpi_impact": [
+        { "kpi_id": 9, "kpi_name": "Latest Release Recency",    "current_value": 1,        "previous_value": 74,      "delta_absolute": -73,    "benchmark_tier": "Fresh" },
+        { "kpi_id": 4, "kpi_name": "Spotify Monthly Listeners", "current_value": 20039896, "delta_absolute": -826301, "delta_percent": -3.96,   "benchmark_tier": "Regional Power" },
+        { "kpi_id": 3, "kpi_name": "Engagement Rate",           "current_value": 2.61,     "delta_percent": 25.48,                              "benchmark_tier": "Good" }
+      ],
+      "summary": "Camilo released new music yesterday — his first in 74 days — at a moment when his Spotify monthly listeners had been sliding: the snapshot registers a 826K listener loss (-3.96%) before today's release data has fully propagated. The early audience signal is cautiously positive: his engagement rate has jumped 25.5% to 2.61% and his content velocity has risen to 12 posts per week (Active tier), indicating fans are responding. With 49.2 million total social followers and 23 press mentions this week, the release enters a receptive but not yet fully mobilised audience window — the next 48-hour streaming data will be decisive.",
+      "source": "Spotify monthly listeners (direct fetch); social aggregators; press mention count via web search",
+      "data_confidence": "●●●●●",
+      "timestamp": "2026-04-05T07:29:00Z"
+    },
+    {
+      "priority": 12,
+      "score": 10.2,
+      "signal_type": "rapid_follower_surge",
+      "headline": "Emilia's Argentine Pop Surge: 1.6M New Followers in 24 Hours, Spotify Momentum Accelerates",
+      "artist_name": "Emilia",
+      "artist_slug": "emilia",
+      "artist_tier": "major",
+      "kpi_impact": [
+        { "kpi_id": 1, "kpi_name": "Total Social Reach",        "current_value": 31455345, "delta_absolute": 1634199, "delta_percent": 5.48, "benchmark_tier": "Major" },
+        { "kpi_id": 4, "kpi_name": "Spotify Monthly Listeners", "current_value": 8127293,  "delta_percent": 4.18,                           "benchmark_tier": "Strong" },
+        { "kpi_id": 9, "kpi_name": "Latest Release Recency",    "current_value": 25,       "benchmark_tier": "Recent" }
+      ],
+      "summary": "Emilia added 1.63 million followers in the past 24 hours (+5.48%), sustaining the breakout velocity that has made her the fastest-growing Major-tier artist in this snapshot's Argentine segment, as her Spotify monthly listeners also climbed to 8.1 million (+4.18%). Her release from 25 days ago is still in the Recent window, and her engagement rate has improved to 1.31% — Average tier but trending upward. With 20 press mentions keeping her Visible across the regional music press and a diversified platform presence at 0.86 diversity score, she is the clearest example on the current roster of a release-cycle tail wind sustaining momentum beyond the first two weeks.",
+      "source": "Social aggregators; Spotify monthly listeners (direct fetch)",
+      "data_confidence": "●●●●○",
+      "timestamp": "2026-04-05T07:36:00Z"
+    },
+    {
+      "priority": 13,
+      "score": 10.2,
+      "signal_type": "new_release",
+      "headline": "Prince Royce Registers Breakout Velocity on Bachata Release, Engagement Rate Climbs 19%",
+      "artist_name": "Prince Royce",
+      "artist_slug": "prince-royce",
+      "artist_tier": "major",
+      "kpi_impact": [
+        { "kpi_id": 9, "kpi_name": "Latest Release Recency", "current_value": 6,       "previous_value": 40,    "delta_absolute": -34,  "benchmark_tier": "Fresh" },
+        { "kpi_id": 1, "kpi_name": "Total Social Reach",     "delta_absolute": 803022, "delta_percent": 5.39,                          "benchmark_tier": "Major" },
+        { "kpi_id": 3, "kpi_name": "Engagement Rate",        "current_value": 3.37,    "delta_percent": 19.08,                         "benchmark_tier": "Good" }
+      ],
+      "summary": "Prince Royce dropped new material six days ago, his first since 40 days prior, and the response is measurable: total social reach is up 803K (+5.39%), placing him in Breakout velocity tier, while his engagement rate has risen 19% to 3.37%, nearing the Excellent threshold. His video view momentum has climbed to an average 4.1 million views across recent YouTube and TikTok clips (+10.65%), and he is posting 10 times per week. The caveat: Spotify monthly listeners dipped slightly (-1.46%) in the same window, suggesting the core streaming audience has not yet been fully converted by the social activity — typical in the first week of a bachata release before radio pickup.",
+      "source": "Spotify monthly listeners (direct fetch); social aggregators",
+      "data_confidence": "●●●●○",
+      "timestamp": "2026-04-05T07:43:00Z"
+    },
+    {
+      "priority": 14,
+      "score": 9.2,
+      "signal_type": "new_release",
+      "headline": "iLe Drops New Music, Triggers Roster-High 6.0% Velocity Spike Among Rising-Tier Artists",
+      "artist_name": "iLe",
+      "artist_slug": "ile",
+      "artist_tier": "rising",
+      "kpi_impact": [
+        { "kpi_id": 9, "kpi_name": "Latest Release Recency", "current_value": 4,       "previous_value": 60,    "delta_absolute": -56,  "benchmark_tier": "Fresh" },
+        { "kpi_id": 1, "kpi_name": "Total Social Reach",     "current_value": 2664863, "delta_absolute": 150842, "delta_percent": 6.0,  "benchmark_tier": "Rising" },
+        { "kpi_id": 2, "kpi_name": "Social Reach Velocity",  "current_value": 6.0,    "benchmark_tier": "Breakout" }
+      ],
+      "summary": "iLe, the Latin Grammy–winning former Calle 13 vocalist, released new material four days ago after a 60-day hiatus, and her social reach has grown 6.0% in the past 24 hours — the highest velocity percentage of any Rising-tier artist in the snapshot and above the Breakout threshold. With 1.82 million Spotify monthly listeners and a Good-tier engagement rate of 2.56%, her audience is smaller than the label's major acts but notably engaged for her genre. The release ends a quiet period that had pushed her content velocity to zero — this snapshot captures her transition from Silent back to Moderate (3 posts per week), a pattern that typically precedes a broader promotional cycle.",
+      "source": "Spotify monthly listeners (direct fetch); social aggregators",
+      "data_confidence": "●●●●○",
+      "timestamp": "2026-04-05T07:50:00Z"
+    },
+    {
+      "priority": 15,
+      "score": 8.5,
+      "signal_type": "platform_silence",
+      "headline": "Kany García Has Not Released Music in 292 Days — Yet Her Audience Engagement Outperforms Artists Half Her Silence Window",
+      "artist_name": "Kany García",
+      "artist_slug": "kany-garcia",
+      "artist_tier": "rising",
+      "kpi_impact": [
+        { "kpi_id": 9, "kpi_name": "Latest Release Recency",    "current_value": 292,    "benchmark_tier": "Dark" },
+        { "kpi_id": 3, "kpi_name": "Engagement Rate",           "current_value": 6.23,   "benchmark_tier": "Excellent" },
+        { "kpi_id": 4, "kpi_name": "Spotify Monthly Listeners", "current_value": 5114544, "delta_percent": -4.52, "benchmark_tier": "Strong" },
+        { "kpi_id": 5, "kpi_name": "Spotify Listener Trend",    "current_value": -4.52,  "benchmark_tier": "Declining" }
+      ],
+      "summary": "Kany García has not released music in 292 days — a Dark classification that flags her directly to A&R — and her Spotify monthly listeners are declining at -4.52% (5.1 million, Declining trend). The counterintuitive data point: her audience engagement rate remains at 6.23%, an Excellent-tier reading that is the highest of any artist with a Dark release status on the current roster and rivals engagement scores from artists actively in release windows. The pattern suggests a deeply loyal core audience that continues to engage with catalog content despite the absence of new material, but the streaming decline indicates passive listeners are already migrating. A release in the next 30 days would arrive to an engaged but shrinking audience base.",
+      "source": "Spotify monthly listeners (direct fetch); social aggregators; press mention count via web search",
+      "data_confidence": "●●●●○",
+      "timestamp": "2026-04-05T07:57:00Z"
+    }
+  ]
+}

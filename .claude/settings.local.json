@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import json; r = json.load\\(open\\('/Users/praveer/sme_artistTracker/data/roster.json'\\)\\); print\\('Total artists:', len\\(r\\) if isinstance\\(r, list\\) else len\\(r.get\\('artists', []\\)\\)\\); print\\('Type:', type\\(r\\).__name__\\); print\\('Keys:', list\\(r.keys\\(\\)\\)[:5] if isinstance\\(r, dict\\) else 'list'\\)\")",
+      "Bash(python3 -c ' *)",
+      "Bash(python3)",
+      "Bash(.venv/bin/python scripts/build_roster.py --no-enrich)",
+      "Bash(python3 -c \"import json; d = json.load\\(open\\('data/snapshots/2026-04-30-kpis.json'\\)\\); a = next\\(x for x in d['artists'] if x['artist_slug']=='shakira'\\); print\\('country:', a.get\\('country'\\), '  label_status:', a.get\\('label_status'\\), '  status:', a.get\\('status'\\)\\)\")",
+      "Bash(.venv/bin/python scripts/compute_kpis.py --snapshot data/snapshots/2026-04-30.json --roster data/roster.json --output data/snapshots/2026-04-30-kpis.json)"
+    ]
+  }
+}

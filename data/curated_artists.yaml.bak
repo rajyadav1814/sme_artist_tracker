@@ -1,0 +1,518 @@
+# Sony Music Entertainment — Artist Tracker
+# ==========================================
+# Canonical curated list of artists tracked by the daily pipeline.
+# This file is the authoritative source: scripts/build_roster.py reads it
+# and produces data/roster.json, which the pipeline + frontend consume.
+#
+# To add an artist:     append a block, run `npm run pipeline`, commit.
+# To remove an artist:  delete the block (or set status: archived to keep
+#                       historical snapshots/news intact).
+# To update an artist:  edit fields, commit. The pipeline picks it up on
+#                       the next run.
+#
+# Field reference: see skill/references/curated-artists.md
+#
+# IMPORTANT — slug stability:
+#   The `slug` field is the immutable key used across data/snapshots/,
+#   data/images/, and frontend routing. NEVER change a slug for an
+#   existing artist; rename the display `name` instead. If you must
+#   change a slug, also rename historical files in data/snapshots/
+#   and data/images/.
+
+version: "1.0"
+updated: "2026-04-29"
+maintainer: "praveer@chromadata.com"
+source: "Customer-provided curated list, 2026-04-29"
+
+# ── Field allowed values ──────────────────────────────────────────────
+# label_status:  sony-latin | sony-brasil | sony-spain | sony-mexico | non-sony | unconfirmed
+# entity_type:   solo | duo | group | estate
+# status:        active | hiatus | legacy_estate | archived
+# priority:      high | standard | rising | catalog
+
+artists:
+
+  - name: "Alejandro Sanz"
+    slug: "alejandro-sanz"
+    country: "ES"
+    genre_tags: [pop, flamenco-pop, ballad]
+    label_division: "Universal Music Spain"
+    label_status: "non-sony"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Beéle"
+    slug: "beele"
+    country: "CO"
+    genre_tags: [reggaeton, afrobeats, urbano]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "C. Tangana"
+    slug: "c-tangana"
+    country: "ES"
+    genre_tags: [hip-hop, alt-flamenco, urbano]
+    label_division: "Sony Music Spain"
+    label_status: "sony-spain"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "CA7RIEL & Paco Amoroso"
+    slug: "ca7riel-paco-amoroso"
+    country: "AR"
+    genre_tags: [urbano, rap, alternative]
+    label_division: "Sony Music Latin Argentina"
+    label_status: "sony-latin"
+    entity_type: "duo"
+    members:
+      - { name: "CA7RIEL",      slug: "ca7riel" }
+      - { name: "Paco Amoroso", slug: "paco-amoroso" }
+    status: "active"
+    priority: "high"
+    notes: "Viral via NPR Tiny Desk 2024."
+
+  - name: "Caetano Veloso"
+    slug: "caetano-veloso"
+    country: "BR"
+    genre_tags: [mpb, tropicalia, samba]
+    label_division: "Sony Music Brasil (historical)"
+    label_status: "unconfirmed"
+    entity_type: "solo"
+    status: "active"
+    priority: "standard"
+    notes: "Current label affiliation unconfirmed; track via public profiles."
+
+  - name: "Camila"
+    slug: "camila"
+    country: "MX"
+    genre_tags: [pop-rock, ballad]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "group"
+    members:
+      - { name: "Mario Domm",    slug: "mario-domm" }
+      - { name: "Pablo Hurtado", slug: "pablo-hurtado" }
+      - { name: "Samo",          slug: "samo" }
+    status: "active"
+    priority: "high"
+    notes: "Original trio reunited 2024; 'Regresa' album March 2024."
+
+  - name: "Carlos Santana"
+    slug: "carlos-santana"
+    country: "MX"
+    genre_tags: [rock, latin-rock, blues-rock]
+    label_division: "BMG / Concord"
+    label_status: "non-sony"
+    entity_type: "solo"
+    status: "active"
+    priority: "standard"
+
+  - name: "Carlos Vives"
+    slug: "carlos-vives"
+    country: "CO"
+    genre_tags: [vallenato, pop, cumbia]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Charly García"
+    slug: "charly-garcia"
+    country: "AR"
+    genre_tags: [rock, rock-nacional]
+    label_division: "Sony Music Latin Argentina"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "standard"
+
+  - name: "Chayanne"
+    slug: "chayanne"
+    country: "PR"
+    genre_tags: [pop, ballad]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Christina Aguilera"
+    slug: "christina-aguilera"
+    country: "US"
+    genre_tags: [pop, latin-pop]
+    label_division: "RCA Records (Sony BMG)"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "DARUMAS"
+    slug: "darumas"
+    country: "MULTI"   # AR / CU-US / HT-CL — see members
+    genre_tags: [latin-funk, pop, r-and-b]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "group"
+    members:
+      - { name: "Aldana", slug: "aldana-darumas" }
+      - { name: "Ceci",   slug: "ceci-darumas"   }
+      - { name: "Vedala", slug: "vedala-darumas" }
+    status: "active"
+    priority: "rising"
+    notes: "Trio: Aldana (AR), Ceci (CU-US), Vedala (HT-CL). Debut album 2024."
+
+  - name: "DENNIS"
+    slug: "dennis"
+    country: "BR"
+    genre_tags: [funk-carioca, electronic]
+    label_division: "Sony Music Brasil"
+    label_status: "sony-brasil"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+    notes: "Performs as DENNIS DJ. Funk carioca producer/DJ."
+
+  - name: "Djavan"
+    slug: "djavan"
+    country: "BR"
+    genre_tags: [mpb, samba, jazz-fusion]
+    label_division: "Sony Music Brasil (historical)"
+    label_status: "unconfirmed"
+    entity_type: "solo"
+    status: "active"
+    priority: "standard"
+
+  - name: "Emilia"
+    slug: "emilia"
+    country: "AR"
+    genre_tags: [urbano-pop, reggaeton]
+    label_division: "Sony Music Latin Argentina"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Filipe Ret"
+    slug: "filipe-ret"
+    country: "BR"
+    genre_tags: [hip-hop, trap, rap]
+    label_division: "Sony Music Brasil"
+    label_status: "sony-brasil"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Fito Páez"
+    slug: "fito-paez"
+    country: "AR"
+    genre_tags: [rock, rock-nacional, ballad]
+    label_division: "Sony Music Latin Argentina"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "standard"
+
+  - name: "Grupo Menos É Mais"
+    slug: "grupo-menos-e-mais"
+    country: "BR"
+    genre_tags: [pagode, samba]
+    label_division: "Sony Music Brasil"
+    label_status: "sony-brasil"
+    entity_type: "group"
+    status: "active"
+    priority: "high"
+
+  - name: "Gusttavo Lima"
+    slug: "gusttavo-lima"
+    country: "BR"
+    genre_tags: [sertanejo]
+    label_division: "Som Livre / Sony Brasil distribution"
+    label_status: "unconfirmed"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Ha*Ash"
+    slug: "ha-ash"
+    aliases: ["HA-ASH", "HAASH"]
+    country: "MX"   # Members: US-born, raised in MX
+    genre_tags: [pop, latin-pop, ballad]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "duo"
+    members:
+      - { name: "Hanna Nicole", slug: "hanna-nicole" }
+      - { name: "Ashley Grace", slug: "ashley-grace" }
+    status: "active"
+    priority: "high"
+
+  - name: "Jorge Drexler"
+    slug: "jorge-drexler"
+    country: "UY"
+    genre_tags: [folk, songwriter, latin-alternative]
+    label_division: "Warner Music"
+    label_status: "non-sony"
+    entity_type: "solo"
+    status: "active"
+    priority: "standard"
+
+  - name: "Kany García"
+    slug: "kany-garcia"
+    country: "PR"
+    genre_tags: [pop, songwriter, latin-alternative]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Kapo"
+    slug: "kapo"
+    country: "CO"
+    genre_tags: [afrobeats, reggaeton, urbano]
+    label_division: "La Industria Inc."
+    label_status: "non-sony"
+    entity_type: "solo"
+    status: "active"
+    priority: "rising"
+    notes: "2024 hit 'Ohnana'. Distribution may flow through Sony partners."
+
+  - name: "Kenia OS"
+    slug: "kenia-os"
+    country: "MX"
+    genre_tags: [pop, latin-pop]
+    label_division: "Sony Music Mexico"
+    label_status: "sony-mexico"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Luan Santana"
+    slug: "luan-santana"
+    country: "BR"
+    genre_tags: [sertanejo, pop]
+    label_division: "Sony Music Brasil"
+    label_status: "sony-brasil"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Luck Ra"
+    slug: "luck-ra"
+    country: "AR"
+    genre_tags: [cuarteto, urbano]
+    label_division: "Sony Music Latin Argentina"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "rising"
+
+  - name: "Luísa Sonza"
+    slug: "luisa-sonza"
+    country: "BR"
+    genre_tags: [pop, electropop]
+    label_division: "Sony Music Brasil"
+    label_status: "sony-brasil"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Marisa Monte"
+    slug: "marisa-monte"
+    country: "BR"
+    genre_tags: [mpb, samba, bossa-nova]
+    label_division: "Sony Music Brasil (historical)"
+    label_status: "unconfirmed"
+    entity_type: "solo"
+    status: "active"
+    priority: "standard"
+
+  - name: "Mon Laferte"
+    slug: "mon-laferte"
+    country: "CL"
+    genre_tags: [pop, ranchera-fusion, latin-alternative]
+    label_division: "Universal Music"
+    label_status: "non-sony"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Natalia Lafourcade"
+    slug: "natalia-lafourcade"
+    country: "MX"
+    genre_tags: [folk, songwriter, latin-alternative]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Nathy Peluso"
+    slug: "nathy-peluso"
+    country: "AR"   # Argentine, based in Spain
+    genre_tags: [hip-hop, jazz, salsa, urbano]
+    label_division: "Sony Music Spain"
+    label_status: "sony-spain"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Nicki Nicole"
+    slug: "nicki-nicole"
+    country: "AR"
+    genre_tags: [hip-hop, r-and-b, urbano]
+    label_division: "Sony Music Latin Argentina"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Prince Royce"
+    slug: "prince-royce"
+    country: "US"   # US-born, Dominican heritage
+    genre_tags: [bachata, urbano, latin-pop]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Rauw Alejandro"
+    slug: "rauw-alejandro"
+    country: "PR"
+    genre_tags: [urbano, reggaeton, r-and-b]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Reik"
+    slug: "reik"
+    country: "MX"
+    genre_tags: [pop, latin-pop, ballad]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "group"
+    status: "active"
+    priority: "high"
+
+  - name: "Residente"
+    slug: "residente"
+    country: "PR"
+    genre_tags: [hip-hop, latin-alternative]
+    label_division: "Sony Music Latin (independent imprint)"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Ricky Martin"
+    slug: "ricky-martin"
+    country: "PR"
+    genre_tags: [pop, latin-pop]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Roberto Carlos"
+    slug: "roberto-carlos"
+    country: "BR"
+    genre_tags: [mpb, romantico, ballad]
+    label_division: "Sony Music Brasil"
+    label_status: "sony-brasil"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+    notes: "Sony Brasil's longest-tenured artist (since 1960s)."
+
+  - name: "Romeo Santos"
+    slug: "romeo-santos"
+    country: "US"   # US-born, Dominican heritage
+    genre_tags: [bachata, urbano]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Rosalía"
+    slug: "rosalia"
+    country: "ES"
+    genre_tags: [flamenco-pop, experimental, urbano]
+    label_division: "Columbia Records (Sony)"
+    label_status: "sony-spain"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Shakira"
+    slug: "shakira"
+    country: "CO"
+    genre_tags: [pop, latin-pop, rock]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Thalía"
+    slug: "thalia"
+    country: "MX"
+    genre_tags: [pop, latin-pop]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Tiago Iorc"
+    slug: "tiago-iorc"
+    country: "BR"
+    genre_tags: [indie, songwriter, mpb]
+    label_division: "Sony Music Brasil"
+    label_status: "sony-brasil"
+    entity_type: "solo"
+    status: "active"
+    priority: "standard"
+
+  - name: "TINI"
+    slug: "tini"
+    aliases: ["Tini", "Tini Stoessel"]
+    country: "AR"
+    genre_tags: [pop, urbano-pop]
+    label_division: "Sony Music Latin Argentina"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Trueno"
+    slug: "trueno"
+    country: "AR"
+    genre_tags: [hip-hop, rap, urbano]
+    label_division: "Sony Music Latin Argentina"
+    label_status: "sony-latin"
+    entity_type: "solo"
+    status: "active"
+    priority: "high"
+
+  - name: "Vicente Fernández"
+    slug: "vicente-fernandez"
+    country: "MX"
+    genre_tags: [ranchera, mariachi]
+    label_division: "Sony Music Latin"
+    label_status: "sony-latin"
+    entity_type: "estate"
+    status: "legacy_estate"
+    deceased_date: "2021-12-12"
+    priority: "catalog"
+    notes: "Track posthumous releases & catalog momentum only. Engagement/velocity KPIs disabled."

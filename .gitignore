@@ -1,0 +1,49 @@
+# Node.js
+node_modules
+/dist
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
+
+# Python
+*.pyc
+__pycache__
+*.pyo
+*.pyd
+.Python
+env
+venv
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+.pytest_cache
+htmlcov/
+.mypy_cache/
+.dmypy.json
+celerybeat-schedule
+
+# Generated data
+data/snapshots/*
+!data/snapshots/.gitkeep
+data/news/*
+!data/news/.gitkeep
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+
+# OS and IDE
+.DS_Store
+.vscode/
+.idea/
+```

@@ -1,0 +1,257 @@
+{
+  "news_date": "2026-07-09",
+  "source_snapshot": "/Users/praveer/sme_artistTracker/data/snapshots/2026-07-09-kpis.json",
+  "total_signals_detected": 49,
+  "items": [
+    {
+      "priority": 1,
+      "score": 9.0,
+      "signal_type": "new_release",
+      "headline": "Shakira drops \"Dai Dai - Single\"",
+      "artist_name": "Shakira",
+      "artist_slug": "shakira",
+      "artist_tier": "mega",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/69c569506a8ff6ab0edfecbd1adf94b0/1000x1000-000000-80-0-0.jpg",
+      "kpi_impact": [
+        {
+          "kpi_id": 9,
+          "kpi_name": "Latest Release Recency",
+          "current_value": 14.0,
+          "benchmark_tier": "fresh",
+          "delta_absolute": -1.0,
+          "delta_percent": -6.67,
+          "direction": "down"
+        }
+      ],
+      "summary": "Shakira dropped \"Dai Dai - Single\" 14 day(s) ago. Early streaming data over the next 48–72 hours will indicate whether the release is gaining meaningful traction on Spotify and YouTube.",
+      "source": "Spotify artist page (direct fetch)",
+      "data_confidence": "●●●○○",
+      "timestamp": "2026-07-09T00:00:00Z"
+    },
+    {
+      "priority": 2,
+      "score": 9.0,
+      "signal_type": "new_release",
+      "headline": "Rauw Alejandro drops \"PONGO (feat. Rvssian, Rauw Alejandro & Wizkid) [Remix] - Single\"",
+      "artist_name": "Rauw Alejandro",
+      "artist_slug": "rauw-alejandro",
+      "artist_tier": "mega",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/0e7b2b93b91789a054bc3f08bb3df3a8/1000x1000-000000-80-0-0.jpg",
+      "kpi_impact": [
+        {
+          "kpi_id": 9,
+          "kpi_name": "Latest Release Recency",
+          "current_value": 7.0,
+          "benchmark_tier": "fresh",
+          "delta_absolute": -1.0,
+          "delta_percent": -12.5,
+          "direction": "down"
+        }
+      ],
+      "summary": "Rauw Alejandro dropped \"PONGO (feat. Rvssian, Rauw Alejandro & Wizkid) [Remix] - Single\" 7 day(s) ago. Early streaming data over the next 48–72 hours will indicate whether the release is gaining meaningful traction on Spotify and YouTube.",
+      "source": "Spotify artist page (direct fetch)",
+      "data_confidence": "●●●○○",
+      "timestamp": "2026-07-09T00:00:00Z"
+    },
+    {
+      "priority": 3,
+      "score": 9.0,
+      "signal_type": "new_release",
+      "headline": "Romeo Santos drops new music (0d ago)",
+      "artist_name": "Romeo Santos",
+      "artist_slug": "romeo-santos",
+      "artist_tier": "mega",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/0a20c1c5fb5cdd61052c915a325b3589/1000x1000-000000-80-0-0.jpg",
+      "kpi_impact": [
+        {
+          "kpi_id": 9,
+          "kpi_name": "Latest Release Recency",
+          "current_value": 0.0,
+          "benchmark_tier": "fresh",
+          "delta_absolute": -1.0,
+          "delta_percent": -100.0,
+          "direction": "down"
+        }
+      ],
+      "summary": "Romeo Santos dropped new music 0 day(s) ago. Early streaming data over the next 48–72 hours will indicate whether the release is gaining meaningful traction on Spotify and YouTube.",
+      "source": "Spotify artist page (direct fetch)",
+      "data_confidence": "●●●○○",
+      "timestamp": "2026-07-09T00:00:00Z"
+    },
+    {
+      "priority": 4,
+      "score": 9.0,
+      "signal_type": "new_release",
+      "headline": "Gusttavo Lima drops \"Bala Alojada - Single\"",
+      "artist_name": "Gusttavo Lima",
+      "artist_slug": "gusttavo-lima",
+      "artist_tier": "major",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb08cacf062848b7318679b1b4",
+      "kpi_impact": [
+        {
+          "kpi_id": 9,
+          "kpi_name": "Latest Release Recency",
+          "current_value": 14.0,
+          "benchmark_tier": "fresh",
+          "delta_absolute": -1.0,
+          "delta_percent": -6.67,
+          "direction": "down"
+        }
+      ],
+      "summary": "Gusttavo Lima dropped \"Bala Alojada - Single\" 14 day(s) ago. Early streaming data over the next 48–72 hours will indicate whether the release is gaining meaningful traction on Spotify and YouTube.",
+      "source": "Spotify artist page (direct fetch)",
+      "data_confidence": "●●●○○",
+      "timestamp": "2026-07-09T00:00:00Z"
+    },
+    {
+      "priority": 5,
+      "score": 9.0,
+      "signal_type": "new_release",
+      "headline": "Prince Royce drops new music (0d ago)",
+      "artist_name": "Prince Royce",
+      "artist_slug": "prince-royce",
+      "artist_tier": "major",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/34c4613ef715fdae5afec5b8da10485f/1000x1000-000000-80-0-0.jpg",
+      "kpi_impact": [
+        {
+          "kpi_id": 9,
+          "kpi_name": "Latest Release Recency",
+          "current_value": 0.0,
+          "benchmark_tier": "fresh",
+          "delta_absolute": -1.0,
+          "delta_percent": -100.0,
+          "direction": "down"
+        }
+      ],
+      "summary": "Prince Royce dropped new music 0 day(s) ago. Early streaming data over the next 48–72 hours will indicate whether the release is gaining meaningful traction on Spotify and YouTube.",
+      "source": "Spotify artist page (direct fetch)",
+      "data_confidence": "●●●○○",
+      "timestamp": "2026-07-09T00:00:00Z"
+    },
+    {
+      "priority": 6,
+      "score": 7.0,
+      "signal_type": "pr_event",
+      "headline": "Shakira generates 96 press mentions this week",
+      "artist_name": "Shakira",
+      "artist_slug": "shakira",
+      "artist_tier": "mega",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/69c569506a8ff6ab0edfecbd1adf94b0/1000x1000-000000-80-0-0.jpg",
+      "kpi_impact": [
+        {
+          "kpi_id": 10,
+          "kpi_name": "News & Press Mentions",
+          "current_value": 96.0,
+          "benchmark_tier": "Trending",
+          "delta_absolute": -4.0,
+          "delta_percent": -4.0,
+          "direction": "down"
+        }
+      ],
+      "summary": "Shakira generated 96 press articles in the past seven days. Recent coverage includes: \"Justin Bieber and Burna Boy Join Inaugural World Cup Halftime Show - The New York Times\". This level of media activity pushes cultural visibility well beyond the artist's owned social channels.",
+      "source": "Google News RSS (past 7 days)",
+      "data_confidence": "●●●●○",
+      "timestamp": "2026-07-09T00:00:00Z"
+    },
+    {
+      "priority": 7,
+      "score": 7.0,
+      "signal_type": "pr_event",
+      "headline": "Romeo Santos generates 100 press mentions this week",
+      "artist_name": "Romeo Santos",
+      "artist_slug": "romeo-santos",
+      "artist_tier": "mega",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/0a20c1c5fb5cdd61052c915a325b3589/1000x1000-000000-80-0-0.jpg",
+      "kpi_impact": [
+        {
+          "kpi_id": 10,
+          "kpi_name": "News & Press Mentions",
+          "current_value": 100.0,
+          "benchmark_tier": "Trending",
+          "delta_absolute": 0.0,
+          "delta_percent": 0.0,
+          "direction": "flat"
+        }
+      ],
+      "summary": "Romeo Santos generated 100 press articles in the past seven days. Recent coverage includes: \"Romeo Santos Laid the Groundwork for Latin Music in the 21st Century - The New York Times\". This level of media activity pushes cultural visibility well beyond the artist's owned social channels.",
+      "source": "Google News RSS (past 7 days)",
+      "data_confidence": "●●●●○",
+      "timestamp": "2026-07-09T00:00:00Z"
+    },
+    {
+      "priority": 8,
+      "score": 7.0,
+      "signal_type": "pr_event",
+      "headline": "Rosalía generates 100 press mentions this week",
+      "artist_name": "Rosalía",
+      "artist_slug": "rosalia",
+      "artist_tier": "major",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb9354faf80eb87961466edfbf",
+      "kpi_impact": [
+        {
+          "kpi_id": 10,
+          "kpi_name": "News & Press Mentions",
+          "current_value": 100.0,
+          "benchmark_tier": "Trending",
+          "delta_absolute": 0.0,
+          "delta_percent": 0.0,
+          "direction": "flat"
+        }
+      ],
+      "summary": "Rosalía generated 100 press articles in the past seven days. Recent coverage includes: \"The Most Revealing Celebrity Confessionals From Rosalía’s ‘Lux’ Tour - rollingstone.com\". This level of media activity pushes cultural visibility well beyond the artist's owned social channels.",
+      "source": "Google News RSS (past 7 days)",
+      "data_confidence": "●●●●○",
+      "timestamp": "2026-07-09T00:00:00Z"
+    },
+    {
+      "priority": 9,
+      "score": 7.0,
+      "signal_type": "pr_event",
+      "headline": "Prince Royce generates 100 press mentions this week",
+      "artist_name": "Prince Royce",
+      "artist_slug": "prince-royce",
+      "artist_tier": "major",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/34c4613ef715fdae5afec5b8da10485f/1000x1000-000000-80-0-0.jpg",
+      "kpi_impact": [
+        {
+          "kpi_id": 10,
+          "kpi_name": "News & Press Mentions",
+          "current_value": 100.0,
+          "benchmark_tier": "Trending",
+          "delta_absolute": 0.0,
+          "delta_percent": 0.0,
+          "direction": "flat"
+        }
+      ],
+      "summary": "Prince Royce generated 100 press articles in the past seven days. Recent coverage includes: \"Romeo Santos and Prince Royce Want Bachata to Share in Latin Music’s Boom - The New York Times\". This level of media activity pushes cultural visibility well beyond the artist's owned social channels.",
+      "source": "Google News RSS (past 7 days)",
+      "data_confidence": "●●●●○",
+      "timestamp": "2026-07-09T00:00:00Z"
+    },
+    {
+      "priority": 10,
+      "score": 7.0,
+      "signal_type": "pr_event",
+      "headline": "Reik generates 77 press mentions this week",
+      "artist_name": "Reik",
+      "artist_slug": "reik",
+      "artist_tier": "major",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Reik.jpg/330px-Reik.jpg",
+      "kpi_impact": [
+        {
+          "kpi_id": 10,
+          "kpi_name": "News & Press Mentions",
+          "current_value": 77.0,
+          "benchmark_tier": "Trending",
+          "delta_absolute": 1.0,
+          "delta_percent": 1.32,
+          "direction": "up"
+        }
+      ],
+      "summary": "Reik generated 77 press articles in the past seven days. Recent coverage includes: \"Reik to bring greatest hits to El Paso County Coliseum in 2026 - KTSM 9 News\". This level of media activity pushes cultural visibility well beyond the artist's owned social channels.",
+      "source": "Google News RSS (past 7 days)",
+      "data_confidence": "●●●●○",
+      "timestamp": "2026-07-09T00:00:00Z"
+    }
+  ]
+}

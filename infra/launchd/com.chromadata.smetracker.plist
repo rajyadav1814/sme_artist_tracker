@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+    sme_artistTracker — daily pipeline schedule for launchd
+
+    Install once:
+        cp infra/launchd/com.chromadata.smetracker.plist ~/Library/LaunchAgents/
+        launchctl load ~/Library/LaunchAgents/com.chromadata.smetracker.plist
+
+    Disable:
+        launchctl unload ~/Library/LaunchAgents/com.chromadata.smetracker.plist
+
+    Run on demand (without waiting for 6 AM):
+        launchctl start com.chromadata.smetracker
+
+    Inspect:
+        launchctl list | grep chromadata
+        tail -f logs/launchd.err logs/pipeline-$(date +%Y-%m-%d).log
+
+    Secrets (ANTHROPIC_API_KEY) are loaded by scripts/cron_refresh.sh from .env,
+    NOT from this plist — so the plist can be checked into git safely.
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.chromadata.smetracker</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/praveer/sme_artistTracker/scripts/cron_refresh.sh</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/praveer/sme_artistTracker</string>
+
+    <!-- Daily at 06:00 local time. Adjust Hour/Minute as needed. -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>6</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <!-- Don't fire immediately when loaded; wait for the schedule. -->
+    <key>RunAtLoad</key>
+    <false/>
+
+    <!-- Background ProcessType yields to interactive work if the Mac is busy. -->
+    <key>ProcessType</key>
+    <string>Background</string>
+
+    <!-- launchd-level stdio (wrapper script writes its own dated log too). -->
+    <key>StandardOutPath</key>
+    <string>/Users/praveer/sme_artistTracker/logs/launchd.out</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/praveer/sme_artistTracker/logs/launchd.err</string>
+</dict>
+</plist>

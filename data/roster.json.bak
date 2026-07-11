@@ -1,0 +1,2059 @@
+{
+  "roster_date": "2026-04-05",
+  "source": "Wikipedia — Sony Music Latin article (SML roster is JS-rendered)",
+  "artist_count": 114,
+  "artists": [
+    {
+      "name": "Ana Gabriel",
+      "slug": "ana-gabriel",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ana-gabriel/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ana_Gabriel.jpg/330px-Ana_Gabriel.jpg",
+      "image_local_path": "data/images/ana-gabriel.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/@AnaGabrielOfficial",
+        "tiktok": null,
+        "x": "https://twitter.com/ANAGABRIELRL",
+        "spotify": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/AnaGabrielOfficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Angelical",
+      "slug": "angelical",
+      "profile_url": "https://www.sonymusiclatin.com/artists/angelical/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Enochian_letters_%281583_manuscript%29.png/330px-Enochian_letters_%281583_manuscript%29.png",
+      "image_local_path": "data/images/angelical.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/user/AngelicalTears",
+        "tiktok": null,
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/AngelicalTears",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Anna Carina",
+      "slug": "anna-carina",
+      "profile_url": "https://www.sonymusiclatin.com/artists/anna-carina/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alfombra_roja_Asu_Mare_3_%2825%29.jpg/330px-Alfombra_roja_Asu_Mare_3_%2825%29.jpg",
+      "image_local_path": "data/images/anna-carina.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/anna.carina.woitschack/",
+        "youtube": "https://www.youtube.com/@annacarina",
+        "tiktok": null,
+        "x": null,
+        "spotify": "https://open.spotify.com/artist/1R9UPp1zffXdSd7vmhNz9f",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/AnnaCarinaMusik",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Amr Diab",
+      "slug": "amr-diab",
+      "profile_url": "https://www.sonymusiclatin.com/artists/amr-diab/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Amr_Diab_With_World_Music_Awards.jpg/330px-Amr_Diab_With_World_Music_Awards.jpg",
+      "image_local_path": "data/images/amr-diab.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/@amrdiab",
+        "tiktok": null,
+        "x": null,
+        "spotify": "https://open.spotify.com/artist/480f3sqOC1QbZLmf4j2cWC",
+        "apple_music": null,
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Anna Gabriel",
+      "slug": "anna-gabriel",
+      "profile_url": "https://www.sonymusiclatin.com/artists/anna-gabriel/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Anna_Gabriel_al_Palau_de_la_Generalitat_%2810_de_febrer_de_2016%29.jpg/330px-Anna_Gabriel_al_Palau_de_la_Generalitat_%2810_de_febrer_de_2016%29.jpg",
+      "image_local_path": "data/images/anna-gabriel.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/itspetergabriel/",
+        "youtube": "https://www.youtube.com/channel/UCmcjOnFmIlg-LqTocHbQkFw",
+        "tiktok": null,
+        "x": "https://twitter.com/itspetergabriel",
+        "spotify": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I",
+        "apple_music": "https://music.apple.com/gb/artist/115433",
+        "facebook": "https://www.facebook.com/PeterGabriel",
+        "soundcloud": "https://soundcloud.com/peter-gabriel-official"
+      }
+    },
+    {
+      "name": "Anuel AA",
+      "slug": "anuel-aa",
+      "profile_url": "https://www.sonymusiclatin.com/artists/anuel-aa/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Anuel_AA_in_2022.png/330px-Anuel_AA_in_2022.png",
+      "image_local_path": "data/images/anuel-aa.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/anuel/",
+        "youtube": "https://www.youtube.com/channel/UC05eluGxsI8_xf5uRC-J26Q",
+        "tiktok": null,
+        "x": "https://twitter.com/Anuel_2blea",
+        "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66",
+        "apple_music": "https://music.apple.com/us/artist/996166916",
+        "facebook": "https://www.facebook.com/Anuel2bleAofficial",
+        "soundcloud": "https://soundcloud.com/anuel2blea"
+      }
+    },
+    {
+      "name": "Arthur Hanlon",
+      "slug": "arthur-hanlon",
+      "profile_url": "https://www.sonymusiclatin.com/artists/arthur-hanlon/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb584d658770a585e4cdd97303",
+      "image_local_path": "data/images/arthur-hanlon.jpg",
+      "bio_excerpt": "Sony Music Latin artist Arthur Hanlon—piano virtuoso, songwriter, arranger, and Latin Grammy, Billboard Latin Music Awardsand Emmy nominee– is the most renowned artist in Latin instrumental music. Born in Detroit to Irish American parents, Arthurfound a home in Latin music, becoming the only pianist",
+      "social_links": {
+        "instagram": "https://www.instagram.com/arthurhanlon/?hl=en",
+        "youtube": "https://www.youtube.com/channel/UCyx_85MGcZ86zrem1RoD6qw",
+        "tiktok": "https://www.tiktok.com/@pianoarthurhanlon?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB",
+        "apple_music": "https://music.apple.com/us/artist/75675774",
+        "facebook": "https://www.facebook.com/ArthurHanlonMusic/",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Becky G",
+      "slug": "becky-g",
+      "profile_url": "https://www.sonymusiclatin.com/artists/becky-g/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Becky_G_2023_01.jpg/330px-Becky_G_2023_01.jpg",
+      "image_local_path": "data/images/becky-g.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/iambeckyg/",
+        "youtube": "https://www.youtube.com/channel/UCgtNC51EUSgcZ6kKyVoPxKA",
+        "tiktok": "https://www.tiktok.com/@iambeckyg?lang=en#:~:text=Becky%20G%20(%40iambeckyg)%20Official%20%7C%20TikTok",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/intl-es/artist/4obzFoKoKRHIphyHzJ35G3",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/iambeckyg",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Bomba Estéreo",
+      "slug": "bomba-estereo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/bomba-estereo/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/5bfe71f186b72bb9086fcdb758461f5c/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/bomba-estereo.jpg",
+      "bio_excerpt": "“Bomba Estéreo is one of Colombia’s most original and exciting bands fronted by singer Liliana Saumet and multi-instrumentalist Simon Mejía. In 2012, Bomba Estéreo released their sophomore album ‘Blow Up’, which lead them to be named the Best New Artist by iTunes Latin Editor’s Choice and ‘Revista S",
+      "social_links": {
+        "instagram": "https://www.instagram.com/bombaestereo/",
+        "youtube": "https://www.youtube.com/user/bombaestereo",
+        "tiktok": "https://www.tiktok.com/@bombaestereo__?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/intl-es/artist/5n9bMYfz9qss2VOW89EVs2",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/BombaEstereo/",
+        "soundcloud": "https://soundcloud.com/bombaestereo"
+      }
+    },
+    {
+      "name": "C. Tangana",
+      "slug": "c-tangana",
+      "profile_url": "https://www.sonymusiclatin.com/artists/c-tangana/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Goyas_2025_-_C_Tangana_%28cropped%29.jpg/330px-Goyas_2025_-_C_Tangana_%28cropped%29.jpg",
+      "image_local_path": "data/images/c-tangana.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/c.tangana/",
+        "youtube": "https://www.youtube.com/channel/UCOZyjrZSrTJJHU05DlF71Jw",
+        "tiktok": null,
+        "x": "https://twitter.com/c_tangana",
+        "spotify": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/ctanganaoficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Calle 13",
+      "slug": "calle-13",
+      "profile_url": "https://www.sonymusiclatin.com/artists/calle-13/",
+      "image_url": "https://i.scdn.co/image/edabfb79fbf3d71ad9d0961a7b199a1470fe5372",
+      "image_local_path": "data/images/calle-13.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/user/calle13official",
+        "tiktok": null,
+        "x": "https://twitter.com/Calle13Oficial",
+        "spotify": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb",
+        "apple_music": "https://music.apple.com/us/artist/101668733",
+        "facebook": "https://www.facebook.com/calle13oficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Camilo",
+      "slug": "camilo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/camilo/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/4cfeee11e242345430528870250f0b72/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/camilo.jpg",
+      "bio_excerpt": "Five-time Latin GRAMMY® winner and three-time GRAMMY® nominated Colombian singer-songwriter, musician, and producer Camilo is considered one of the greatest champions of Pop from his generation. His 2019 debut album, ‘Por Primera Vez’, debuted at #1 on Billboard’s Latin Pop Album Chart and went plat",
+      "social_links": {
+        "instagram": "https://www.instagram.com/camilo/",
+        "youtube": "https://www.youtube.com/channel/UCw0aKHSGFGyrnMeVnHeYMyw",
+        "tiktok": "https://www.tiktok.com/@camilo?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/intl-es/artist/28gNT5KBp7IjEOQoevXf9N",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/camilomusica/",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Carlos Jean",
+      "slug": "carlos-jean",
+      "profile_url": "https://www.sonymusiclatin.com/artists/carlos-jean/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Carlos_Jean.jpg",
+      "image_local_path": "data/images/carlos-jean.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/@carlosjean",
+        "tiktok": null,
+        "x": null,
+        "spotify": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+        "apple_music": null,
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Carlos Vives",
+      "slug": "carlos-vives",
+      "profile_url": "https://www.sonymusiclatin.com/artists/carlos-vives/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Carlos_Vives_-_World_Economic_Forum_on_Latin_America_2010.jpg/330px-Carlos_Vives_-_World_Economic_Forum_on_Latin_America_2010.jpg",
+      "image_local_path": "data/images/carlos-vives.jpg",
+      "bio_excerpt": "With 17 Latin GRAMMY® Awards, two GRAMMY® Awards, and a place in the Billboard Latin Music Awards Hall of Fame, Carlos Vives has forever changed Latin music. The Colombian singer, songwriter, actor, and philanthropist remains one of the most recognizable stars in the world with a massive social audi",
+      "social_links": {
+        "instagram": "https://www.instagram.com/carlosvives/",
+        "youtube": "https://www.youtube.com/user/carlosvivesoficial1",
+        "tiktok": "https://www.tiktok.com/@carlosvives?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr",
+        "apple_music": "https://music.apple.com/co/artist/554369",
+        "facebook": "https://www.facebook.com/carlosvivesoficial/",
+        "soundcloud": "https://soundcloud.com/carlos-vives-official"
+      }
+    },
+    {
+      "name": "Cauty",
+      "slug": "cauty",
+      "profile_url": "https://www.sonymusiclatin.com/artists/cauty/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb736960eb7c7408800b7c7d87",
+      "image_local_path": "data/images/cauty.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/elcautyverso/",
+        "youtube": "https://www.youtube.com/channel/UCPUf1ObdZfwQ4QbBng26JVw",
+        "tiktok": null,
+        "x": "https://twitter.com/cautymusic",
+        "spotify": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas",
+        "apple_music": "https://music.apple.com/us/artist/2206375",
+        "facebook": null,
+        "soundcloud": "https://soundcloud.com/cautymusic"
+      }
+    },
+    {
+      "name": "Charlie Zaa",
+      "slug": "charlie-zaa",
+      "profile_url": "https://www.sonymusiclatin.com/artists/charlie-zaa/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Charlie_zaa.png/330px-Charlie_zaa.png",
+      "image_local_path": "data/images/charlie-zaa.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/zaacharlie/",
+        "youtube": "https://music.youtube.com/channel/UCPhzR2JzSBijWJlJZl59dCw",
+        "tiktok": null,
+        "x": null,
+        "spotify": "https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl",
+        "apple_music": "https://music.apple.com/co/artist/193156326",
+        "facebook": "https://www.facebook.com/ZaaCharlie",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Chencho Corleone",
+      "slug": "chencho-corleone",
+      "profile_url": "https://www.sonymusiclatin.com/artists/chencho-corleone/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Chencho_Corleone_en_el_flow_fest_2024.jpg/330px-Chencho_Corleone_en_el_flow_fest_2024.jpg",
+      "image_local_path": "data/images/chencho-corleone.jpg",
+      "bio_excerpt": "Chencho Corleone is a well-known composer, producer, and performer of urban music. He began his career as one of the voices in the duo Plan B, with whom he achieved multiple hits such as “Si No Le Contesto,” “Es Un Secreto,” “Fanática Sensual,” “Guatauba,” and others that are now considered classics",
+      "social_links": {
+        "instagram": "https://www.instagram.com/chenchocorleone/#",
+        "youtube": "https://www.youtube.com/channel/UCTStLchCIe1xO-y1Oi1lruQ",
+        "tiktok": "https://www.tiktok.com/@elchenchocorleone?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU",
+        "apple_music": "https://music.apple.com/us/artist/1055034875",
+        "facebook": "https://www.facebook.com/CHENCHOCORLEONE",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Chayanne",
+      "slug": "chayanne",
+      "profile_url": "https://www.sonymusiclatin.com/artists/chayanne/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chayanne_-_Chicago_2010-11-24.jpg/330px-Chayanne_-_Chicago_2010-11-24.jpg",
+      "image_local_path": "data/images/chayanne.jpg",
+      "bio_excerpt": "Chayanne was born in Puerto Rico but raised in the world stage. Performing before crowds of adoring fans, acting on film and television at a very young age as part of the group Los Chicos, transitioning to a solo artist came naturally to Chayanne. Today he is recognized throughout Iberia-America as ",
+      "social_links": {
+        "instagram": "https://www.instagram.com/chayanne/",
+        "youtube": "https://www.youtube.com/channel/UCltTIW3M5KliU-pu5nPaGUg",
+        "tiktok": "https://www.tiktok.com/@chayanne",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv",
+        "apple_music": "https://music.apple.com/gb/artist/1313256",
+        "facebook": "https://www.facebook.com/CHAYANNE/",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "ChocQuibTown",
+      "slug": "chocquibtown",
+      "profile_url": "https://www.sonymusiclatin.com/artists/chocquibtown/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/US_Navy_110609-F-CF975-040_Hospital_Corpsman_3rd_Class_Brent_Snyder_welcomes_hip-hop_band_Chocquib_Town_to_USNS_Comfort_%28T-AH_20%29.jpg/330px-US_Navy_110609-F-CF975-040_Hospital_Corpsman_3rd_Class_Brent_Snyder_welcomes_hip-hop_band_Chocquib_Town_to_USNS_Comfort_%28T-AH_20%29.jpg",
+      "image_local_path": "data/images/chocquibtown.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/chocquibtown/",
+        "youtube": "https://www.youtube.com/@chocquibtown",
+        "tiktok": null,
+        "x": "https://twitter.com/chocquibtown",
+        "spotify": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z",
+        "apple_music": "https://music.apple.com/us/artist/436035131",
+        "facebook": "https://www.facebook.com/chocquibtown",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Christina Aguilera",
+      "slug": "christina-aguilera",
+      "profile_url": "https://www.sonymusiclatin.com/artists/christina-aguilera/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Liberation_Tour_%2845997616942%29_%28cropped%29.jpg/330px-Liberation_Tour_%2845997616942%29_%28cropped%29.jpg",
+      "image_local_path": "data/images/christina-aguilera.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/xtina/",
+        "youtube": "https://www.youtube.com/channel/UCuRNYM6vrIAL-e4RUX26cPg",
+        "tiktok": "https://www.tiktok.com/@xtina",
+        "x": "https://twitter.com/xtina",
+        "spotify": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS",
+        "apple_music": "https://music.apple.com/us/artist/259398",
+        "facebook": "https://www.facebook.com/christinaaguilera",
+        "soundcloud": "https://soundcloud.com/xoxtina"
+      }
+    },
+    {
+      "name": "CNCO",
+      "slug": "cnco",
+      "profile_url": "https://www.sonymusiclatin.com/artists/cnco/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/CNCO_-_Tom_Brasil_2019_%2849054391767%29.jpg/330px-CNCO_-_Tom_Brasil_2019_%2849054391767%29.jpg",
+      "image_local_path": "data/images/cnco.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/CNCOmusic/",
+        "youtube": "https://www.youtube.com/channel/UC23ROAqt3prjnS89uHwcaaQ",
+        "tiktok": "https://www.tiktok.com/@cncomusic",
+        "x": "https://twitter.com/CNCOmusic",
+        "spotify": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4",
+        "apple_music": "https://music.apple.com/us/artist/1077567887",
+        "facebook": "https://www.facebook.com/CNCOmusic",
+        "soundcloud": "https://soundcloud.com/cnco"
+      }
+    },
+    {
+      "name": "Cristian Castro",
+      "slug": "cristian-castro",
+      "profile_url": "https://www.sonymusiclatin.com/artists/cristian-castro/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cristian_castro_vivo_2_%28cropped%29.jpg/330px-Cristian_castro_vivo_2_%28cropped%29.jpg",
+      "image_local_path": "data/images/cristian-castro.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/user/CristianCastroVEVO",
+        "tiktok": null,
+        "x": "https://twitter.com/cristiancastro",
+        "spotify": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ",
+        "apple_music": "https://music.apple.com/gb/artist/312044",
+        "facebook": "https://www.facebook.com/CristianCastroOficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Darell",
+      "slug": "darell",
+      "profile_url": "https://www.sonymusiclatin.com/artists/darell/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb594bb04c77f6c06c5b4cf1f3",
+      "image_local_path": "data/images/darell.jpg",
+      "bio_excerpt": "With a career spanning over a decade, Darell has firmly established himself as one of the most revered and prolific artists in the music industry. His journey began with a solo debut in 2013, and since then, he has consistently released a series of chart-topping hits that have captivated audiences w",
+      "social_links": {
+        "instagram": "https://www.instagram.com/darell/?hl=en",
+        "youtube": "https://www.youtube.com/channel/UC7i1scMCtNTreXnYs2Sr9Wg",
+        "tiktok": "https://www.tiktok.com/@darell?is_from_webapp=1&sender_device=pc",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf",
+        "apple_music": "https://music.apple.com/us/artist/436402110",
+        "facebook": "https://www.facebook.com/darellpr/",
+        "soundcloud": "https://soundcloud.com/darellpr"
+      }
+    },
+    {
+      "name": "Daddy Yankee",
+      "slug": "daddy-yankee",
+      "profile_url": "https://www.sonymusiclatin.com/artists/daddy-yankee/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Daddy_Yankee_-_The_Kingdom_%28Official_Q_%26_A%29.png",
+      "image_local_path": "data/images/daddy-yankee.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/daddyyankee/",
+        "youtube": "https://www.youtube.com/user/DaddyYankeeOFFTV",
+        "tiktok": "https://www.tiktok.com/@daddyyankee",
+        "x": "https://twitter.com/daddy_yankee",
+        "spotify": "https://open.spotify.com/artist/4bB4RtgglECAqYMNt1l8zQ",
+        "apple_music": "https://music.apple.com/gb/artist/25514958",
+        "facebook": "https://www.facebook.com/daddyyankee",
+        "soundcloud": "https://soundcloud.com/daddy-yankee-official"
+      }
+    },
+    {
+      "name": "Davido",
+      "slug": "davido",
+      "profile_url": "https://www.sonymusiclatin.com/artists/davido/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Davido_2024_%28cropped%29.jpg/330px-Davido_2024_%28cropped%29.jpg",
+      "image_local_path": "data/images/davido.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/davidoofficial/",
+        "youtube": "https://www.youtube.com/user/DavidoHKNTV",
+        "tiktok": "https://www.tiktok.com/@davido",
+        "x": "https://twitter.com/iam_Davido",
+        "spotify": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh",
+        "apple_music": "https://music.apple.com/us/artist/254654363",
+        "facebook": "https://www.facebook.com/davidoofficial2",
+        "soundcloud": "https://soundcloud.com/davido16056"
+      }
+    },
+    {
+      "name": "De La Tierra",
+      "slug": "de-la-tierra",
+      "profile_url": "https://www.sonymusiclatin.com/artists/de-la-tierra/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/777d245cdb6cf1cee644ba94b5157cd7/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/de-la-tierra.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/@DeLaTierraVEVO",
+        "tiktok": null,
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Draco Rosa",
+      "slug": "draco-rosa",
+      "profile_url": "https://www.sonymusiclatin.com/artists/draco-rosa/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/DracoRosa3.jpg",
+      "image_local_path": "data/images/draco-rosa.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/dracorosa/",
+        "youtube": "https://www.youtube.com/channel/UCb7uybNYkevYPdjfv4JGHrQ",
+        "tiktok": null,
+        "x": "http://www.phvx.com/",
+        "spotify": "https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5",
+        "apple_music": "https://music.apple.com/us/artist/288833256",
+        "facebook": "https://www.facebook.com/dracorosaoficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Diego Boneta",
+      "slug": "diego-boneta",
+      "profile_url": "https://www.sonymusiclatin.com/artists/diego-boneta/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Diego_Boneta_by_Gage_Skidmore.jpg/330px-Diego_Boneta_by_Gage_Skidmore.jpg",
+      "image_local_path": "data/images/diego-boneta.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/diegoboneta/",
+        "youtube": "https://www.youtube.com/@DiegoBonetaOfficial",
+        "tiktok": null,
+        "x": "https://twitter.com/DiegoBoneta",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/DiegoBoneta",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Diego Torres",
+      "slug": "diego-torres",
+      "profile_url": "https://www.sonymusiclatin.com/artists/diego-torres/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5ebdb3230fc1b438c9fc525be02",
+      "image_local_path": "data/images/diego-torres.jpg",
+      "bio_excerpt": "Decir Diego Torres es evocar toda una gama de sensaciones generadas por la música incomparable y la buena vibra que siempre han caracterizado a este cantante, compositor, músico, y actor argentino. Ya sea mediante un tema de rock que revoluciona; una balada que llega al corazón de formas inesperadas",
+      "social_links": {
+        "instagram": "https://www.instagram.com/diegotorresmusica/",
+        "youtube": "https://www.youtube.com/user/diegotorresVEVO",
+        "tiktok": "https://www.tiktok.com/@diegotorres",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh",
+        "apple_music": "https://music.apple.com/ar/artist/332129",
+        "facebook": "https://www.facebook.com/diegotorresoficial/",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Dyland & Lenny",
+      "slug": "dyland-lenny",
+      "profile_url": "https://www.sonymusiclatin.com/artists/dyland-lenny/",
+      "image_url": "https://i.scdn.co/image/0c2e920d208e2763c2f62aeaecf17047fa83b354",
+      "image_local_path": "data/images/dyland-lenny.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/@dylandlenny",
+        "tiktok": null,
+        "x": null,
+        "spotify": "https://open.spotify.com/artist/6EiZOxfG8B5evnLH4KnJeF",
+        "apple_music": null,
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Ednita Nazario",
+      "slug": "ednita-nazario",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ednita-nazario/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Concert_de_Ednita..%21%21_123_%28cropped%29.JPG/330px-Concert_de_Ednita..%21%21_123_%28cropped%29.JPG",
+      "image_local_path": "data/images/ednita-nazario.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/ednitanazario/",
+        "youtube": "https://music.youtube.com/channel/UCc6JGqJrxnPuDhot4g_6CNQ",
+        "tiktok": null,
+        "x": "https://twitter.com/ednitanazario",
+        "spotify": "https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/ednitanazario",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Enrique Iglesias",
+      "slug": "enrique-iglesias",
+      "profile_url": "https://www.sonymusiclatin.com/artists/enrique-iglesias/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Enrique_Iglesias_2011%2C_2.jpg/330px-Enrique_Iglesias_2011%2C_2.jpg",
+      "image_local_path": "data/images/enrique-iglesias.jpg",
+      "bio_excerpt": "Enrique Iglesias es uno de los artistas más exitosos en la historia de la música, con el mayor número de temas que han alcanzado el #1 en la lista Billboard “Hot Latin Songs”, con 27 en total. Además, ha conseguido múltiples números uno en las demás listas de Billboard, sumando a un total de 105. En",
+      "social_links": {
+        "instagram": "https://www.instagram.com/enriqueiglesias/",
+        "youtube": "https://www.youtube.com/user/EnriqueIglesiasPlay",
+        "tiktok": "https://www.tiktok.com/@enriqueiglesias?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw",
+        "apple_music": "https://music.apple.com/es/artist/90895",
+        "facebook": "https://www.facebook.com/Enrique",
+        "soundcloud": "https://soundcloud.com/enriqueiglesias"
+      }
+    },
+    {
+      "name": "Emilia",
+      "slug": "emilia",
+      "profile_url": "https://www.sonymusiclatin.com/artists/emilia/",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27305a03f55aaf243747e1d6403",
+      "image_local_path": "data/images/emilia.jpg",
+      "bio_excerpt": "Emilia is a young Argentine singer-songwriter, musician, dancer, and actress whose tireless pursuit of excellence in the arts has led her to become an exceptional figure in the entertainment industry. From her first release as a solo artist, Emilia is known worldwide with such hits as: “No Soy Yo” f",
+      "social_links": {
+        "instagram": "https://www.instagram.com/emiliamernes/",
+        "youtube": "https://www.youtube.com/channel/UC4osEqmcQL5d1UYJVft-klA",
+        "tiktok": "https://www.tiktok.com/@emiliamernes?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/1sPuAjy8SuvfwXNVgt52jg",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/EmiliaMernesMusica/",
+        "soundcloud": "https://soundcloud.com/emilia-mitiku"
+      }
+    },
+    {
+      "name": "Evaluna Montaner",
+      "slug": "evaluna-montaner",
+      "profile_url": "https://www.sonymusiclatin.com/artists/evaluna-montaner/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Evaluna_Montaner_in_2017.jpg/330px-Evaluna_Montaner_in_2017.jpg",
+      "image_local_path": "data/images/evaluna-montaner.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/evaluna/",
+        "youtube": "https://www.youtube.com/channel/UCEamj3vjDC0lGZuionZNUGQ",
+        "tiktok": null,
+        "x": "https://twitter.com/Montanerevaluna",
+        "spotify": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC",
+        "apple_music": "https://music.apple.com/ve/artist/564880709",
+        "facebook": "https://www.facebook.com/EvalunaMontanerOfficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Farina",
+      "slug": "farina",
+      "profile_url": "https://www.sonymusiclatin.com/artists/farina/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb178be2b41fa12a1ef202e80f",
+      "image_local_path": "data/images/farina.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/farinamusic/",
+        "youtube": "https://www.youtube.com/channel/UCMSu01Lf2JW5mx6xFxg_IOA",
+        "tiktok": "https://www.tiktok.com/@farina",
+        "x": "https://twitter.com/farinamusic",
+        "spotify": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90",
+        "apple_music": "https://music.apple.com/co/artist/1170320073",
+        "facebook": "https://www.facebook.com/FarinaMusic",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Fuerza Regida",
+      "slug": "fuerza-regida",
+      "profile_url": "https://www.sonymusiclatin.com/artists/fuerza-regida/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fuerza_Regida_-_Capital_One_Arena_-_Washington_D.C..jpeg/330px-Fuerza_Regida_-_Capital_One_Arena_-_Washington_D.C..jpeg",
+      "image_local_path": "data/images/fuerza-regida.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/fuerzaregida/",
+        "youtube": "https://www.youtube.com/channel/UCFLI6KAjrKRtydD7KqiYvAw",
+        "tiktok": "https://www.tiktok.com/@fuerzaregidaoficial?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt",
+        "apple_music": "https://music.apple.com/gb/artist/1275690475",
+        "facebook": "https://www.facebook.com/FuerzaRegidaVlogs",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Fortuna La Super F",
+      "slug": "fortuna-la-super-f",
+      "profile_url": "https://www.sonymusiclatin.com/artists/fortuna-la-super-f/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb5d624f2394fc13b3d601ac11",
+      "image_local_path": "data/images/fortuna-la-super-f.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://music.youtube.com/channel/UC-kJfWKA0XRAHNtgOg615Og",
+        "tiktok": null,
+        "x": "https://twitter.com/fortunalasuperf",
+        "spotify": "https://open.spotify.com/artist/1G9l3NASRbVp7Gm7AXl4ln",
+        "apple_music": "https://music.apple.com/us/artist/578027771",
+        "facebook": "https://www.facebook.com/FortunaLaSuperF",
+        "soundcloud": "https://soundcloud.com/fortuna-la-super-f"
+      }
+    },
+    {
+      "name": "Fonseca",
+      "slug": "fonseca",
+      "profile_url": "https://www.sonymusiclatin.com/artists/fonseca/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb21d70693185e467dad0e1d8f",
+      "image_local_path": "data/images/fonseca.jpg",
+      "bio_excerpt": "“El tres veces ganador del Grammy Latino, cantautor y músico nacido en Bogotá-Colombia, irrumpe en el ámbito musical con su álbum homónimo en el 2002. Su siguiente propuesta CORAZÓN (2005), recibe un Premio Billboard dela Música Latina como “Mejor Álbum Tropical”. Uno de los temas del disco, “Te Man",
+      "social_links": {
+        "instagram": "https://www.instagram.com/fonsecamusic/",
+        "youtube": "https://www.youtube.com/user/FONSECALATIN",
+        "tiktok": "https://www.tiktok.com/@fonsecamusic?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP",
+        "apple_music": "https://music.apple.com/co/artist/128327252",
+        "facebook": "https://www.facebook.com/fonsecamusic/",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Franco De Vita",
+      "slug": "franco-de-vita",
+      "profile_url": "https://www.sonymusiclatin.com/artists/franco-de-vita/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Franco_de_Vita_en_Primera_Fila_%28cropped%29.jpg/330px-Franco_de_Vita_en_Primera_Fila_%28cropped%29.jpg",
+      "image_local_path": "data/images/franco-de-vita.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/francodevita/",
+        "youtube": "https://www.youtube.com/channel/UCB6y3fGQ3CWHF0nkrFAj1bQ",
+        "tiktok": "https://www.tiktok.com/@francodevita13?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/francodevita",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Farruko",
+      "slug": "farruko",
+      "profile_url": "https://www.sonymusiclatin.com/artists/farruko/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Farruko%2C_2021_-_interview_with_Tony_Dandrades.jpeg/330px-Farruko%2C_2021_-_interview_with_Tony_Dandrades.jpeg",
+      "image_local_path": "data/images/farruko.jpg",
+      "bio_excerpt": "Farruko, cuyo nombre de pila es Carlos Efrén Reyes Rosado, nació en Bayamón, Puerto Rico, el 2 de mayo de 1991. Este joven cantautor es considerado ya por los expertos como el fenómeno musical de estos tiempos por su gran versatilidad musical e interpretativa. Este artista ha demostrado de manera co",
+      "social_links": {
+        "instagram": "https://www.instagram.com/farruko/",
+        "youtube": "https://www.youtube.com/user/farrukotv",
+        "tiktok": "https://www.tiktok.com/@farrukoofficialpr",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO",
+        "apple_music": "https://music.apple.com/fr/artist/364377482",
+        "facebook": "https://www.facebook.com/Farruko/",
+        "soundcloud": "https://soundcloud.com/farrukooficial"
+      }
+    },
+    {
+      "name": "Gadiel",
+      "slug": "gadiel",
+      "profile_url": "https://www.sonymusiclatin.com/artists/gadiel/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb17b7ff06fc9b442280ab33a0",
+      "image_local_path": "data/images/gadiel.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/gadieloficial/",
+        "youtube": "https://music.youtube.com/channel/UCsss_acVHacA4r0AhlSQpbw",
+        "tiktok": null,
+        "x": "https://twitter.com/gadieloficial",
+        "spotify": "https://open.spotify.com/artist/4Esb8jfP35nF3O85C0jgKC",
+        "apple_music": "https://music.apple.com/us/artist/203060593",
+        "facebook": null,
+        "soundcloud": "https://soundcloud.com/gadiel-official"
+      }
+    },
+    {
+      "name": "Gale",
+      "slug": "gale",
+      "profile_url": "https://www.sonymusiclatin.com/artists/gale/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Brooklyn_Museum_-_After_a_Gale--Wreckers_-_James_Hamilton_-_overall.jpg/330px-Brooklyn_Museum_-_After_a_Gale--Wreckers_-_James_Hamilton_-_overall.jpg",
+      "image_local_path": "data/images/gale.jpg",
+      "bio_excerpt": "This Puerto Rican singer-songwriter has always felt a very strong con nection with music. She wrote her first song at the age of seven, and studied classical music, guitar and vocals at the Escuela Libre de Música de San Juan. She also participated in musical theater projects during her university y",
+      "social_links": {
+        "instagram": "https://www.instagram.com/gale/",
+        "youtube": "https://www.youtube.com/channel/UC_k-otwA2iZUdYxrO9Ck9IQ",
+        "tiktok": "https://www.tiktok.com/@galeoficial?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP",
+        "apple_music": "https://music.apple.com/co/artist/121152149",
+        "facebook": "https://www.facebook.com/gale/",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Gente de Zona",
+      "slug": "gente-de-zona",
+      "profile_url": "https://www.sonymusiclatin.com/artists/gente-de-zona/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gente_de_Zona_2022.jpg/330px-Gente_de_Zona_2022.jpg",
+      "image_local_path": "data/images/gente-de-zona.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/gentedezona/",
+        "youtube": "https://www.youtube.com/channel/UC-vahV5aaD8x73mIDDdJMQQ",
+        "tiktok": null,
+        "x": "https://twitter.com/gdzoficial",
+        "spotify": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL",
+        "apple_music": "https://music.apple.com/us/artist/210543311",
+        "facebook": "https://www.facebook.com/gentedezona",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Gerardo Ortiz",
+      "slug": "gerardo-ortiz",
+      "profile_url": "https://www.sonymusiclatin.com/artists/gerardo-ortiz/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S4byZ9bQ.jpg/330px-S4byZ9bQ.jpg",
+      "image_local_path": "data/images/gerardo-ortiz.jpg",
+      "bio_excerpt": "Gerardo Ortíz, se impone como una de las figuras artísticas más solidas gracias a la dimensión de sus logros, pues además de los reconocimientos de la industria, el público lo ha premiado con su apoyo incondicional, batiendo records de asistencia en sus conciertos, tanto en territorio Americano como",
+      "social_links": {
+        "instagram": "https://www.instagram.com/gerardoortizoficial/",
+        "youtube": "https://www.youtube.com/channel/UCfxLuDIVfwArsz5waYMMLDQ",
+        "tiktok": "https://www.tiktok.com/@gerardoortizoficial?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/GerardoOrtizNet",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Gilberto Santa Rosa",
+      "slug": "gilberto-santa-rosa",
+      "profile_url": "https://www.sonymusiclatin.com/artists/gilberto-santa-rosa/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Concierto_de_Gilberto_Santa_Rosa_en_Pi%C3%B1as.jpg/330px-Concierto_de_Gilberto_Santa_Rosa_en_Pi%C3%B1as.jpg",
+      "image_local_path": "data/images/gilberto-santa-rosa.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/santarosalive/",
+        "youtube": "https://www.youtube.com/channel/UCCTs64yAtgvbvySwf18aAIg",
+        "tiktok": null,
+        "x": "https://twitter.com/GilbertoSR",
+        "spotify": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1",
+        "apple_music": "https://music.apple.com/us/artist/1311894",
+        "facebook": "https://www.facebook.com/gilbertosantarosa",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Gloria Estefan",
+      "slug": "gloria-estefan",
+      "profile_url": "https://www.sonymusiclatin.com/artists/gloria-estefan/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gloria_Estefan_in_2017.jpg/330px-Gloria_Estefan_in_2017.jpg",
+      "image_local_path": "data/images/gloria-estefan.jpg",
+      "bio_excerpt": "International Superstar, Gloria Estefan, is a Grammy award-winning singer, actress, songwriter, author of two New York Times best-selling children’s books, philanthropist and humanitarian. She is considered one of the world’s most recognizable and beloved performers and the most successful Latin cro",
+      "social_links": {
+        "instagram": "https://www.instagram.com/gloriaestefan/?hl=en",
+        "youtube": "https://www.youtube.com/channel/UCfLOtv9PwkKWff1syoz2LwQ",
+        "tiktok": "https://www.tiktok.com/@sonymusiclatin#:~:text=Sony%20Music%20Latin%20(%40sonymusiclatin)%20Official%20%7C%20TikTok",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889",
+        "apple_music": "https://music.apple.com/us/artist/485022",
+        "facebook": "https://www.facebook.com/gloriaestefan",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Goyo",
+      "slug": "goyo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/goyo/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5eb207369d7ce1a51627e43e587",
+      "image_local_path": "data/images/goyo.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/goyo/",
+        "youtube": "https://www.youtube.com/channel/UCm2wwD1DdVVNeqcEvGdl5CA",
+        "tiktok": "https://www.tiktok.com/@goyo?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX",
+        "apple_music": "https://music.apple.com/us/artist/1593762910",
+        "facebook": "https://www.facebook.com/Goyo",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Ha*Ash",
+      "slug": "ha-ash",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ha-ash/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ha%2AAsh_Grammys_2017.png/330px-Ha%2AAsh_Grammys_2017.png",
+      "image_local_path": "data/images/ha-ash.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/@haash",
+        "tiktok": null,
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Héctor el Father",
+      "slug": "hector-el-father",
+      "profile_url": "https://www.sonymusiclatin.com/artists/hector-el-father/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hector-el-father3001.jpg/330px-Hector-el-father3001.jpg",
+      "image_local_path": "data/images/hector-el-father.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/@HéctorelFatherVEVO",
+        "tiktok": null,
+        "x": null,
+        "spotify": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB",
+        "apple_music": "https://music.apple.com/us/artist/252841600",
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Illya Kuryaki and the Valderramas",
+      "slug": "illya-kuryaki-and-the-valderramas",
+      "profile_url": "https://www.sonymusiclatin.com/artists/illya-kuryaki-and-the-valderramas/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Illya_kuriaki_and_the_valderramas.JPG/330px-Illya_kuriaki_and_the_valderramas.JPG",
+      "image_local_path": "data/images/illya-kuryaki-and-the-valderramas.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/ikvoficial/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://twitter.com/ikvoficial",
+        "spotify": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/ikvoficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Il Volo",
+      "slug": "il-volo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/il-volo/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Il_Volo_20181208_004-2_%28cropped%29.jpg/330px-Il_Volo_20181208_004-2_%28cropped%29.jpg",
+      "image_local_path": "data/images/il-volo.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/channel/UCbtTjg8XzmTeeVjIeg8ksBQ",
+        "tiktok": null,
+        "x": "https://twitter.com/ilvolo",
+        "spotify": "https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t",
+        "apple_music": "https://music.apple.com/us/artist/403896265",
+        "facebook": "https://www.facebook.com/109760812423358",
+        "soundcloud": "https://soundcloud.com/il-volo-mundial-oficial"
+      }
+    },
+    {
+      "name": "iLe",
+      "slug": "ile",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ile/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_iLe_press_photo_%28cropped%29.jpg/330px-New_iLe_press_photo_%28cropped%29.jpg",
+      "image_local_path": "data/images/ile.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/cabralu/",
+        "youtube": "https://www.youtube.com/channel/UCVH_GDrRpuKUBsoJ4iKc9gA",
+        "tiktok": null,
+        "x": "https://twitter.com/ilevitable",
+        "spotify": "https://open.spotify.com/artist/0dFWQktzEWzssEvmELKf8X",
+        "apple_music": "https://music.apple.com/us/artist/1100362536",
+        "facebook": "https://www.facebook.com/ilevitable",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Jenni Rivera",
+      "slug": "jenni-rivera",
+      "profile_url": "https://www.sonymusiclatin.com/artists/jenni-rivera/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Jenni_Rivera_-_Pepsi_Center_-_08.22.09_-_Cropped.jpg/330px-Jenni_Rivera_-_Pepsi_Center_-_08.22.09_-_Cropped.jpg",
+      "image_local_path": "data/images/jenni-rivera.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/jennirivera/",
+        "youtube": "https://www.youtube.com/user/jenniriveravevo",
+        "tiktok": null,
+        "x": "https://twitter.com/jennirivera",
+        "spotify": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu",
+        "apple_music": "https://music.apple.com/gb/artist/34829582",
+        "facebook": "https://www.facebook.com/jenniriveramusic",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Jennifer Lopez",
+      "slug": "jennifer-lopez",
+      "profile_url": "https://www.sonymusiclatin.com/artists/jennifer-lopez/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg/330px-Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg",
+      "image_local_path": "data/images/jennifer-lopez.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/jlo/",
+        "youtube": "https://www.youtube.com/channel/UCr8RjWUQ_9KYcIPmWiqBroQ",
+        "tiktok": "https://www.tiktok.com/@jlo",
+        "x": "https://twitter.com/jlo",
+        "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR",
+        "apple_music": "https://music.apple.com/us/artist/463009",
+        "facebook": "https://www.facebook.com/jenniferlopez",
+        "soundcloud": "https://soundcloud.com/jenniferlopez"
+      }
+    },
+    {
+      "name": "Joel Pimentel de León",
+      "slug": "joel-pimentel-de-leon",
+      "profile_url": "https://www.sonymusiclatin.com/artists/joel-pimentel-de-leon/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Joel_in_Brazil_2019.jpg/330px-Joel_in_Brazil_2019.jpg",
+      "image_local_path": "data/images/joel-pimentel-de-leon.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/carinleonoficial/",
+        "youtube": "https://www.youtube.com/channel/UCywpKTAjNjHv53c0TX3K_KQ",
+        "tiktok": null,
+        "x": null,
+        "spotify": "https://open.spotify.com/artist/4H0Ekdx9KgbHUNh7TYshJ8",
+        "apple_music": "https://music.apple.com/us/artist/1370196486",
+        "facebook": "https://www.facebook.com/carinleonoficial",
+        "soundcloud": "https://soundcloud.com/carinleon"
+      }
+    },
+    {
+      "name": "Joss Favela",
+      "slug": "joss-favela",
+      "profile_url": "https://www.sonymusiclatin.com/artists/joss-favela/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Joss_Favela_LAMAs_2018.png",
+      "image_local_path": "data/images/joss-favela.jpg",
+      "bio_excerpt": "Joss Favela comenzó su carrera profesional como compositor y productor, escribiendo canciones para artistas de la talla de Gerardo Ortiz, Alejandro Fernandez, La Arrolladora Banda El Limón, Banda El Recodo y muchos más. El joven cantautor también fue reconocido por ASCAP como “Mejor Compositor” por ",
+      "social_links": {
+        "instagram": "https://www.instagram.com/jossfavela/",
+        "youtube": "https://www.youtube.com/channel/UCNKFce6dDLEmve1i90GKHBw",
+        "tiktok": "https://www.tiktok.com/@jossfavela?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/JossFavela",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "José Luis Rodríguez",
+      "slug": "jose-luis-rodriguez",
+      "profile_url": "https://www.sonymusiclatin.com/artists/jose-luis-rodriguez/",
+      "image_url": "https://i.scdn.co/image/ab6761610000e5ebc70544f7af8dcacedbd2dc75",
+      "image_local_path": "data/images/jose-luis-rodriguez.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/elpumaoficial/",
+        "youtube": "https://www.youtube.com/channel/UC196jpWCA-kPtQwOdCEZy-Q",
+        "tiktok": null,
+        "x": "https://twitter.com/SoyElPuma",
+        "spotify": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV",
+        "apple_music": "https://music.apple.com/ve/artist/3509880",
+        "facebook": "https://www.facebook.com/soyelpuma",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Julio Iglesias",
+      "slug": "julio-iglesias",
+      "profile_url": "https://www.sonymusiclatin.com/artists/julio-iglesias/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Julio_Iglesias09.jpg/330px-Julio_Iglesias09.jpg",
+      "image_local_path": "data/images/julio-iglesias.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/user/JulioIglesiasVEVO",
+        "tiktok": null,
+        "x": "https://twitter.com/julioiglesias",
+        "spotify": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5",
+        "apple_music": "https://music.apple.com/gb/artist/540287",
+        "facebook": "https://www.facebook.com/julioiglesias",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Kany García",
+      "slug": "kany-garcia",
+      "profile_url": "https://www.sonymusiclatin.com/artists/kany-garcia/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kany_Garc%C3%ADa.jpg/330px-Kany_Garc%C3%ADa.jpg",
+      "image_local_path": "data/images/kany-garcia.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/kanygarcia/",
+        "youtube": "https://www.youtube.com/channel/UCc2ZilH94OFrGRaVKwh75tA",
+        "tiktok": null,
+        "x": "https://twitter.com/kanygarcia",
+        "spotify": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV",
+        "apple_music": "https://music.apple.com/us/artist/251432197",
+        "facebook": "https://www.facebook.com/kanygarcia",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Lali",
+      "slug": "lali",
+      "profile_url": "https://www.sonymusiclatin.com/artists/lali/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/bd8e25ceb6992963bb366e84d70518a8/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/lali.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/lali/",
+        "youtube": "https://www.youtube.com/@LaliOk",
+        "tiktok": "https://www.tiktok.com/@lali_oficial",
+        "x": "https://twitter.com/lalioficial",
+        "spotify": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8",
+        "apple_music": "https://music.apple.com/ar/artist/279779215",
+        "facebook": "https://www.facebook.com/laliOficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Leslie Shaw",
+      "slug": "leslie-shaw",
+      "profile_url": "https://www.sonymusiclatin.com/artists/leslie-shaw/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/9610d9d7815ce1cba165f5803aa32d1e/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/leslie-shaw.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/@leslieshaw",
+        "tiktok": null,
+        "x": null,
+        "spotify": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF",
+        "apple_music": null,
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Leslie Grace",
+      "slug": "leslie-grace",
+      "profile_url": "https://www.sonymusiclatin.com/artists/leslie-grace/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/de21b7ba1e2d5d8309d09939dfbc5749/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/leslie-grace.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/lesliegrace/",
+        "youtube": "https://www.youtube.com/@LeslieGraceOficial",
+        "tiktok": "https://www.tiktok.com/@iamlesliegrace?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/LeslieGraceOfficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Lila Downs",
+      "slug": "lila-downs",
+      "profile_url": "https://www.sonymusiclatin.com/artists/lila-downs/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/9ac498cc7449082888bae9c796f03865/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/lila-downs.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/liladowns/",
+        "youtube": "https://www.youtube.com/user/LilaDownsVEVO",
+        "tiktok": null,
+        "x": "https://twitter.com/liladowns",
+        "spotify": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/LilaDownsOficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Limi-T 21",
+      "slug": "limi-t-21",
+      "profile_url": "https://www.sonymusiclatin.com/artists/limi-t-21/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/36f355cf3ae119e497e1bc1b46e047b2/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/limi-t-21.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://music.youtube.com/channel/UC9pr9dxLp0jZInmD7TCHtKA",
+        "tiktok": null,
+        "x": "https://twitter.com/limite21",
+        "spotify": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7",
+        "apple_music": "https://music.apple.com/us/artist/563964",
+        "facebook": "https://www.facebook.com/Limite21",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Luis Coronel",
+      "slug": "luis-coronel",
+      "profile_url": "https://www.sonymusiclatin.com/artists/luis-coronel/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/5f3f8b27a103e6bf9832e7912a46d102/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/luis-coronel.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/@LuisCoronelVEVO",
+        "tiktok": null,
+        "x": "https://twitter.com/luiscoronel281",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Luis Figueroa",
+      "slug": "luis-figueroa",
+      "profile_url": "https://www.sonymusiclatin.com/artists/luis-figueroa/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/d46940ab1476bafbb2ea476ba9218dd3/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/luis-figueroa.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/luisfigueroa/",
+        "youtube": "https://www.youtube.com/channel/UCOba3UND3bBVC-rHPtvoERg",
+        "tiktok": "https://www.tiktok.com/@iamluisfigueroa?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1",
+        "apple_music": "https://music.apple.com/gb/artist/295941",
+        "facebook": "https://www.facebook.com/IamLuisFigueroa",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Lupita Infante",
+      "slug": "lupita-infante",
+      "profile_url": "https://www.sonymusiclatin.com/artists/lupita-infante/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/ce649ef59e9f75b29f8102971cd03568/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/lupita-infante.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/@lupitainfante",
+        "tiktok": null,
+        "x": null,
+        "spotify": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV",
+        "apple_music": "https://music.apple.com/gb/artist/2137889",
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Maluma",
+      "slug": "maluma",
+      "profile_url": "https://www.sonymusiclatin.com/artists/maluma/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/a1627f420e880b7229e52890b99626c9/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/maluma.jpg",
+      "bio_excerpt": "Con tan sólo veinticuatro años de edad, Juan Luis Londoño, mejor conocido por su nombre artístico Maluma (compuesto por las primeras letras de los nombres de su madre, su padre y su hermana) se ha convertido en uno de los artistas de mayor impacto en la música urbana y el ídolo juvenil de la música ",
+      "social_links": {
+        "instagram": "https://www.instagram.com/maluma/",
+        "youtube": "https://www.youtube.com/channel/UClZuKq2m0Qu-HkopkSBLpEw",
+        "tiktok": "https://www.tiktok.com/@maluma?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau",
+        "apple_music": "https://music.apple.com/us/artist/448916501",
+        "facebook": "https://www.facebook.com/MALUMAMUSIK",
+        "soundcloud": "https://soundcloud.com/malumaofficial"
+      }
+    },
+    {
+      "name": "Manuel Turizo",
+      "slug": "manuel-turizo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/manuel-turizo/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/72bb383c1872be5312b29a859001d66a/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/manuel-turizo.jpg",
+      "bio_excerpt": "Talento, versatilidad musical y una inigualable voz, ratifican a Manuel Turizo como la revelación del género urbano",
+      "social_links": {
+        "instagram": "https://www.instagram.com/manuelturizo/",
+        "youtube": "https://www.youtube.com/channel/UC5Jn-9jqrVvKm9Hx0WW8Pgw",
+        "tiktok": "https://www.tiktok.com/@manuelturizoz?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B",
+        "apple_music": "https://music.apple.com/co/artist/1186116587",
+        "facebook": "https://www.facebook.com/ManuelTurizoMusic/",
+        "soundcloud": "https://soundcloud.com/manuelturizo"
+      }
+    },
+    {
+      "name": "Mau y Ricky",
+      "slug": "mau-y-ricky",
+      "profile_url": "https://www.sonymusiclatin.com/artists/mau-y-ricky/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/d8dce87299b76abc88f5cee46f019870/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/mau-y-ricky.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/mauyricky/",
+        "youtube": "https://www.youtube.com/channel/UC5lrDfR-Yjhmqoh5DfLOmwA",
+        "tiktok": null,
+        "x": "https://twitter.com/mauyricky",
+        "spotify": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU",
+        "apple_music": "https://music.apple.com/us/artist/1096068683",
+        "facebook": "https://www.facebook.com/MauyRicky",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Marc Anthony",
+      "slug": "marc-anthony",
+      "profile_url": "https://www.sonymusiclatin.com/artists/marc-anthony/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/fc838a70027abfd9b9d0f8906f2a1421/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/marc-anthony.jpg",
+      "bio_excerpt": "Marc Anthony es uno de los artistas más influyentes de su época. El tiene el historial más grande de su género con 25 #1’s en las listas de la revista Billboard. Algunos ejemplos de sus más recientes logros en ese sentido son “Vivir Mi Vida” con 250 millones de visitas en you tube, “Flor Pálida” con",
+      "social_links": {
+        "instagram": "https://www.instagram.com/marcanthony/",
+        "youtube": "https://www.youtube.com/channel/UCiKsRIULyLr783nNZm-JlAQ",
+        "tiktok": "https://www.tiktok.com/@marcanthony?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6",
+        "apple_music": "https://music.apple.com/gb/artist/217029",
+        "facebook": "https://www.facebook.com/officialmarcanthony/",
+        "soundcloud": "https://soundcloud.com/marc-anthony-official"
+      }
+    },
+    {
+      "name": "Michel Teló",
+      "slug": "michel-telo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/michel-telo/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/d7a4dd1b06939c97facba29eec6aaab7/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/michel-telo.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/user/MichelTelo11",
+        "tiktok": null,
+        "x": "https://twitter.com/micheltelo",
+        "spotify": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/MichelTelo",
+        "soundcloud": "https://soundcloud.com/micheltelo"
+      }
+    },
+    {
+      "name": "Miguel",
+      "slug": "miguel",
+      "profile_url": "https://www.sonymusiclatin.com/artists/miguel/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/4a63f4c65dbdff6e914b681c0a83d059/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/miguel.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/sonymusiclatin/",
+        "youtube": "https://www.youtube.com/channel/UCpt6OaDIQ8YEXXF0Hl2v6VA",
+        "tiktok": "https://www.tiktok.com/@sonymusiclatin#:~:text=Sony%20Music%20Latin%20(%40sonymusiclatin)%20Official%20%7C%20TikTok",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S",
+        "apple_music": "https://music.apple.com/es/artist/496082",
+        "facebook": "https://www.facebook.com/sonymusiclatin",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Natalia Jiménez",
+      "slug": "natalia-jimenez",
+      "profile_url": "https://www.sonymusiclatin.com/artists/natalia-jimenez/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/ab4c3f101e1c403185af6d24a600feb7/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/natalia-jimenez.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/nataliajimenezoficial/",
+        "youtube": "https://www.youtube.com/user/NataliaJimenezVEVO",
+        "tiktok": null,
+        "x": "https://twitter.com/NataliaJimenez",
+        "spotify": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R",
+        "apple_music": "https://music.apple.com/es/artist/290483019",
+        "facebook": "https://www.facebook.com/NataliaJimenezOficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Natalia Lafourcade",
+      "slug": "natalia-lafourcade",
+      "profile_url": "https://www.sonymusiclatin.com/artists/natalia-lafourcade/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/f5fbaaae3d6a033115868dc7058c5538/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/natalia-lafourcade.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/natalialafourcade/",
+        "youtube": "https://www.youtube.com/channel/UCKw8oP0rF37jTEq_3R8O5Mg",
+        "tiktok": null,
+        "x": "https://twitter.com/lafourcade",
+        "spotify": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp",
+        "apple_music": "https://music.apple.com/gb/artist/14937569",
+        "facebook": "https://www.facebook.com/NataliaLafourcadeMx",
+        "soundcloud": "https://soundcloud.com/natalialafourcade"
+      }
+    },
+    {
+      "name": "Natti Natasha",
+      "slug": "natti-natasha",
+      "profile_url": "https://www.sonymusiclatin.com/artists/natti-natasha/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/a25e772e5eff34271c59a4038b610056/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/natti-natasha.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/nattinatasha/",
+        "youtube": "https://www.youtube.com/channel/UCu59H8LNti6mwvcGRMge5PA",
+        "tiktok": null,
+        "x": "https://twitter.com/NattiNatasha",
+        "spotify": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7",
+        "apple_music": "https://music.apple.com/us/artist/1373416931",
+        "facebook": "https://www.facebook.com/NattiNatashaOfficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Nella Rojas",
+      "slug": "nella-rojas",
+      "profile_url": "https://www.sonymusiclatin.com/artists/nella-rojas/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/c1507e0287cd7a3e83bc5fc355834857/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/nella-rojas.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/nellarojasm/",
+        "youtube": "https://www.youtube.com/@nellarojas",
+        "tiktok": null,
+        "x": "https://twitter.com/nellarojasm",
+        "spotify": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/marianella.rojas.967",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Nicki Nicole",
+      "slug": "nicki-nicole",
+      "profile_url": "https://www.sonymusiclatin.com/artists/nicki-nicole/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/7b4261dc1d0a02c4437d8cd418bea481/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/nicki-nicole.jpg",
+      "bio_excerpt": "NICKI NICOLE is one of the Argentine artists with the most impact and recognition worldwide.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/nicki.nicole/",
+        "youtube": "https://www.youtube.com/channel/UCEMoAW9Qk0HrZqLxV5BFhDw",
+        "tiktok": "https://www.tiktok.com/@nicki.nicole?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/1C5PhB7zfGmDKaYLLt5GYZ",
+        "apple_music": "https://music.apple.com/de/artist/615815",
+        "facebook": "https://www.facebook.com/naikinai19/",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Nicky Jam",
+      "slug": "nicky-jam",
+      "profile_url": "https://www.sonymusiclatin.com/artists/nicky-jam/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/b1fb6dc2c446495917b88a1c63b4a0e3/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/nicky-jam.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/pearljam/",
+        "youtube": "https://www.youtube.com/channel/UClQT6Vnsm6BUm0I5kR26EkQ",
+        "tiktok": "https://www.tiktok.com/@pearljam",
+        "x": "https://twitter.com/PearlJam",
+        "spotify": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56",
+        "apple_music": "https://music.apple.com/us/artist/467464",
+        "facebook": "https://www.facebook.com/PearlJam",
+        "soundcloud": "https://soundcloud.com/pearljam"
+      }
+    },
+    {
+      "name": "Noriel",
+      "slug": "noriel",
+      "profile_url": "https://www.sonymusiclatin.com/artists/noriel/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/b26b74370f510d8995746c462f4a9a83/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/noriel.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/noriel/",
+        "youtube": "https://www.youtube.com/channel/UCLDAM_6WwevNIPHz7IalMLw",
+        "tiktok": "https://www.tiktok.com/@norieldangerpr?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL",
+        "apple_music": "https://music.apple.com/us/artist/582366656",
+        "facebook": "https://www.facebook.com/@NorielDangerr/",
+        "soundcloud": "https://soundcloud.com/noriel_lm"
+      }
+    },
+    {
+      "name": "Omar Montes",
+      "slug": "omar-montes",
+      "profile_url": "https://www.sonymusiclatin.com/artists/omar-montes/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/324c964b02f57e6d2ffe554fd1b7b7d5/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/omar-montes.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/omarmontesofficial/",
+        "youtube": "https://www.youtube.com/@omarmontes",
+        "tiktok": "https://www.tiktok.com/@omarmontesoficial",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/omarmontessr%20",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "OV7",
+      "slug": "ov7",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ov7/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/a3aff0f0604fec747065dfab224973db/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/ov7.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/@OV7VEVO",
+        "tiktok": null,
+        "x": null,
+        "spotify": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2",
+        "apple_music": "https://music.apple.com/mx/artist/170956727",
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Ozuna",
+      "slug": "ozuna",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ozuna/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ozuna-2019.jpg",
+      "image_local_path": "data/images/ozuna.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/ozuna/",
+        "youtube": "https://www.youtube.com/channel/UCjIA3wwhi0QjSOXAZwOXbPA",
+        "tiktok": "https://www.tiktok.com/@ozuna?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY",
+        "apple_music": "https://music.apple.com/us/artist/283578837",
+        "facebook": "https://www.facebook.com/ozunapr/",
+        "soundcloud": "https://soundcloud.com/ozunapr"
+      }
+    },
+    {
+      "name": "Pabllo Vittar",
+      "slug": "pabllo-vittar",
+      "profile_url": "https://www.sonymusiclatin.com/artists/pabllo-vittar/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/8b805feb5a44977bbaa0091b81416714/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/pabllo-vittar.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/pabllovittar/",
+        "youtube": "https://www.youtube.com/channel/UCugD1HAP3INAiXo70S_sAFQ",
+        "tiktok": "https://www.tiktok.com/@pabllovittar",
+        "x": "https://twitter.com/pabllovittar",
+        "spotify": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV",
+        "apple_music": "https://music.apple.com/br/artist/1171421960",
+        "facebook": "https://www.facebook.com/PablloVittar",
+        "soundcloud": "https://soundcloud.com/pabllovittar"
+      }
+    },
+    {
+      "name": "Paloma Mami",
+      "slug": "paloma-mami",
+      "profile_url": "https://www.sonymusiclatin.com/artists/paloma-mami/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/cb5334c1d2f137416bfc9c0ce4d4e386/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/paloma-mami.jpg",
+      "bio_excerpt": "Paloma Mami is a New York-born, Chilean artist who exploded onto the scene in 2018 with her independently released single “Not Steady,” a Spanglish viral sensation that left a huge digital footprint. In just four years, Paloma has generated more than 2 Billion global streams, over two million YouTub",
+      "social_links": {
+        "instagram": "https://www.instagram.com/palomamami/",
+        "youtube": "https://www.youtube.com/@PalomaMami",
+        "tiktok": "https://www.tiktok.com/@bigmommatings",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt",
+        "apple_music": "https://music.apple.com/gb/artist/1401778806",
+        "facebook": "https://www.facebook.com/PalomaMamiOfficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Pedro Capó",
+      "slug": "pedro-capo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/pedro-capo/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/63f5f21b692bd87352749e20d75bdc76/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/pedro-capo.jpg",
+      "bio_excerpt": "Pedro Capó has music in his DNA, not only because his is the grandson of the legendary music star Bobby Capó, but also because it is all that lives, breathes and professes. It is through his art that he expresses his innermost feelings of his personal and professional environment.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/pedrocapo/",
+        "youtube": "https://www.youtube.com/channel/UC6goaPmi9oiGf3IVrVb6AmQ",
+        "tiktok": "https://www.tiktok.com/@pedrocapomusica?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/PedroCapoMusica/",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Pee Wee",
+      "slug": "pee-wee",
+      "profile_url": "https://www.sonymusiclatin.com/artists/pee-wee/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/432abad36dd8697ef984afa7054ef691/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/pee-wee.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/@PeeWeeOfficial",
+        "tiktok": null,
+        "x": null,
+        "spotify": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA",
+        "apple_music": null,
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Play-N-Skillz",
+      "slug": "play-n-skillz",
+      "profile_url": "https://www.sonymusiclatin.com/artists/play-n-skillz/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/39cbd14c7597d1da994a792f236f87ee/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/play-n-skillz.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/playnskillz/",
+        "youtube": "https://music.youtube.com/channel/UCX2yqJo9G5oJvw0leb3Ev5A",
+        "tiktok": null,
+        "x": "https://twitter.com/playnskillz",
+        "spotify": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s",
+        "apple_music": "https://music.apple.com/us/artist/6401984",
+        "facebook": "https://www.facebook.com/PlayNSkillz",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Polimá Westcoast",
+      "slug": "polima-westcoast",
+      "profile_url": "https://www.sonymusiclatin.com/artists/polima-westcoast/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/383390d334c26fa5de645ab7f69df460/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/polima-westcoast.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/richboywest/",
+        "youtube": "https://music.youtube.com/channel/UCNcJAJvUKB7Z9o-wgQCPaqQ",
+        "tiktok": null,
+        "x": "https://twitter.com/polimawestcoast",
+        "spotify": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE",
+        "apple_music": null,
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Prince Royce",
+      "slug": "prince-royce",
+      "profile_url": "https://www.sonymusiclatin.com/artists/prince-royce/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/34c4613ef715fdae5afec5b8da10485f/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/prince-royce.jpg",
+      "bio_excerpt": "En los últimos 7 años, el galardonado cantante y compositor multi-platino Prince Royce se ha convertido en una auténtica superestrella, con quince #1’s en la radio, 22 Premios Billboard de la Música Latina, 19 Premios lo Nuestro, 19 Premios Juventud, 6 Latin AMAs y 11 nominaciones al Latin GRAMMY®.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/princeroyce/",
+        "youtube": "https://www.youtube.com/channel/UCAMpOm4QAk15tLyjuBNtQyg",
+        "tiktok": "https://www.tiktok.com/@princeroyce?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC",
+        "apple_music": "https://music.apple.com/mx/artist/333299061",
+        "facebook": "https://www.facebook.com/princeroyce",
+        "soundcloud": "https://soundcloud.com/princeroyce1"
+      }
+    },
+    {
+      "name": "Rauw Alejandro",
+      "slug": "rauw-alejandro",
+      "profile_url": "https://www.sonymusiclatin.com/artists/rauw-alejandro/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/0e7b2b93b91789a054bc3f08bb3df3a8/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/rauw-alejandro.jpg",
+      "bio_excerpt": "Latin GRAMMY® award winning and 4x GRAMMY® nominated Puerto Rican singer and songwriter Rauw Alejandro has been leading the new generation of Latin music artists since he appeared on the scene in 2016.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/rauwalejandro/",
+        "youtube": "https://www.youtube.com/channel/UC_Av98lDjf5KvFib5elhpYg",
+        "tiktok": "https://www.tiktok.com/@rauwalejandro?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq",
+        "apple_music": "https://music.apple.com/us/artist/1107186883",
+        "facebook": "https://www.facebook.com/rauwalejandro/",
+        "soundcloud": "https://soundcloud.com/rauwalejandro"
+      }
+    },
+    {
+      "name": "Raquel Sofía",
+      "slug": "raquel-sofia",
+      "profile_url": "https://www.sonymusiclatin.com/artists/raquel-sofia/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/2c7eba827ef2e7d13f65e9955d2dfc0b/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/raquel-sofia.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/raquelsofia/",
+        "youtube": "https://www.youtube.com/channel/UCleqjA-xt7OKt7dgtIEE-RQ",
+        "tiktok": null,
+        "x": "https://twitter.com/raquelsofia",
+        "spotify": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/raquelsofiamusic",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Reik",
+      "slug": "reik",
+      "profile_url": "https://www.sonymusiclatin.com/artists/reik/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Reik.jpg/330px-Reik.jpg",
+      "image_local_path": "data/images/reik.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/reikmx/",
+        "youtube": "https://www.youtube.com/channel/UC2rbcd_YR3j_klIv4AXXaZw",
+        "tiktok": null,
+        "x": "https://twitter.com/reikmx",
+        "spotify": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2",
+        "apple_music": "https://music.apple.com/gb/artist/117471769",
+        "facebook": "https://www.facebook.com/Reik",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Ricardo Montaner",
+      "slug": "ricardo-montaner",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ricardo-montaner/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/9cc9cc29462e4b331ce6560f87d094b5/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/ricardo-montaner.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/montaner/",
+        "youtube": "https://www.youtube.com/channel/UCsTl5H5X4SvTUkCCaMbAWyg",
+        "tiktok": null,
+        "x": "https://twitter.com/montanertwiter",
+        "spotify": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD",
+        "apple_music": "https://music.apple.com/co/artist/142070",
+        "facebook": "https://www.facebook.com/ricardo.montaner",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Ricky Martin",
+      "slug": "ricky-martin",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ricky-martin/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ricky_Martin_Golden_Globe_Awards_2018.jpg/330px-Ricky_Martin_Golden_Globe_Awards_2018.jpg",
+      "image_local_path": "data/images/ricky-martin.jpg",
+      "bio_excerpt": "Ricky Martin es la figura líder de la música latina de su generación – amado por los fans de todo el mundo por su comprensión instintiva del ritmo, su pasión por la interpretación y su compasión para dar. Con un historial de 95 discos de Platino y 40 discos de Oro, ha recibido muchos premios incluye",
+      "social_links": {
+        "instagram": "https://www.instagram.com/ricky_martin/",
+        "youtube": "https://www.youtube.com/channel/UCGkkG-VYVXenlhVIqjH-9oA",
+        "tiktok": "https://www.tiktok.com/@ricky__martin?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ",
+        "apple_music": "https://music.apple.com/us/artist/217142",
+        "facebook": "https://www.facebook.com/RickyMartinOfficialPage",
+        "soundcloud": "https://soundcloud.com/ricky-martin-official"
+      }
+    },
+    {
+      "name": "Jean Rodríguez",
+      "slug": "jean-rodriguez",
+      "profile_url": "https://www.sonymusiclatin.com/artists/jean-rodriguez/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/59721b5e990c0729328544b1ff845ff1/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/jean-rodriguez.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/channel/UC16aF70kysMIJdz51HdMx9Q",
+        "tiktok": null,
+        "x": "https://twitter.com/zurron_aprendiz",
+        "spotify": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO",
+        "apple_music": null,
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Río Roma",
+      "slug": "rio-roma",
+      "profile_url": "https://www.sonymusiclatin.com/artists/rio-roma/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/7bedaa8ad34afc89b8093f9741b9474e/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/rio-roma.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/rioromamx/",
+        "youtube": "https://www.youtube.com/channel/UCpRHv7Tg-o4slDsB5jvTiWw",
+        "tiktok": null,
+        "x": "https://twitter.com/rioromamx",
+        "spotify": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt",
+        "apple_music": "https://music.apple.com/mx/artist/415792977",
+        "facebook": "https://www.facebook.com/rioromamx",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Roberto Carlos",
+      "slug": "roberto-carlos",
+      "profile_url": "https://www.sonymusiclatin.com/artists/roberto-carlos/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/LS3_1288_%2853332367864%29_%28cropped%29.jpg/330px-LS3_1288_%2853332367864%29_%28cropped%29.jpg",
+      "image_local_path": "data/images/roberto-carlos.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/robertocarlosoficial/",
+        "youtube": "https://www.youtube.com/user/RobertoCarlosVEVO",
+        "tiktok": null,
+        "x": "https://twitter.com/robertocarlos",
+        "spotify": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/RobertoCarlosOficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Romeo Santos",
+      "slug": "romeo-santos",
+      "profile_url": "https://www.sonymusiclatin.com/artists/romeo-santos/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/0a20c1c5fb5cdd61052c915a325b3589/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/romeo-santos.jpg",
+      "bio_excerpt": "Conocido como “El Rey de la Bachata”, Romeo Santos es un ícono mundial que bate récords dentro de la industria de la música latina como cantante, compositor, intérprete, magnate, actor y productor. Con más de dos décadas de carrera como solista y productor jefe y compositor del legendario grupo Aven",
+      "social_links": {
+        "instagram": "https://www.instagram.com/romeosantos/",
+        "youtube": "https://www.youtube.com/channel/UCyxbZF7_PK4nLiexj0kkCNg",
+        "tiktok": "https://www.tiktok.com/@romeosantos?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP",
+        "apple_music": "https://music.apple.com/us/artist/434832774",
+        "facebook": "https://www.facebook.com/RomeoSantosOfficial",
+        "soundcloud": "https://soundcloud.com/romeo-santos"
+      }
+    },
+    {
+      "name": "Rvssian",
+      "slug": "rvssian",
+      "profile_url": "https://www.sonymusiclatin.com/artists/rvssian/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/a22fcc0f4b1f999695dd7c079596d967/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/rvssian.jpg",
+      "bio_excerpt": "Jamaican genre-crossing producer and vocalist Rvssian rose to acclaim working closely with dancehall superstar Vybz Kartel. Beginning with the 2010 song “Life Sweet,” Rvssian and Kartel worked together on a string of hits, opening the door for Rvssian’s production work to find a voice on songs by Sh",
+      "social_links": {
+        "instagram": "https://www.instagram.com/rvssian/",
+        "youtube": "https://www.youtube.com/@RvssianOfficial",
+        "tiktok": "https://www.tiktok.com/@rvssian?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS",
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/Rvssianhcr/",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Samo",
+      "slug": "samo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/samo/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/eeae10f1208310eb0b01f131d698e7fa/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/samo.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/channel/UCOazd-JZKLd2XLVm0mDA8Hg",
+        "tiktok": null,
+        "x": "https://twitter.com/samoallstar",
+        "spotify": null,
+        "apple_music": "https://music.apple.com/mx/artist/68774774",
+        "facebook": "https://www.facebook.com/SamoOficial",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Sasha, Benny y Erik",
+      "slug": "sasha-benny-y-erik",
+      "profile_url": "https://www.sonymusiclatin.com/artists/sasha-benny-y-erik/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/206d8fc521147cca4bf3baed30e954f6/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/sasha-benny-y-erik.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": null,
+        "tiktok": null,
+        "x": null,
+        "spotify": "https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC",
+        "apple_music": "https://music.apple.com/mx/artist/556077908",
+        "facebook": "https://www.facebook.com/sashabennyerik",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Silvestre Dangond",
+      "slug": "silvestre-dangond",
+      "profile_url": "https://www.sonymusiclatin.com/artists/silvestre-dangond/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/615aa8dceb24854b2cfdbe6339067242/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/silvestre-dangond.jpg",
+      "bio_excerpt": "SILVESTRE FRANCISCO DANGOND CORRALES, nacido en el municipio de Urumita en el departamento de La Guajira al norte de Colombia, un 12 de mayo de 1980, es hijo del otrora cantante William José “El Palomo” Dangond Baquero, quien a mediados de la década del setenta, hiciese pareja musical con Andrés “El",
+      "social_links": {
+        "instagram": "https://www.instagram.com/silvestredangond/",
+        "youtube": "https://www.youtube.com/channel/UCScLUp5GBUG0sV-LSg8r_kA",
+        "tiktok": "https://www.tiktok.com/@silvestredangond",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e",
+        "apple_music": "https://music.apple.com/co/artist/311205761",
+        "facebook": "https://www.facebook.com/SilvestreDangond",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Shakira",
+      "slug": "shakira",
+      "profile_url": "https://www.sonymusiclatin.com/artists/shakira/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/69c569506a8ff6ab0edfecbd1adf94b0/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/shakira.jpg",
+      "bio_excerpt": "En el transcurso de su prolífica carrera, la cantante y compositora colombiana Shakira ha vendido más de 60 millones de discos a nivel mundial y ganado numerosos premios incluyendo dos GRAMMYs®, ocho Latin GRAMMY® y varios World Music Awards, American Music Awards y Premios Billboard, por nombrar so",
+      "social_links": {
+        "instagram": "https://www.instagram.com/shakira/",
+        "youtube": "https://www.youtube.com/shakira",
+        "tiktok": "https://www.tiktok.com/@shakira?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp",
+        "apple_music": "https://music.apple.com/co/artist/889327",
+        "facebook": "https://www.facebook.com/shakira",
+        "soundcloud": "https://soundcloud.com/shakira"
+      }
+    },
+    {
+      "name": "Sky Rompiendo",
+      "slug": "sky-rompiendo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/sky-rompiendo/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/0ccec5f05ce97ca40672594071e601d1/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/sky-rompiendo.jpg",
+      "bio_excerpt": "Over the past decade, SKY has established himself as one of the premier hitmakers in the world, having produced global anthems for Latin superstars such as Bad Bunny, J. Balvin, Karol G, Rosalia, Maluma, Anitta, Rauw Alejandro, Nicky Jam, Ozuna, as well as their dynamic collaborations with U.S. powe",
+      "social_links": {
+        "instagram": "https://www.instagram.com/skyrompiendo/",
+        "youtube": "https://www.youtube.com/channel/UCpjVjpnB13AFl60uS0cgBfA",
+        "tiktok": "https://www.tiktok.com/@rompiendoelbajo?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/3Qbq5j9nVExl3lN3nT5GwP",
+        "apple_music": "https://music.apple.com/co/artist/723761166",
+        "facebook": "https://www.facebook.com/Sky.Rompiendo/",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Thalía",
+      "slug": "thalia",
+      "profile_url": "https://www.sonymusiclatin.com/artists/thalia/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/e33972e57d491ed494ccd588f486c427/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/thalia.jpg",
+      "bio_excerpt": "Ella es “la reina del pop latino” , una de las artistas latinas más populares de las últimas dos décadas. Thalía ha tenido una trayectoria increíble y versátil, llena de éxitos y seguida por millones de fieles seguidores a lo largo de sus 20 años de carrera. Esta cantante/actriz/empresaria ganadora ",
+      "social_links": {
+        "instagram": "https://www.instagram.com/thalia/",
+        "youtube": "https://www.youtube.com/user/thalia",
+        "tiktok": "https://www.tiktok.com/@thalia?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb",
+        "apple_music": "https://music.apple.com/mx/artist/88612122",
+        "facebook": "https://www.facebook.com/Thalia/",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Tini",
+      "slug": "tini",
+      "profile_url": "https://www.sonymusiclatin.com/artists/tini/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/efb8ac71cf0c9358acbce2b8126bfa39/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/tini.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/tinistoessel/",
+        "youtube": "https://www.youtube.com/channel/UCt91CNr5LGNw-xix1Y5B2xA",
+        "tiktok": "https://www.tiktok.com/@tinistoessel?lang=en",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/1u88vrRlJSMtOqP6ulmeCc",
+        "apple_music": "https://music.apple.com/gb/artist/1093346777",
+        "facebook": "https://www.facebook.com/sonymusiclatin",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Víctor Manuelle",
+      "slug": "victor-manuelle",
+      "profile_url": "https://www.sonymusiclatin.com/artists/victor-manuelle/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/befb52ba7fee5effc3a5bfc70430ef09/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/victor-manuelle.jpg",
+      "bio_excerpt": "El consagrado cantante, autor y productor puertorriqueño VÍCTOR MANUELLE comenzó su carrera profesional en 1993, y hasta la fecha ha vendido millones de discos mundialmente. En Estados Unidos y Puerto Rico, cuatro de sus álbumes han alcanzado en ventas la certificación de Multi-Platino por RIAA ( Re",
+      "social_links": {
+        "instagram": "https://www.instagram.com/victormanuelleonline/",
+        "youtube": "https://www.youtube.com/channel/UCZxOJC1SGP-CaXEr03kNWVg",
+        "tiktok": "https://www.tiktok.com/@victormanuelle?language=en&sec_uid=MS4wLjABAAAAi3oUP7hxFzgkNwS7NrFre8FAjkmkE7LUnEki8QiQshYdIYDThpqNAXm16cqv-TF9&u_code=888g61mfkl0gl&timestamp=1585795845&user_id=183300180681691136&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_app_name=musically&share_iid=6808497089832584965&_r=1",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2",
+        "apple_music": "https://music.apple.com/us/artist/4190895",
+        "facebook": "https://www.facebook.com/victormanuelleonline/",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Wisin",
+      "slug": "wisin",
+      "profile_url": "https://www.sonymusiclatin.com/artists/wisin/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/c66afc8b2577dc7356e43422e5138ad0/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/wisin.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/wisin/",
+        "youtube": "https://music.youtube.com/channel/UCFVg6y3fZO7OVFbmoGfNdhQ",
+        "tiktok": null,
+        "x": "https://twitter.com/wisin",
+        "spotify": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz",
+        "apple_music": "https://music.apple.com/us/artist/49252346",
+        "facebook": "https://www.facebook.com/wisinelsobreviviente",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Yandel",
+      "slug": "yandel",
+      "profile_url": "https://www.sonymusiclatin.com/artists/yandel/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/1d6fdd7f4dfd5ca9fdf057f86bd9ef08/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/yandel.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": "https://www.instagram.com/yandel/",
+        "youtube": "https://www.youtube.com/channel/UC-LRORSJOy5cOBd5TVVQ6Fw",
+        "tiktok": null,
+        "x": "https://twitter.com/yandeloficial",
+        "spotify": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD",
+        "apple_music": "https://music.apple.com/us/artist/72929426",
+        "facebook": "https://www.facebook.com/YandelelOficial",
+        "soundcloud": "https://soundcloud.com/yandel-official"
+      }
+    },
+    {
+      "name": "Yendry",
+      "slug": "yendry",
+      "profile_url": "https://www.sonymusiclatin.com/artists/yendry/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/cf48ab0bb6fb4aec4f3a198a12bdac33/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/yendry.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/@yendry",
+        "tiktok": null,
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Yuki Chiba",
+      "slug": "yuki-chiba",
+      "profile_url": "https://www.sonymusiclatin.com/artists/yuki-chiba/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/0b9b2eb3e5976103f007dc133cbd7a42/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/yuki-chiba.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": null,
+        "tiktok": null,
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null,
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Yordano",
+      "slug": "yordano",
+      "profile_url": "https://www.sonymusiclatin.com/artists/yordano/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/ed31f2db1232a776ed2f88d66e232c90/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/yordano.jpg",
+      "bio_excerpt": "Send Us Feedback|Privacy Policy|How We Use Your Data|Do Not Sell My Personal Information|Your California Privacy Rights|Terms and Conditions",
+      "social_links": {
+        "instagram": "https://www.instagram.com/yordanodimarzo/",
+        "youtube": "https://www.youtube.com/channel/UC-5UX-h4t2xipoSwn6ykmCA",
+        "tiktok": "https://www.tiktok.com/@sonymusiclatin#:~:text=Sony%20Music%20Latin%20(%40sonymusiclatin)%20Official%20%7C%20TikTok",
+        "x": "https://x.com/sonymusiclatin",
+        "spotify": "https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ",
+        "apple_music": "https://music.apple.com/ve/artist/137298367",
+        "facebook": "https://www.facebook.com/yordanodimarzo",
+        "soundcloud": null
+      }
+    },
+    {
+      "name": "Yuri",
+      "slug": "yuri",
+      "profile_url": "https://www.sonymusiclatin.com/artists/yuri/",
+      "image_url": "https://cdn-images.dzcdn.net/images/artist/9a57ecd0fc83f32258eb0366358390b5/1000x1000-000000-80-0-0.jpg",
+      "image_local_path": "data/images/yuri.jpg",
+      "bio_excerpt": "",
+      "social_links": {
+        "instagram": null,
+        "youtube": "https://www.youtube.com/@yuri",
+        "tiktok": null,
+        "x": null,
+        "spotify": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx",
+        "apple_music": "https://music.apple.com/us/artist/567836",
+        "facebook": null,
+        "soundcloud": null
+      }
+    }
+  ]
+}

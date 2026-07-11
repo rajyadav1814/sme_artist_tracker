@@ -1,0 +1,847 @@
+# Sony Music Entertainment — Artist Tracker
+# ==========================================
+# Canonical curated list of artists tracked by the daily pipeline.
+# This file is the authoritative source: scripts/build_roster.py reads it
+# and produces data/roster.json, which the pipeline + frontend consume.
+#
+# To add an artist:     append a block, run `npm run pipeline`, commit.
+# To remove an artist:  delete the block (or set status: archived to keep
+#                       historical snapshots/news intact).
+# To update an artist:  edit fields, commit. The pipeline picks it up on
+#                       the next run.
+#
+# Field reference: see skill/references/curated-artists.md
+#
+# IMPORTANT — slug stability:
+#   The `slug` field is the immutable key used across data/snapshots/,
+#   data/images/, and frontend routing. NEVER change a slug for an
+#   existing artist; rename the display `name` instead. If you must
+#   change a slug, also rename historical files in data/snapshots/
+#   and data/images/.
+
+version: "1.0"
+updated: "2026-04-29"
+maintainer: "praveer@chromadata.com"
+source: "Customer-provided curated list, 2026-04-29"
+
+# ── Field allowed values ──────────────────────────────────────────────
+# label_status:  sony-latin | sony-brasil | sony-spain | sony-mexico | non-sony | unconfirmed
+# entity_type:   solo | duo | group | estate
+# status:        active | hiatus | legacy_estate | archived
+# priority:      high | standard | rising | catalog
+
+artists:
+
+- name: "Alejandro Sanz"
+  slug: "alejandro-sanz"
+  country: "ES"
+  genre_tags: [pop, flamenco-pop, ballad]
+  label_division: "Universal Music Spain"
+  label_status: "non-sony"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/alejandrosanz/
+    x: https://twitter.com/AlejandroSanz
+    apple_music: https://itunes.apple.com/artist/id162036
+    facebook: https://www.facebook.com/ASanzOficial
+- name: "Beéle"
+  slug: "beele"
+  country: "CO"
+  genre_tags: [reggaeton, afrobeats, urbano]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/beele
+    youtube: https://www.youtube.com/channel/UCYAQgXVSRzUeNo34-RJOWUw
+    tiktok: https://www.tiktok.com/@beele
+    x: https://twitter.com/beelemusica
+    spotify: https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7
+    facebook: https://www.facebook.com/beelemusica/
+- name: "C. Tangana"
+  slug: "c-tangana"
+  country: "ES"
+  genre_tags: [hip-hop, alt-flamenco, urbano]
+  label_division: "Sony Music Spain"
+  label_status: "sony-spain"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/c.tangana/
+    youtube: https://www.youtube.com/channel/UCOZyjrZSrTJJHU05DlF71Jw
+    tiktok: https://www.tiktok.com/@c.tangana
+    x: https://twitter.com/c_tangana
+    spotify: https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO
+    apple_music: https://itunes.apple.com/es/artist/id600574924
+    facebook: https://www.facebook.com/ctanganaoficial/
+- name: "CA7RIEL & Paco Amoroso"
+  slug: "ca7riel-paco-amoroso"
+  country: "AR"
+  genre_tags: [urbano, rap, alternative]
+  label_division: "Sony Music Latin Argentina"
+  label_status: "sony-latin"
+  entity_type: "duo"
+  members:
+  - {name: "CA7RIEL", slug: "ca7riel"}
+  - {name: "Paco Amoroso", slug: "paco-amoroso"}
+  status: "active"
+  priority: "high"
+  notes: "Viral via NPR Tiny Desk 2024."
+
+  social_links:
+    instagram: https://www.instagram.com/ca7rielypacoamoroso/
+    youtube: https://www.youtube.com/channel/UCysiER15Vj3gjdsNUN84uLA
+    tiktok: https://www.tiktok.com/@ca7rielypacoamoroso
+    x: https://twitter.com/ca7rielypaco
+    spotify: https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX
+    facebook: https://www.facebook.com/ca7rielypaco/
+- name: "Caetano Veloso"
+  slug: "caetano-veloso"
+  country: "BR"
+  genre_tags: [mpb, tropicalia, samba]
+  label_division: "Sony Music Brasil (historical)"
+  label_status: "unconfirmed"
+  entity_type: "solo"
+  status: "active"
+  priority: "standard"
+  notes: "Current label affiliation unconfirmed; track via public profiles."
+
+  social_links:
+    instagram: https://www.instagram.com/caetanoveloso/
+    youtube: https://www.youtube.com/channel/UCPcx7C0G024NtLNLODhu3VA
+    tiktok: https://www.tiktok.com/@caetano_veloso
+    x: https://twitter.com/falacaetano
+    spotify: https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ
+    apple_music: https://itunes.apple.com/artist/id134260
+    facebook: https://www.facebook.com/FalaCaetano
+- name: "Camila"
+  slug: "camila"
+  country: "MX"
+  genre_tags: [pop-rock, ballad]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "group"
+  members:
+  - {name: "Mario Domm", slug: "mario-domm"}
+  - {name: "Pablo Hurtado", slug: "pablo-hurtado"}
+  - {name: "Samo", slug: "samo"}
+  status: "active"
+  priority: "high"
+  notes: "Original trio reunited 2024; 'Regresa' album March 2024."
+
+  social_links:
+    instagram: https://www.instagram.com/CamilaMx/
+    youtube: https://www.youtube.com/channel/UCTbABe0xvBjIQeCMXU_R7fA
+    tiktok: https://www.tiktok.com/@camila_mx
+    x: https://twitter.com/Camilamx
+    spotify: https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU
+    apple_music: https://itunes.apple.com/mx/artist/id152260603
+    facebook: https://www.facebook.com/Camilamusic
+- name: "Carlos Santana"
+  slug: "carlos-santana"
+  country: "MX"
+  genre_tags: [rock, latin-rock, blues-rock]
+  label_division: "BMG / Concord"
+  label_status: "non-sony"
+  entity_type: "solo"
+  status: "active"
+  priority: "standard"
+
+  social_links:
+    instagram: https://www.instagram.com/carlossantana
+    youtube: https://www.youtube.com/channel/UCI7pNDDat9jR8TjgF48aBDA
+    facebook: https://www.facebook.com/carlossantana
+- name: "Carlos Vives"
+  slug: "carlos-vives"
+  country: "CO"
+  genre_tags: [vallenato, pop, cumbia]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/carlosvives/
+    youtube: https://www.youtube.com/channel/UCcoTDF00osWsjkiO3eC9viw
+    tiktok: https://www.tiktok.com/@carlosvives
+    x: https://twitter.com/carlosvives
+    spotify: https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr
+    apple_music: https://itunes.apple.com/co/artist/id554369
+    facebook: https://www.facebook.com/carlosvivesoficial/
+- name: "Charly García"
+  slug: "charly-garcia"
+  country: "AR"
+  genre_tags: [rock, rock-nacional]
+  label_division: "Sony Music Latin Argentina"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "standard"
+
+  social_links:
+    instagram: https://www.instagram.com/charlygarcia/
+    youtube: https://www.youtube.com/channel/UCwdcsrSoGZLPNpRurWqySAA
+    tiktok: https://www.tiktok.com/@charlysaynomore
+    x: https://twitter.com/charlygarciabg
+    spotify: https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo
+    facebook: https://www.facebook.com/Partedelareligion/
+- name: "Chayanne"
+  slug: "chayanne"
+  country: "PR"
+  genre_tags: [pop, ballad]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/chayanne/
+    youtube: https://www.youtube.com/channel/UCltTIW3M5KliU-pu5nPaGUg
+    tiktok: https://www.tiktok.com/@chayanne
+    x: https://twitter.com/chayannemusic
+    spotify: https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv
+    facebook: https://www.facebook.com/CHAYANNE/
+- name: "Christina Aguilera"
+  slug: "christina-aguilera"
+  country: "US"
+  genre_tags: [pop, latin-pop]
+  label_division: "RCA Records (Sony BMG)"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/xtina
+    youtube: https://www.youtube.com/channel/UCgBN6eQyZPnsApiL1QW44Hg
+    tiktok: https://www.tiktok.com/@xtina
+    x: https://twitter.com/xtina
+    spotify: https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS
+    apple_music: https://itunes.apple.com/us/artist/id259398
+    facebook: https://www.facebook.com/christinaaguilera
+- name: "DARUMAS"
+  slug: "darumas"
+  country: "MULTI"     # AR / CU-US / HT-CL — see members
+  genre_tags: [latin-funk, pop, r-and-b]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "group"
+  members:
+  - {name: "Aldana", slug: "aldana-darumas"}
+  - {name: "Ceci", slug: "ceci-darumas"}
+  - {name: "Vedala", slug: "vedala-darumas"}
+  status: "active"
+  priority: "rising"
+  notes: "Trio: Aldana (AR), Ceci (CU-US), Vedala (HT-CL). Debut album 2024."
+
+  social_links:
+    instagram: https://www.instagram.com/darumasband/
+    youtube: https://www.youtube.com/@DARUMASVEVO
+    tiktok: https://www.tiktok.com/@darumasband
+    spotify: https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9
+    facebook: https://www.facebook.com/profile.php?id=61552074323922
+- name: "DENNIS"
+  slug: "dennis"
+  country: "BR"
+  genre_tags: [funk-carioca, electronic]
+  label_division: "Sony Music Brasil"
+  label_status: "sony-brasil"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+  notes: "Performs as DENNIS DJ. Funk carioca producer/DJ."
+
+  social_links:
+    instagram: https://www.instagram.com/dennisdj/
+    youtube: https://www.youtube.com/channel/UCrPMM16a2XymtrPJwFW4kAQ
+    tiktok: https://www.tiktok.com/@dennisdjoficial
+    x: https://twitter.com/hs16bm
+    spotify: https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy
+    facebook: https://www.facebook.com/DJ-Dennis-Entertainment-123950110998187/
+- name: "Djavan"
+  slug: "djavan"
+  country: "BR"
+  genre_tags: [mpb, samba, jazz-fusion]
+  label_division: "Sony Music Brasil (historical)"
+  label_status: "unconfirmed"
+  entity_type: "solo"
+  status: "active"
+  priority: "standard"
+
+  social_links:
+    instagram: https://www.instagram.com/djavanoficial/
+    youtube: https://www.youtube.com/channel/UCQkUNXUhkm6KewHbDxK_g0g
+    tiktok: https://www.tiktok.com/@djavan
+    x: https://twitter.com/djavanoficial
+    spotify: https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA
+    apple_music: https://itunes.apple.com/us/artist/id10416
+    facebook: https://www.facebook.com/Djavanoficial
+- name: "Emilia"
+  slug: "emilia"
+  country: "AR"
+  genre_tags: [urbano-pop, reggaeton]
+  label_division: "Sony Music Latin Argentina"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/emiliamernes/
+    youtube: https://www.youtube.com/channel/UC4osEqmcQL5d1UYJVft-klA
+    tiktok: https://www.tiktok.com/@emiliamernes
+    x: https://twitter.com/SoyEmiliamusica
+    spotify: https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9
+    facebook: https://www.facebook.com/tarlandemilia/
+- name: "Filipe Ret"
+  slug: "filipe-ret"
+  country: "BR"
+  genre_tags: [hip-hop, trap, rap]
+  label_division: "Sony Music Brasil"
+  label_status: "sony-brasil"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/filiperet/
+    youtube: https://www.youtube.com/channel/UC9vsg8Lpxf2R8CjaLrd-R1g
+    tiktok: https://www.tiktok.com/@filiperet
+    x: https://twitter.com/filiperet
+    spotify: https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54
+    facebook: https://www.facebook.com/FilipeRetOficial/
+- name: "Fito Páez"
+  slug: "fito-paez"
+  country: "AR"
+  genre_tags: [rock, rock-nacional, ballad]
+  label_division: "Sony Music Latin Argentina"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "standard"
+
+  social_links:
+    instagram: https://www.instagram.com/fitopaezmusica/
+    youtube: https://www.youtube.com/channel/UCnlr4LDiHnZCazpfuCT1czg
+    tiktok: https://www.tiktok.com/@fitopaezmusica
+    x: https://twitter.com/fitopaezmusica
+    spotify: https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu
+    facebook: https://www.facebook.com/fitopaez
+- name: "Grupo Menos É Mais"
+  slug: "grupo-menos-e-mais"
+  country: "BR"
+  genre_tags: [pagode, samba]
+  label_division: "Sony Music Brasil"
+  label_status: "sony-brasil"
+  entity_type: "group"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/grupomenosemais/
+    youtube: https://www.youtube.com/channel/UCmkSzYG4ykYKFE4Ow0030zw
+    tiktok: https://www.tiktok.com/@grupomenosemais
+    x: https://twitter.com/grupomenosemais
+    spotify: https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi
+    facebook: https://www.facebook.com/menosemais
+- name: "Gusttavo Lima"
+  slug: "gusttavo-lima"
+  country: "BR"
+  genre_tags: [sertanejo]
+  label_division: "Som Livre / Sony Brasil distribution"
+  label_status: "unconfirmed"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/gusttavolima/
+    youtube: https://www.youtube.com/channel/UCXooz9whNJZBRTHi9AqdjPw
+    tiktok: https://www.tiktok.com/@gusttavolima
+    x: https://twitter.com/gusttavo_lima
+    spotify: https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN
+    facebook: https://www.facebook.com/gusttavolimaoficial
+- name: "Ha*Ash"
+  slug: "ha-ash"
+  aliases: ["HA-ASH", "HAASH"]
+  country: "MX"     # Members: US-born, raised in MX
+  genre_tags: [pop, latin-pop, ballad]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "duo"
+  members:
+  - {name: "Hanna Nicole", slug: "hanna-nicole"}
+  - {name: "Ashley Grace", slug: "ashley-grace"}
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/haashoficial/
+    youtube: https://www.youtube.com/channel/UC6kb0evup3Kgbz0N067E9wA
+    tiktok: https://www.tiktok.com/@haashoficial
+    x: https://twitter.com/haashoficial
+    spotify: https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8
+    facebook: https://www.facebook.com/haashoficial
+- name: "Jorge Drexler"
+  slug: "jorge-drexler"
+  country: "UY"
+  genre_tags: [folk, songwriter, latin-alternative]
+  label_division: "Warner Music"
+  label_status: "non-sony"
+  entity_type: "solo"
+  status: "active"
+  priority: "standard"
+
+  social_links:
+    instagram: https://www.instagram.com/drexlerjorge/
+    youtube: https://www.youtube.com/channel/UCh9gFyjZsmt_Fz3QXO_5fVA
+    tiktok: https://www.tiktok.com/@jorgedrexler0
+    x: https://twitter.com/drexlerjorge
+    spotify: https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt
+    facebook: https://www.facebook.com/JorgeDrexlerOficial
+- name: "Kany García"
+  slug: "kany-garcia"
+  country: "PR"
+  genre_tags: [pop, songwriter, latin-alternative]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/kanygarcia/
+    youtube: https://www.youtube.com/channel/UCc2ZilH94OFrGRaVKwh75tA
+    tiktok: https://www.tiktok.com/@kanygarcia
+    x: https://twitter.com/kanygarcia
+    spotify: https://open.spotify.com/artist/69UypehHabb68utzfjAVlV
+    apple_music: https://itunes.apple.com/us/artist/id251432197
+    facebook: https://www.facebook.com/kanygarcia/
+- name: "Kapo"
+  slug: "kapo"
+  country: "CO"
+  genre_tags: [afrobeats, reggaeton, urbano]
+  label_division: "La Industria Inc."
+  label_status: "non-sony"
+  entity_type: "solo"
+  status: "active"
+  priority: "rising"
+  notes: "2024 hit 'Ohnana'. Distribution may flow through Sony partners."
+
+  social_links:
+    instagram: https://www.instagram.com/yosoytukapo
+    youtube: https://www.youtube.com/channel/UCMuUGNq6D6FJXVss3yayfpQ
+    tiktok: https://www.tiktok.com/@yosoytukapo
+    x: https://twitter.com/yosoytukapo
+    spotify: https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i
+    facebook: https://www.facebook.com/kapooficial?mibextid=LQQJ4d
+- name: "Kenia OS"
+  slug: "kenia-os"
+  country: "MX"
+  genre_tags: [pop, latin-pop]
+  label_division: "Sony Music Mexico"
+  label_status: "sony-mexico"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/keniaos/
+    youtube: https://www.youtube.com/channel/UCSEY-xdBrV-J1zpLg9-mr6w
+    tiktok: https://www.tiktok.com/@keniaos
+    x: https://twitter.com/keniaos
+    spotify: https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG
+    facebook: https://www.facebook.com/La-Kenini-620585684988775
+- name: "Luan Santana"
+  slug: "luan-santana"
+  country: "BR"
+  genre_tags: [sertanejo, pop]
+  label_division: "Sony Music Brasil"
+  label_status: "sony-brasil"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/luansantana/
+    youtube: https://www.youtube.com/channel/UC6rwiIxv0w2fbmmr66wl1rA
+    tiktok: https://www.tiktok.com/@luansantana
+    x: https://twitter.com/luansantana
+    spotify: https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r
+    facebook: https://www.facebook.com/luansantana
+- name: "Luck Ra"
+  slug: "luck-ra"
+  country: "AR"
+  genre_tags: [cuarteto, urbano]
+  label_division: "Sony Music Latin Argentina"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "rising"
+
+  social_links:
+    instagram: https://www.instagram.com/luckra/
+    youtube: https://www.youtube.com/channel/UC9KvDJG-v_Pvceni6W2d1hg
+    tiktok: https://www.tiktok.com/@luckra
+    x: https://twitter.com/luckraok
+    spotify: https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk
+    facebook: https://www.facebook.com/LuckRaOficial/
+- name: "Luísa Sonza"
+  slug: "luisa-sonza"
+  country: "BR"
+  genre_tags: [pop, electropop]
+  label_division: "Sony Music Brasil"
+  label_status: "sony-brasil"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/luisasonza/
+    youtube: https://www.youtube.com/@LuisaSonza
+    tiktok: https://www.tiktok.com/@luisasonza
+    x: https://twitter.com/luisasonza
+    spotify: https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d
+    facebook: https://www.facebook.com/LuisaSonza/
+- name: "Marisa Monte"
+  slug: "marisa-monte"
+  country: "BR"
+  genre_tags: [mpb, samba, bossa-nova]
+  label_division: "Sony Music Brasil (historical)"
+  label_status: "unconfirmed"
+  entity_type: "solo"
+  status: "active"
+  priority: "standard"
+
+  social_links:
+    instagram: https://www.instagram.com/marisamonte/
+    youtube: https://www.youtube.com/channel/UC4EZ1VRVao2-bByh-x8O6PQ
+    tiktok: https://www.tiktok.com/@marisamonte
+    x: https://twitter.com/marisamonte
+    spotify: https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH
+    facebook: https://www.facebook.com/marisamonteoficial
+- name: "Mon Laferte"
+  slug: "mon-laferte"
+  country: "CL"
+  genre_tags: [pop, ranchera-fusion, latin-alternative]
+  label_division: "Universal Music"
+  label_status: "non-sony"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: http://www.instagram.com/monlaferte
+    youtube: https://www.youtube.com/channel/UCn51E6eKnnLklWOcdFT3w5A
+    tiktok: https://www.tiktok.com/@monlaferte
+    x: http://www.twitter.com/monlaferte
+    spotify: https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr
+    apple_music: https://itunes.apple.com/cl/artist/id447436990
+    facebook: http://www.facebook.com/monlaferte
+- name: "Natalia Lafourcade"
+  slug: "natalia-lafourcade"
+  country: "MX"
+  genre_tags: [folk, songwriter, latin-alternative]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/natalialafourcade/
+    youtube: https://www.youtube.com/channel/UCKw8oP0rF37jTEq_3R8O5Mg
+    tiktok: https://www.tiktok.com/@natalialafourcadeoficial
+    x: http://twitter.com/lafourcade
+    spotify: https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp
+    apple_music: https://itunes.apple.com/artist/id14937569
+    facebook: https://www.facebook.com/people/Natalia-Lafourcade-Oficial/100043833654240/
+- name: "Nathy Peluso"
+  slug: "nathy-peluso"
+  country: "AR"     # Argentine, based in Spain
+  genre_tags: [hip-hop, jazz, salsa, urbano]
+  label_division: "Sony Music Spain"
+  label_status: "sony-spain"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/nathypeluso/
+    youtube: https://www.youtube.com/channel/UCTjZWgoZjy-rn7nAjdtIdyQ
+    tiktok: https://www.tiktok.com/@nathypeluso
+    x: https://twitter.com/nathypeluso
+    spotify: https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN
+    facebook: https://www.facebook.com/nathy.peluso/
+- name: "Nicki Nicole"
+  slug: "nicki-nicole"
+  country: "AR"
+  genre_tags: [hip-hop, r-and-b, urbano]
+  label_division: "Sony Music Latin Argentina"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/nicki.nicole
+    youtube: https://www.youtube.com/channel/UCEMoAW9Qk0HrZqLxV5BFhDw
+    tiktok: https://www.tiktok.com/@nicki.nicole
+    x: https://twitter.com/Nicki_Nicole19
+    spotify: https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y
+    facebook: https://www.facebook.com/naikinai19
+- name: "Prince Royce"
+  slug: "prince-royce"
+  country: "US"     # US-born, Dominican heritage
+  genre_tags: [bachata, urbano, latin-pop]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/princeroyce/
+    youtube: https://www.youtube.com/channel/UCAMpOm4QAk15tLyjuBNtQyg
+    tiktok: https://www.tiktok.com/@princeroyce
+    x: https://twitter.com/princeroyce
+    spotify: https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC
+    apple_music: https://itunes.apple.com/artist/id333299061
+    facebook: https://www.facebook.com/princeroyce
+- name: "Rauw Alejandro"
+  slug: "rauw-alejandro"
+  country: "PR"
+  genre_tags: [urbano, reggaeton, r-and-b]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/rauwalejandro
+    youtube: https://www.youtube.com/channel/UC_Av98lDjf5KvFib5elhpYg
+    tiktok: https://www.tiktok.com/@rauwalejandro
+    x: https://twitter.com/rauwalejandro
+    spotify: https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq
+    facebook: https://www.facebook.com/rauwalejandro/
+- name: "Reik"
+  slug: "reik"
+  country: "MX"
+  genre_tags: [pop, latin-pop, ballad]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "group"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/reikmx
+    youtube: https://www.youtube.com/@reik
+    tiktok: https://www.tiktok.com/@reikmx
+    x: https://twitter.com/reikmx
+    spotify: https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2
+    facebook: https://www.facebook.com/Reik
+- name: "Residente"
+  slug: "residente"
+  country: "PR"
+  genre_tags: [hip-hop, latin-alternative]
+  label_division: "Sony Music Latin (independent imprint)"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/residente/
+    youtube: https://www.youtube.com/channel/UCzSz51ZH79cp5jvSkw_tJGA
+    tiktok: https://www.tiktok.com/@residente
+    x: https://twitter.com/residente
+    spotify: https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS
+    facebook: https://www.facebook.com/residente/
+- name: "Ricky Martin"
+  slug: "ricky-martin"
+  country: "PR"
+  genre_tags: [pop, latin-pop]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/ricky_martin/
+    youtube: https://www.youtube.com/channel/UCGkkG-VYVXenlhVIqjH-9oA
+    tiktok: https://www.tiktok.com/@ricky__martin
+    x: https://twitter.com/ricky_martin
+    spotify: https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ
+    facebook: https://www.facebook.com/RickyMartinOfficialPage
+- name: "Roberto Carlos"
+  slug: "roberto-carlos"
+  country: "BR"
+  genre_tags: [mpb, romantico, ballad]
+  label_division: "Sony Music Brasil"
+  label_status: "sony-brasil"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+  notes: "Sony Brasil's longest-tenured artist (since 1960s)."
+
+  social_links:
+    instagram: https://www.instagram.com/robertocarlosoficial/
+    youtube: https://www.youtube.com/channel/UCkgOVlkdnCiQ94trAJ0vxCw
+    x: https://twitter.com/robertocarlos
+    spotify: https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65
+    facebook: https://www.facebook.com/RobertoCarlosOficial
+- name: "Romeo Santos"
+  slug: "romeo-santos"
+  country: "US"     # US-born, Dominican heritage
+  genre_tags: [bachata, urbano]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/romeosantos/
+    youtube: https://www.youtube.com/channel/UCyxbZF7_PK4nLiexj0kkCNg
+    tiktok: https://www.tiktok.com/@romeosantos
+    x: https://twitter.com/RomeoSantosPage
+    spotify: https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP
+    apple_music: https://itunes.apple.com/artist/id434832774
+    facebook: https://www.facebook.com/RomeoSantosOfficial
+- name: "Rosalía"
+  slug: "rosalia"
+  country: "ES"
+  genre_tags: [flamenco-pop, experimental, urbano]
+  label_division: "Columbia Records (Sony)"
+  label_status: "sony-spain"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/rosalia.vt/
+    youtube: https://www.youtube.com/channel/UCQt9awGIFZeldFsATZNeJag
+    tiktok: https://www.tiktok.com/@rosalia
+    x: https://twitter.com/rosalia
+    spotify: https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1
+    facebook: https://www.facebook.com/rosalia.vt/
+- name: "Shakira"
+  slug: "shakira"
+  country: "CO"
+  genre_tags: [pop, latin-pop, rock]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/shakira/
+    youtube: https://www.youtube.com/channel/UCYLNGLIzMhRTi6ZOLjAPSmw
+    tiktok: https://www.tiktok.com/@shakira
+    x: http://twitter.com/shakira
+    spotify: https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp
+    apple_music: https://itunes.apple.com/artist/id889327
+    facebook: http://www.facebook.com/shakira
+- name: "Thalía"
+  slug: "thalia"
+  country: "MX"
+  genre_tags: [pop, latin-pop]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: http://www.instagram.com/thalia
+    youtube: https://www.youtube.com/channel/UCgyFSSvdNv3MC_atQPqM_XA
+    tiktok: https://www.tiktok.com/@thalia
+    x: http://www.twitter.com/thalia
+    spotify: https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb
+    apple_music: https://itunes.apple.com/mx/artist/id88612122
+    facebook: http://www.facebook.com/thalia
+- name: "Tiago Iorc"
+  slug: "tiago-iorc"
+  country: "BR"
+  genre_tags: [indie, songwriter, mpb]
+  label_division: "Sony Music Brasil"
+  label_status: "sony-brasil"
+  entity_type: "solo"
+  status: "active"
+  priority: "standard"
+
+  social_links:
+    instagram: https://www.instagram.com/tiagoiorc/
+    youtube: https://www.youtube.com/channel/UC_aoNApcsdzwaWaQQS2spvg
+    tiktok: https://www.tiktok.com/@tiagoiorc
+    x: https://twitter.com/tiagoiorc
+    spotify: https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M
+    facebook: https://www.facebook.com/iorcmusic
+- name: "TINI"
+  slug: "tini"
+  aliases: ["Tini", "Tini Stoessel"]
+  country: "AR"
+  genre_tags: [pop, urbano-pop]
+  label_division: "Sony Music Latin Argentina"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/tinistoessel/
+    youtube: https://www.youtube.com/channel/UCJusEPcWIH9EyYSCqGP-1ew
+    tiktok: https://www.tiktok.com/@tinistoessel
+    x: https://twitter.com/TiniStoessel
+    spotify: https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp
+    facebook: https://www.facebook.com/TinitaStoesel/
+- name: "Trueno"
+  slug: "trueno"
+  country: "AR"
+  genre_tags: [hip-hop, rap, urbano]
+  label_division: "Sony Music Latin Argentina"
+  label_status: "sony-latin"
+  entity_type: "solo"
+  status: "active"
+  priority: "high"
+
+  social_links:
+    instagram: https://www.instagram.com/trueno/
+    youtube: https://www.youtube.com/channel/UCR8xLrhLmZoMirYnjj4zEWg
+    tiktok: https://www.tiktok.com/@trueno
+    x: https://twitter.com/TruenoOficiaI
+    spotify: https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz
+    facebook: https://www.facebook.com/TruenoOficiaI
+- name: "Vicente Fernández"
+  slug: "vicente-fernandez"
+  country: "MX"
+  genre_tags: [ranchera, mariachi]
+  label_division: "Sony Music Latin"
+  label_status: "sony-latin"
+  entity_type: "estate"
+  status: "legacy_estate"
+  deceased_date: "2021-12-12"
+  priority: "catalog"
+  notes: "Track posthumous releases & catalog momentum only. Engagement/velocity KPIs disabled."
+  social_links:
+    instagram: https://www.instagram.com/_vicentefdez/
+    youtube: https://www.youtube.com/channel/UCwPTC2n6D8asyi1G5uBZlpw
+    tiktok: https://www.tiktok.com/@_vicentefdez
+    x: https://twitter.com/_vicentefdez
+    spotify: https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l
+    apple_music: https://itunes.apple.com/mx/artist/id6742830
+    facebook: https://www.facebook.com/VicenteFernandezOficial/

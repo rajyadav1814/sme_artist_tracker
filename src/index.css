@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+@theme {
+  /* ── Palette ─────────────────────────────── */
+  --color-bg-primary:    #0A0A0A;
+  --color-bg-secondary:  #141414;
+  --color-bg-card:       #1A1A1A;
+  --color-bg-card-hover: #222222;
+  --color-text-primary:  #FFFFFF;
+  --color-text-secondary:#999999;
+  --color-text-muted:    #666666;
+  --color-border:        #2A2A2A;
+  --color-border-light:  #333333;
+  --color-accent-up:     #FFFFFF;
+  --color-accent-down:   #666666;
+  --color-accent-highlight: #E0E0E0;
+
+  /* ── Typography ──────────────────────────── */
+  --font-headline: "Playfair Display", Georgia, serif;
+  --font-mono:     "IBM Plex Mono", "SF Mono", monospace;
+  --font-ui:       "DM Sans", "Helvetica Neue", sans-serif;
+}
+
+/* ── Animations ──────────────────────────────── */
+@keyframes ticker {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(18px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0; }
+}
+
+.anim-fade-up {
+  animation: fadeUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.anim-fade-in {
+  animation: fadeIn 0.4s ease both;
+}
+
+/* Base resets */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  font-family: var(--font-ui);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* CRT scanline overlay — fixed so it persists while scrolling */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 3px,
+    rgba(255, 255, 255, 0.018) 3px,
+    rgba(255, 255, 255, 0.018) 4px
+  );
+  pointer-events: none;
+  z-index: 9998;
+}
+
+/* Artist avatar — used across all image contexts */
+.artist-avatar {
+  width: 192px;
+  height: 192px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--color-border-light);
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+}
+
+.artist-avatar:hover {
+  filter: grayscale(0%);
+}

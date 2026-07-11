@@ -1,0 +1,1605 @@
+{
+  "roster_date": "2026-04-05",
+  "source": "sonymusiclatin.com — compiled from Wikipedia category, SML merch page, and official artist archive (site returns 403 on direct fetch; re-scrape when accessible)",
+  "artist_count": 94,
+  "artists": [
+    {
+      "name": "Abraham Mateo",
+      "slug": "abraham-mateo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/abraham-mateo/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=abraham-mateo",
+      "image_local_path": "data/images/abraham-mateo.jpg",
+      "bio_excerpt": "Spanish singer Abraham Mateo began his career as a teen idol and has evolved into a versatile pop and urban Latin artist, collaborating with Pitbull, Yandel, and Jennifer Lopez.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/abrahammateo/",
+        "youtube": "https://www.youtube.com/@AbrahamMateo",
+        "tiktok": "https://www.tiktok.com/@abrahammateo",
+        "x": "https://x.com/AbrahamMateo",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/AbrahamMateoOficial"
+      }
+    },
+    {
+      "name": "Alejandro Sanz",
+      "slug": "alejandro-sanz",
+      "profile_url": "https://www.sonymusiclatin.com/artists/alejandro-sanz/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=alejandro-sanz",
+      "image_local_path": "data/images/alejandro-sanz.jpg",
+      "bio_excerpt": "Spanish singer-songwriter Alejandro Sanz is one of the most celebrated Latin artists of all time, with 24 Latin Grammy Awards — more than any other solo artist. His blend of flamenco, pop, and soul has earned him fans across six decades.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/alejandrosanz/",
+        "youtube": "https://www.youtube.com/@AlejandroSanz",
+        "tiktok": "https://www.tiktok.com/@alejandrosanz",
+        "x": "https://x.com/alejandrosanz",
+        "spotify": "https://open.spotify.com/artist/1d9ztGwMjKvJIFEMDVHBZm",
+        "apple_music": "https://music.apple.com/us/artist/alejandro-sanz/488761",
+        "facebook": "https://www.facebook.com/AlejandroSanz"
+      }
+    },
+    {
+      "name": "Alex Luna",
+      "slug": "alex-luna",
+      "profile_url": "https://www.sonymusiclatin.com/artists/alex-luna/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=alex-luna",
+      "image_local_path": "data/images/alex-luna.jpg",
+      "bio_excerpt": "Colombian singer Alex Luna is known for his romantic ballads and tropical-pop sound, carving out a devoted following in the Latin regional market.",
+      "social_links": {
+        "instagram": null,
+        "youtube": null,
+        "tiktok": null,
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Alexis & Fido",
+      "slug": "alexis-fido",
+      "profile_url": "https://www.sonymusiclatin.com/artists/alexis-fido/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=alexis-fido",
+      "image_local_path": "data/images/alexis-fido.jpg",
+      "bio_excerpt": "Puerto Rican reggaeton duo Alexis & Fido were pioneers of the genre in the mid-2000s, known for hits like 'Tumba La Casa' and collaborations with Daddy Yankee and Wisin & Yandel.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/alexisyfido/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/AlexisFidoPR",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Almighty",
+      "slug": "almighty",
+      "profile_url": "https://www.sonymusiclatin.com/artists/almighty/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=almighty",
+      "image_local_path": "data/images/almighty.jpg",
+      "bio_excerpt": "Puerto Rican rapper and singer Almighty is a leading voice in Latin trap, known for introspective lyrics and gritty street narratives that have earned him a loyal underground following.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/almightypr/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/AlmightyPR",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Ana Gabriel",
+      "slug": "ana-gabriel",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ana-gabriel/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=ana-gabriel",
+      "image_local_path": "data/images/ana-gabriel.jpg",
+      "bio_excerpt": "Mexican singer Ana Gabriel is a living legend of Latin pop and ranchera, with a career spanning over four decades. Her powerhouse voice and emotional delivery have made her one of the best-selling artists in Latin American history.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/anagabrieloficial/",
+        "youtube": "https://www.youtube.com/@AnaGabrielVEVO",
+        "tiktok": null,
+        "x": "https://x.com/anagabriel",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/AnaGabrielOficial"
+      }
+    },
+    {
+      "name": "Anuel AA",
+      "slug": "anuel-aa",
+      "profile_url": "https://www.sonymusiclatin.com/artists/anuel-aa/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=anuel-aa",
+      "image_local_path": "data/images/anuel-aa.jpg",
+      "bio_excerpt": "Puerto Rican rapper Anuel AA helped define the dark, introspective side of Latin trap. His debut album 'Real Hasta la Muerte' broke streaming records and established him as one of the genre's most influential voices.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/anuel_aaa/",
+        "youtube": "https://www.youtube.com/@AnuelAA",
+        "tiktok": "https://www.tiktok.com/@anuel_aa",
+        "x": "https://x.com/anuel_aaa",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Arcángel",
+      "slug": "arcangel",
+      "profile_url": "https://www.sonymusiclatin.com/artists/arcangel/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=arcangel",
+      "image_local_path": "data/images/arcangel.jpg",
+      "bio_excerpt": "Puerto Rican reggaeton and Latin trap pioneer Arcángel, born Austin Agustín Santos, has been a cornerstone of the urban Latin scene since the early 2000s, known for his distinctive nasal style and countless collaborations.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/arcangel/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@arcangel",
+        "x": "https://x.com/arcangel",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Arthur Hanlon",
+      "slug": "arthur-hanlon",
+      "profile_url": "https://www.sonymusiclatin.com/artists/arthur-hanlon/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=arthur-hanlon",
+      "image_local_path": "data/images/arthur-hanlon.jpg",
+      "bio_excerpt": "American pianist and composer Arthur Hanlon is celebrated for his virtuosic Latin piano performances and recordings with Marc Anthony, Shakira, and Gloria Estefan, bridging classical technique with Latin rhythms.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/arthurhanlon/",
+        "youtube": "https://www.youtube.com/@ArthurHanlon",
+        "tiktok": null,
+        "x": "https://x.com/ArthurHanlon",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/arthurhanlon"
+      }
+    },
+    {
+      "name": "Aventura",
+      "slug": "aventura",
+      "profile_url": "https://www.sonymusiclatin.com/artists/aventura/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=aventura",
+      "image_local_path": "data/images/aventura.jpg",
+      "bio_excerpt": "Bronx-born bachata group Aventura, led by Romeo Santos, revolutionized the genre with fusions of R&B, hip-hop, and traditional Dominican bachata. Their reunion shows sold out Madison Square Garden multiple nights in a row.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/aventura/",
+        "youtube": "https://www.youtube.com/@Aventura",
+        "tiktok": null,
+        "x": "https://x.com/aventura",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/aventura"
+      }
+    },
+    {
+      "name": "Becky G",
+      "slug": "becky-g",
+      "profile_url": "https://www.sonymusiclatin.com/artists/becky-g/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=becky-g",
+      "image_local_path": "data/images/becky-g.jpg",
+      "bio_excerpt": "Mexican-American singer Becky G bridges US Latino and mainstream pop audiences with ease. Fluent in English and Spanish, she broke into the Latin market with 'Mayores' alongside Bad Bunny and has since become one of the most followed Latin artists on social media.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/iambeckyg/",
+        "youtube": "https://www.youtube.com/@BeckyGVEVO",
+        "tiktok": "https://www.tiktok.com/@iambeckyg",
+        "x": "https://x.com/iambeckyg",
+        "spotify": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35v3",
+        "apple_music": "https://music.apple.com/us/artist/becky-g/590393784",
+        "facebook": "https://www.facebook.com/iambeckyg"
+      }
+    },
+    {
+      "name": "Bomba Estéreo",
+      "slug": "bomba-estereo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/bomba-estereo/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=bomba-estereo",
+      "image_local_path": "data/images/bomba-estereo.jpg",
+      "bio_excerpt": "Colombian electronic cumbia band Bomba Estéreo, fronted by Liliana Saumet, fuses traditional coastal Colombian sounds with electronic production. Grammy nominees and Latin Grammy winners, they are a defining act of the Latin alternative movement.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/bombaestereo/",
+        "youtube": "https://www.youtube.com/@BombaEstereo",
+        "tiktok": null,
+        "x": "https://x.com/bombaestereo",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/BombaEstereo"
+      }
+    },
+    {
+      "name": "C. Tangana",
+      "slug": "c-tangana",
+      "profile_url": "https://www.sonymusiclatin.com/artists/c-tangana/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=c-tangana",
+      "image_local_path": "data/images/c-tangana.jpg",
+      "bio_excerpt": "Madrid rapper and pop visionary C. Tangana reinvented himself with the Latin Grammy–winning 'El Madrileño', a stunning album blending flamenco, bolero, and rumba that became one of the most critically acclaimed Latin records of the 2020s.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/ctangana/",
+        "youtube": "https://www.youtube.com/@CTangana",
+        "tiktok": null,
+        "x": "https://x.com/c_tangana",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Calle 13",
+      "slug": "calle-13",
+      "profile_url": "https://www.sonymusiclatin.com/artists/calle-13/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=calle-13",
+      "image_local_path": "data/images/calle-13.jpg",
+      "bio_excerpt": "Puerto Rican duo Calle 13, formed by Residente and Visitante, holds the record for most Latin Grammy wins ever (19). Their politically charged music blends reggaeton, salsa, and experimental sounds, and they are widely considered the most important Latin act of their era.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/calle13oficial/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/Calle13Oficial",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/calle13oficial"
+      }
+    },
+    {
+      "name": "Camilo",
+      "slug": "camilo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/camilo/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=camilo",
+      "image_local_path": "data/images/camilo.jpg",
+      "bio_excerpt": "Colombian singer-songwriter Camilo burst onto the Latin pop scene with his signature warm sound and romantic lyrics. Known for 'Vida de Rico' and 'Tutu', he has won multiple Latin Grammy Awards and maintains one of the most engaged fanbases in the genre.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/camilo/",
+        "youtube": "https://www.youtube.com/@Camilo",
+        "tiktok": "https://www.tiktok.com/@camilo",
+        "x": "https://x.com/CamiloMusica",
+        "spotify": "https://open.spotify.com/artist/4N1DcyW4JVDzJQqJk1ypOI",
+        "apple_music": "https://music.apple.com/us/artist/camilo/1266502959",
+        "facebook": "https://www.facebook.com/CamiloMusica"
+      }
+    },
+    {
+      "name": "Carlos Vives",
+      "slug": "carlos-vives",
+      "profile_url": "https://www.sonymusiclatin.com/artists/carlos-vives/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=carlos-vives",
+      "image_local_path": "data/images/carlos-vives.jpg",
+      "bio_excerpt": "Colombian singer Carlos Vives revitalized the vallenato genre for global audiences. A nine-time Latin Grammy winner, his anthemic 'La Bicicleta' with Shakira won Record of the Year at the 2017 Latin Grammy Awards.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/carlosvives/",
+        "youtube": "https://www.youtube.com/@CarlosVivesVEVO",
+        "tiktok": "https://www.tiktok.com/@carlosvives",
+        "x": "https://x.com/carlosvives",
+        "spotify": "https://open.spotify.com/artist/5yh5RwOhKgoAqHX2fUgXMW",
+        "apple_music": "https://music.apple.com/us/artist/carlos-vives/56736",
+        "facebook": "https://www.facebook.com/carlosvivesoficial"
+      }
+    },
+    {
+      "name": "Cauty",
+      "slug": "cauty",
+      "profile_url": "https://www.sonymusiclatin.com/artists/cauty/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=cauty",
+      "image_local_path": "data/images/cauty.jpg",
+      "bio_excerpt": "Colombian-Puerto Rican singer and songwriter Cauty, son of Jowell from Jowell & Randy, has carved his own lane in the new generation of urban Latin music with a smooth blend of reggaeton and R&B.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/cauty/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@cauty",
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Chayanne",
+      "slug": "chayanne",
+      "profile_url": "https://www.sonymusiclatin.com/artists/chayanne/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=chayanne",
+      "image_local_path": "data/images/chayanne.jpg",
+      "bio_excerpt": "Puerto Rican pop singer and actor Chayanne is one of Latin America's most enduring and beloved stars, known for romantic ballads and electrifying live performances. His signature hit 'Torero' remains an icon of 90s Latin pop.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/chayanne/",
+        "youtube": "https://www.youtube.com/@ChayanneVEVO",
+        "tiktok": "https://www.tiktok.com/@chayanne",
+        "x": "https://x.com/Chayanne",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/Chayanne"
+      }
+    },
+    {
+      "name": "Chencho Corleone",
+      "slug": "chencho-corleone",
+      "profile_url": "https://www.sonymusiclatin.com/artists/chencho-corleone/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=chencho-corleone",
+      "image_local_path": "data/images/chencho-corleone.jpg",
+      "bio_excerpt": "Puerto Rican singer Chencho Corleone, formerly of Plan B, launched a successful solo career with the global hit 'Me Porto Bonito' alongside Bad Bunny, which became one of the most-streamed Spanish-language songs of 2022.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/chenchocorleone/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@chenchocorleone",
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "ChocQuibTown",
+      "slug": "chocquibtown",
+      "profile_url": "https://www.sonymusiclatin.com/artists/chocquibtown/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=chocquibtown",
+      "image_local_path": "data/images/chocquibtown.jpg",
+      "bio_excerpt": "Colombian group ChocQuibTown blends Afro-Colombian traditions with hip-hop, funk, and salsa. Latin Grammy winners, they are celebrated for putting the Pacific coast sound of Chocó on the global map.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/chocquibtown/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/ChocQuibTown",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/chocquibtown"
+      }
+    },
+    {
+      "name": "Christina Aguilera",
+      "slug": "christina-aguilera",
+      "profile_url": "https://www.sonymusiclatin.com/artists/christina-aguilera/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=christina-aguilera",
+      "image_local_path": "data/images/christina-aguilera.jpg",
+      "bio_excerpt": "Ecuadorian-American pop superstar Christina Aguilera is a five-time Grammy winner celebrated for her extraordinary vocal range. Her Spanish-language album 'Mi Reflejo' won the Latin Grammy for Best Female Pop Vocal Album in 2001.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/xtina/",
+        "youtube": "https://www.youtube.com/@ChristinaAguilera",
+        "tiktok": "https://www.tiktok.com/@xtina",
+        "x": "https://x.com/xtina",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/christinaaguilera"
+      }
+    },
+    {
+      "name": "CNCO",
+      "slug": "cnco",
+      "profile_url": "https://www.sonymusiclatin.com/artists/cnco/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=cnco",
+      "image_local_path": "data/images/cnco.jpg",
+      "bio_excerpt": "Latin pop boy group CNCO was formed on the reality competition 'La Banda' in 2015, produced by Ricky Martin. Their debut single 'Reggaetón Lento' became a pan-Latin hit, launching them to international fame.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/cncomusic/",
+        "youtube": "https://www.youtube.com/@CNCO",
+        "tiktok": "https://www.tiktok.com/@cncomusic",
+        "x": "https://x.com/CNCOmusic",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/CNCO"
+      }
+    },
+    {
+      "name": "Cristian Castro",
+      "slug": "cristian-castro",
+      "profile_url": "https://www.sonymusiclatin.com/artists/cristian-castro/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=cristian-castro",
+      "image_local_path": "data/images/cristian-castro.jpg",
+      "bio_excerpt": "Mexican singer Cristian Castro, son of singer Manuel 'El Loco' Valdés, is one of Latin America's most beloved romantic ballad singers, known for hits like 'Azul' and 'Lloviendo Estrellas'.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/cristian_castro/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/CristianCastro",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/CristianCastroOficial"
+      }
+    },
+    {
+      "name": "Daddy Yankee",
+      "slug": "daddy-yankee",
+      "profile_url": "https://www.sonymusiclatin.com/artists/daddy-yankee/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=daddy-yankee",
+      "image_local_path": "data/images/daddy-yankee.jpg",
+      "bio_excerpt": "Widely regarded as the 'King of Reggaeton', Puerto Rican artist Daddy Yankee popularized the genre globally with 'Gasolina' in 2004 and co-wrote the record-breaking 'Despacito'. He announced his retirement from music in 2022 with a legendary farewell tour.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/daddyyankee/",
+        "youtube": "https://www.youtube.com/@DaddyYankeeVEVO",
+        "tiktok": "https://www.tiktok.com/@daddyyankee",
+        "x": "https://x.com/daddyyankee",
+        "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m",
+        "apple_music": "https://music.apple.com/us/artist/daddy-yankee/11039",
+        "facebook": "https://www.facebook.com/daddyyankee"
+      }
+    },
+    {
+      "name": "Darell",
+      "slug": "darell",
+      "profile_url": "https://www.sonymusiclatin.com/artists/darell/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=darell",
+      "image_local_path": "data/images/darell.jpg",
+      "bio_excerpt": "Puerto Rican singer and rapper Darell is a prolific urban Latin collaborator, known for working with Nicky Jam, Ozuna, and Anuel AA. His melodic reggaeton style and consistent output have made him a staple of the genre.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/darellmusic/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/darellmusic",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Diego Torres",
+      "slug": "diego-torres",
+      "profile_url": "https://www.sonymusiclatin.com/artists/diego-torres/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=diego-torres",
+      "image_local_path": "data/images/diego-torres.jpg",
+      "bio_excerpt": "Argentine singer-songwriter Diego Torres is known for his uplifting anthems and smooth Latin pop sound. His hit 'Color Esperanza' became an unofficial anthem of resilience across Latin America.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/diegotorresmusic/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/DiegoTorres",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/DiegoTorresOficial"
+      }
+    },
+    {
+      "name": "Draco Rosa",
+      "slug": "draco-rosa",
+      "profile_url": "https://www.sonymusiclatin.com/artists/draco-rosa/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=draco-rosa",
+      "image_local_path": "data/images/draco-rosa.jpg",
+      "bio_excerpt": "Puerto Rican singer-songwriter and producer Draco Rosa, formerly of Menudo alongside Ricky Martin, has built a celebrated solo career as a Latin alternative rock artist and multiple Latin Grammy Award winner.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/dracoROSA/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/dracoROSA",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/DracoRosa"
+      }
+    },
+    {
+      "name": "Dyland & Lenny",
+      "slug": "dyland-lenny",
+      "profile_url": "https://www.sonymusiclatin.com/artists/dyland-lenny/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=dyland-lenny",
+      "image_local_path": "data/images/dyland-lenny.jpg",
+      "bio_excerpt": "Venezuelan-Puerto Rican reggaeton duo Dyland & Lenny have been a steady force in urban Latin music since the mid-2000s, known for smooth melodic hooks and collaborations with major urban acts.",
+      "social_links": {
+        "instagram": null,
+        "youtube": null,
+        "tiktok": null,
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Ednita Nazario",
+      "slug": "ednita-nazario",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ednita-nazario/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=ednita-nazario",
+      "image_local_path": "data/images/ednita-nazario.jpg",
+      "bio_excerpt": "Puerto Rican pop singer Ednita Nazario is one of the Caribbean's most enduring stars, with a career exceeding four decades. Known as 'La Diva de Puerto Rico', she has sold over 5 million albums throughout Latin America.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/ednitanazario/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/EdnitaNazario",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/EdnitaNazario"
+      }
+    },
+    {
+      "name": "Emilia",
+      "slug": "emilia",
+      "profile_url": "https://www.sonymusiclatin.com/artists/emilia/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=emilia",
+      "image_local_path": "data/images/emilia.jpg",
+      "bio_excerpt": "Argentine singer-songwriter Emilia Mernes is one of the fastest-rising Latin pop stars, known for hits like 'No Me Pises Pa' and collaborations with Duki. Her blend of pop, urban, and funk has made her a defining voice of the new Argentine pop wave.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/emiliamusic/",
+        "youtube": "https://www.youtube.com/@EmiliaMernes",
+        "tiktok": "https://www.tiktok.com/@emiliamusic",
+        "x": "https://x.com/emiliamusic",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Enrique Iglesias",
+      "slug": "enrique-iglesias",
+      "profile_url": "https://www.sonymusiclatin.com/artists/enrique-iglesias/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=enrique-iglesias",
+      "image_local_path": "data/images/enrique-iglesias.jpg",
+      "bio_excerpt": "Spanish pop and Latin artist Enrique Iglesias is the best-selling Latin artist of all time, with over 180 million records sold worldwide. He holds the record for the most number-one singles on Billboard's Hot Latin Songs chart.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/enriqueiglesias/",
+        "youtube": "https://www.youtube.com/@EnriqueIglesiasvevo",
+        "tiktok": "https://www.tiktok.com/@enriqueiglesias",
+        "x": "https://x.com/enriqueiglesias",
+        "spotify": "https://open.spotify.com/artist/7qG3b048QCHVQ7rEByIStv",
+        "apple_music": "https://music.apple.com/us/artist/enrique-iglesias/115026",
+        "facebook": "https://www.facebook.com/enriqueiglesias"
+      }
+    },
+    {
+      "name": "Evaluna Montaner",
+      "slug": "evaluna-montaner",
+      "profile_url": "https://www.sonymusiclatin.com/artists/evaluna-montaner/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=evaluna-montaner",
+      "image_local_path": "data/images/evaluna-montaner.jpg",
+      "bio_excerpt": "Venezuelan singer and actress Evaluna Montaner, daughter of Ricardo Montaner and wife of Camilo, has built an independent artistic identity with her debut album 'Agua' and a massive combined social following with her husband.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/evaluna/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@evaluna",
+        "x": "https://x.com/Evaluna",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Farruko",
+      "slug": "farruko",
+      "profile_url": "https://www.sonymusiclatin.com/artists/farruko/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=farruko",
+      "image_local_path": "data/images/farruko.jpg",
+      "bio_excerpt": "Puerto Rican reggaeton singer Farruko has been a cornerstone of urban Latin music since the early 2010s, known for hits like 'Pepas' and 'Callaíta'. He underwent a public religious conversion in 2022 and has incorporated gospel elements into his recent work.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/farruko/",
+        "youtube": "https://www.youtube.com/@FarrukoVEVO",
+        "tiktok": "https://www.tiktok.com/@farruko",
+        "x": "https://x.com/Farruko",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/Farruko"
+      }
+    },
+    {
+      "name": "Farina",
+      "slug": "farina",
+      "profile_url": "https://www.sonymusiclatin.com/artists/farina/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=farina",
+      "image_local_path": "data/images/farina.jpg",
+      "bio_excerpt": "Colombian-Haitian singer Farina is a pioneering female voice in Afro-Latin and reggaeton music. Known for her distinct style and collaborations with Nicki Minaj and J Balvin, she represents the Afro-Latina perspective in mainstream urban Latin.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/farinaoficial/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/farinaoficial",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Fonseca",
+      "slug": "fonseca",
+      "profile_url": "https://www.sonymusiclatin.com/artists/fonseca/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=fonseca",
+      "image_local_path": "data/images/fonseca.jpg",
+      "bio_excerpt": "Colombian singer-songwriter Fonseca is celebrated for his warm tropical-pop sound and guitar-driven melodies. A seven-time Latin Grammy nominee, he is known for 'Te Mando Flores' and collaborations with Carlos Vives and Juanes.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/fonsecaoficial/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/Fonseca",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/fonsecaoficial"
+      }
+    },
+    {
+      "name": "Franco De Vita",
+      "slug": "franco-de-vita",
+      "profile_url": "https://www.sonymusiclatin.com/artists/franco-de-vita/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=franco-de-vita",
+      "image_local_path": "data/images/franco-de-vita.jpg",
+      "bio_excerpt": "Italian-Venezuelan singer-songwriter Franco De Vita is one of Latin America's most revered romantic balladists, with over 35 years of hits. He has won multiple Latin Grammy Awards and collaborated with major artists across generations.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/francodevita/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/FrancoDeVita",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/FrancoDeVita"
+      }
+    },
+    {
+      "name": "Fuerza Regida",
+      "slug": "fuerza-regida",
+      "profile_url": "https://www.sonymusiclatin.com/artists/fuerza-regida/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=fuerza-regida",
+      "image_local_path": "data/images/fuerza-regida.jpg",
+      "bio_excerpt": "San Bernardino-based corridos tumbados group Fuerza Regida blends traditional norteño instrumentation with trap and urban beats. One of the most-streamed regional Mexican acts globally, they have collaborated with Peso Pluma and Becky G.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/fuerzaregida/",
+        "youtube": "https://www.youtube.com/@FuerzaRegida",
+        "tiktok": "https://www.tiktok.com/@fuerzaregida",
+        "x": "https://x.com/FuerzaRegida",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/FuerzaRegida"
+      }
+    },
+    {
+      "name": "Gente de Zona",
+      "slug": "gente-de-zona",
+      "profile_url": "https://www.sonymusiclatin.com/artists/gente-de-zona/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=gente-de-zona",
+      "image_local_path": "data/images/gente-de-zona.jpg",
+      "bio_excerpt": "Cuban reggaeton duo Gente de Zona broke internationally with 'Bailando' alongside Enrique Iglesias, one of the most-viewed Spanish-language videos of all time. Their infectious blend of reggaeton and Cuban timba is uniquely their own.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/gentedezona/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/GenteDeZona",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/gentedezona"
+      }
+    },
+    {
+      "name": "Gilberto Santa Rosa",
+      "slug": "gilberto-santa-rosa",
+      "profile_url": "https://www.sonymusiclatin.com/artists/gilberto-santa-rosa/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=gilberto-santa-rosa",
+      "image_local_path": "data/images/gilberto-santa-rosa.jpg",
+      "bio_excerpt": "Puerto Rican salsa singer Gilberto Santa Rosa, known as 'El Caballero de la Salsa', is one of the genre's most decorated performers with 10 Latin Grammy Awards and a career stretching across five decades.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/gilbertosantarosa/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/GilbertoSanta",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/GilbertoSantaRosa"
+      }
+    },
+    {
+      "name": "Gloria Estefan",
+      "slug": "gloria-estefan",
+      "profile_url": "https://www.sonymusiclatin.com/artists/gloria-estefan/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=gloria-estefan",
+      "image_local_path": "data/images/gloria-estefan.jpg",
+      "bio_excerpt": "Cuban-American singer Gloria Estefan and Miami Sound Machine pioneered the mainstream crossover of Latin pop in the 1980s. A Presidential Medal of Freedom recipient with over 100 million records sold, she is one of the best-selling music artists of all time.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/gloriaestefan/",
+        "youtube": "https://www.youtube.com/@GloriaEstefan",
+        "tiktok": null,
+        "x": "https://x.com/GloriaEstefan",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/GloriaEstefan"
+      }
+    },
+    {
+      "name": "Ha*Ash",
+      "slug": "ha-ash",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ha-ash/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=ha-ash",
+      "image_local_path": "data/images/ha-ash.jpg",
+      "bio_excerpt": "American-Mexican country-pop duo Ha*Ash, sisters Hanna and Ashley, have built an enormous fanbase in Latin America with their English and Spanish bilingual music. Multiple Latin Grammy nominees with sold-out arena tours across the continent.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/haashmusic/",
+        "youtube": "https://www.youtube.com/@HaAsh",
+        "tiktok": "https://www.tiktok.com/@haashmusic",
+        "x": "https://x.com/haashmusic",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/haashmusic"
+      }
+    },
+    {
+      "name": "Il Volo",
+      "slug": "il-volo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/il-volo/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=il-volo",
+      "image_local_path": "data/images/il-volo.jpg",
+      "bio_excerpt": "Italian operatic pop trio Il Volo — Gianluca Ginoble, Ignazio Boschetto, and Piero Barone — won the Latin Grammy for Best Traditional Pop Vocal Album and have an enormous Latin American fanbase drawn to their classical crossover performances.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/ilvoloofficial/",
+        "youtube": "https://www.youtube.com/@IlVolo",
+        "tiktok": null,
+        "x": "https://x.com/ilvoloofficial",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/ilvoloofficial"
+      }
+    },
+    {
+      "name": "iLe",
+      "slug": "ile",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ile/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=ile",
+      "image_local_path": "data/images/ile.jpg",
+      "bio_excerpt": "Puerto Rican singer-songwriter iLe, formerly Ileana Cabra of Calle 13, is a Latin Grammy Award-winning artist whose solo work blends bolero, Latin jazz, and contemporary pop with sharp political and feminist commentary.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/ile/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/ilemusic",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Jennifer Lopez",
+      "slug": "jennifer-lopez",
+      "profile_url": "https://www.sonymusiclatin.com/artists/jennifer-lopez/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=jennifer-lopez",
+      "image_local_path": "data/images/jennifer-lopez.jpg",
+      "bio_excerpt": "Bronx-born Puerto Rican superstar Jennifer Lopez is one of the most influential entertainers in the world, spanning music, film, and fashion. Her debut album 'On the 6' launched the careers of global superstars and the Latin Pop Explosion of the late 1990s.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/jlo/",
+        "youtube": "https://www.youtube.com/@JenniferLopez",
+        "tiktok": "https://www.tiktok.com/@jlo",
+        "x": "https://x.com/JLo",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/JenniferLopez"
+      }
+    },
+    {
+      "name": "Joss Favela",
+      "slug": "joss-favela",
+      "profile_url": "https://www.sonymusiclatin.com/artists/joss-favela/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=joss-favela",
+      "image_local_path": "data/images/joss-favela.jpg",
+      "bio_excerpt": "Mexican singer-songwriter Joss Favela is a prolific composer and performer in regional Mexican music, having written songs for Banda MS, Christian Nodal, and many others before becoming a leading artist himself.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/jossfavela/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@jossfavela",
+        "x": "https://x.com/JossFavela",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/JossFavela"
+      }
+    },
+    {
+      "name": "Julio Iglesias",
+      "slug": "julio-iglesias",
+      "profile_url": "https://www.sonymusiclatin.com/artists/julio-iglesias/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=julio-iglesias",
+      "image_local_path": "data/images/julio-iglesias.jpg",
+      "bio_excerpt": "Spanish singer Julio Iglesias is the best-selling male Latin recording artist of all time, with over 300 million records sold in 14 languages. His romantic ballad style and global appeal shaped modern Latin pop and paved the way for artists including his son Enrique.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/julioiglesias/",
+        "youtube": "https://www.youtube.com/@JulioIglesias",
+        "tiktok": null,
+        "x": "https://x.com/julioiglesias",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/JulioIglesias"
+      }
+    },
+    {
+      "name": "Kany García",
+      "slug": "kany-garcia",
+      "profile_url": "https://www.sonymusiclatin.com/artists/kany-garcia/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=kany-garcia",
+      "image_local_path": "data/images/kany-garcia.jpg",
+      "bio_excerpt": "Puerto Rican singer-songwriter Kany García is a four-time Latin Grammy Award winner celebrated for her confessional songwriting and rich alto voice. Her song 'El Party' with Residente became an unexpected viral hit across generations.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/kanygarcia/",
+        "youtube": "https://www.youtube.com/@KanyGarcia",
+        "tiktok": "https://www.tiktok.com/@kanygarcia",
+        "x": "https://x.com/kanygarcia",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/kanygarcia"
+      }
+    },
+    {
+      "name": "Kapo",
+      "slug": "kapo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/kapo/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=kapo",
+      "image_local_path": "data/images/kapo.jpg",
+      "bio_excerpt": "Cuban-American singer Kapo is a rising star in the new wave of urban Latin music, blending soulful melodic delivery with contemporary reggaeton and trap production.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/kapomusic/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@kapomusic",
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Lali",
+      "slug": "lali",
+      "profile_url": "https://www.sonymusiclatin.com/artists/lali/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=lali",
+      "image_local_path": "data/images/lali.jpg",
+      "bio_excerpt": "Argentine singer and actress Lali Espósito is one of the most prominent figures in Latin pop, celebrated for her fearless performances and genre-blending sound. A veteran of Argentine television, she has reinvented herself as a global pop artist.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/lalioficial/",
+        "youtube": "https://www.youtube.com/@lali",
+        "tiktok": "https://www.tiktok.com/@lalioficial",
+        "x": "https://x.com/lalioficial",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/lalioficial"
+      }
+    },
+    {
+      "name": "Leslie Grace",
+      "slug": "leslie-grace",
+      "profile_url": "https://www.sonymusiclatin.com/artists/leslie-grace/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=leslie-grace",
+      "image_local_path": "data/images/leslie-grace.jpg",
+      "bio_excerpt": "Dominican-American singer Leslie Grace broke out with the tropical-pop hit 'Be My Baby' and has built a dual Latin and English-language career. She starred in Warner Bros.' film adaptation of the Broadway musical 'In the Heights'.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/lesliegrace/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@lesliegrace",
+        "x": "https://x.com/lesliegrace",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/LeslieGrace"
+      }
+    },
+    {
+      "name": "Lila Downs",
+      "slug": "lila-downs",
+      "profile_url": "https://www.sonymusiclatin.com/artists/lila-downs/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=lila-downs",
+      "image_local_path": "data/images/lila-downs.jpg",
+      "bio_excerpt": "Mexican-American singer Lila Downs is a Latin Grammy Award winner who champions indigenous Mexican culture through music. Her repertoire spans corridos, traditional Oaxacan songs, and contemporary pop with lyrics in Spanish, Mixtec, and English.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/liladowns/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/liladowns",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/liladowns"
+      }
+    },
+    {
+      "name": "Luis Coronel",
+      "slug": "luis-coronel",
+      "profile_url": "https://www.sonymusiclatin.com/artists/luis-coronel/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=luis-coronel",
+      "image_local_path": "data/images/luis-coronel.jpg",
+      "bio_excerpt": "Mexican-American regional Mexican singer Luis Coronel rose to fame as a teenager and has maintained a loyal following in the banda and norteño scene with romantic ballads and heartfelt corridos.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/luiscoronel/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/luiscoronel",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/LuisCoronel"
+      }
+    },
+    {
+      "name": "Luis Figueroa",
+      "slug": "luis-figueroa",
+      "profile_url": "https://www.sonymusiclatin.com/artists/luis-figueroa/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=luis-figueroa",
+      "image_local_path": "data/images/luis-figueroa.jpg",
+      "bio_excerpt": "Puerto Rican urban singer Luis Figueroa has built a devoted following through consistent releases and collaborations within the urban Latin ecosystem, known for melodic hooks and romantic themes.",
+      "social_links": {
+        "instagram": null,
+        "youtube": null,
+        "tiktok": null,
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Lupita Infante",
+      "slug": "lupita-infante",
+      "profile_url": "https://www.sonymusiclatin.com/artists/lupita-infante/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=lupita-infante",
+      "image_local_path": "data/images/lupita-infante.jpg",
+      "bio_excerpt": "Mexican singer Lupita Infante is the granddaughter of legendary ranchera icon Pedro Infante and has carved her own path in regional Mexican music while honoring her family's powerful musical legacy.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/lupitainfante/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/lupitainfante",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Maluma",
+      "slug": "maluma",
+      "profile_url": "https://www.sonymusiclatin.com/artists/maluma/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=maluma",
+      "image_local_path": "data/images/maluma.jpg",
+      "bio_excerpt": "Colombian reggaeton and Latin pop singer Maluma rose to global fame with hits like 'Hawái' and 'ADMV'. He has collaborated with Madonna, Marc Anthony, and J Balvin, and is one of the most-streamed Latin artists of the decade.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/maluma/",
+        "youtube": "https://www.youtube.com/@MalumaVEVO",
+        "tiktok": "https://www.tiktok.com/@maluma",
+        "x": "https://x.com/maluma",
+        "spotify": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau",
+        "apple_music": "https://music.apple.com/us/artist/maluma/550053489",
+        "facebook": "https://www.facebook.com/MalumaOficial"
+      }
+    },
+    {
+      "name": "Manuel Turizo",
+      "slug": "manuel-turizo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/manuel-turizo/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=manuel-turizo",
+      "image_local_path": "data/images/manuel-turizo.jpg",
+      "bio_excerpt": "Colombian singer Manuel Turizo broke out at age 16 with the hit '2000' and has since become one of Latin pop's most consistent hitmakers. His playful, romantic sound bridges reggaeton with melodic pop.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/manuelturizo/",
+        "youtube": "https://www.youtube.com/@ManuelTurizo",
+        "tiktok": "https://www.tiktok.com/@manuelturizo",
+        "x": "https://x.com/manuelturizo",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/ManuelTurizoOficial"
+      }
+    },
+    {
+      "name": "Marc Anthony",
+      "slug": "marc-anthony",
+      "profile_url": "https://www.sonymusiclatin.com/artists/marc-anthony/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=marc-anthony",
+      "image_local_path": "data/images/marc-anthony.jpg",
+      "bio_excerpt": "New York-born salsa legend Marc Anthony is the world's best-selling tropical salsa artist with over 12 million albums sold. His powerful tenor voice and electrifying live performances have defined Latin music for three decades.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/marcanthony/",
+        "youtube": "https://www.youtube.com/@MarcAnthonyVEVO",
+        "tiktok": "https://www.tiktok.com/@marcanthony",
+        "x": "https://x.com/marcanthony",
+        "spotify": "https://open.spotify.com/artist/03VpAoRFBTGZiHRImvjGVl",
+        "apple_music": "https://music.apple.com/us/artist/marc-anthony/15014",
+        "facebook": "https://www.facebook.com/MarcAnthony"
+      }
+    },
+    {
+      "name": "Mau y Ricky",
+      "slug": "mau-y-ricky",
+      "profile_url": "https://www.sonymusiclatin.com/artists/mau-y-ricky/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=mau-y-ricky",
+      "image_local_path": "data/images/mau-y-ricky.jpg",
+      "bio_excerpt": "Venezuelan-American sibling duo Mau y Ricky, sons of Ricardo Montaner, are celebrated songwriters who have written hits for Camilo, Sebastián Yatra, and Maluma in addition to their own successful recording career.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/mauuricky/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@mauuricky",
+        "x": "https://x.com/mauuricky",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Milo J",
+      "slug": "milo-j",
+      "profile_url": "https://www.sonymusiclatin.com/artists/milo-j/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=milo-j",
+      "image_local_path": "data/images/milo-j.jpg",
+      "bio_excerpt": "Argentine teenager Milo J became a global phenomenon at 16 with 'Cayó La Noche', accumulating billions of streams and becoming one of the most-followed new Latin artists. His melodic trap-pop sound resonates with Gen Z audiences worldwide.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/miloj/",
+        "youtube": "https://www.youtube.com/@MiloJ",
+        "tiktok": "https://www.tiktok.com/@miloj",
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Mon Laferte",
+      "slug": "mon-laferte",
+      "profile_url": "https://www.sonymusiclatin.com/artists/mon-laferte/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=mon-laferte",
+      "image_local_path": "data/images/mon-laferte.jpg",
+      "bio_excerpt": "Chilean singer-songwriter Mon Laferte is a critically acclaimed Latin Grammy Award winner known for her eclectic style fusing pop, rock, ranchera, and blues. Her political activism and personal artistry have earned her global recognition.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/monlaferte/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/monlaferte",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/monlaferte"
+      }
+    },
+    {
+      "name": "Natalia Jiménez",
+      "slug": "natalia-jimenez",
+      "profile_url": "https://www.sonymusiclatin.com/artists/natalia-jimenez/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=natalia-jimenez",
+      "image_local_path": "data/images/natalia-jimenez.jpg",
+      "bio_excerpt": "Spanish-Mexican singer Natalia Jiménez, former lead vocalist of La Quinta Estación, launched a successful solo career in regional Mexican and pop music, winning multiple Latin Grammy Awards along the way.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/nataliajimenezoficial/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/NataliaJimenez",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/NataliaJimenezOficial"
+      }
+    },
+    {
+      "name": "Natti Natasha",
+      "slug": "natti-natasha",
+      "profile_url": "https://www.sonymusiclatin.com/artists/natti-natasha/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=natti-natasha",
+      "image_local_path": "data/images/natti-natasha.jpg",
+      "bio_excerpt": "Dominican singer Natti Natasha is the most-followed female reggaeton artist on social media and one of the genre's top stars. Her hits 'Tú Fotografía' and 'Criminal' with Ozuna broke records and earned her multiple Latin Grammy nominations.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/nattinatasha/",
+        "youtube": "https://www.youtube.com/@NattiNatasha",
+        "tiktok": "https://www.tiktok.com/@nattinatasha",
+        "x": "https://x.com/nattinatasha",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/NattiNatasha"
+      }
+    },
+    {
+      "name": "Nicki Nicole",
+      "slug": "nicki-nicole",
+      "profile_url": "https://www.sonymusiclatin.com/artists/nicki-nicole/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=nicki-nicole",
+      "image_local_path": "data/images/nicki-nicole.jpg",
+      "bio_excerpt": "Argentine rapper and singer Nicki Nicole is a leading voice in Latin trap and urban pop, celebrated for her sharp lyricism and distinctive flow. Her collaboration with Trueno, 'Mamichula', became a defining track of the Argentine urban wave.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/nickiicole/",
+        "youtube": "https://www.youtube.com/@NickiNicole",
+        "tiktok": "https://www.tiktok.com/@nickiicole",
+        "x": "https://x.com/nickiicole",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Nicky Jam",
+      "slug": "nicky-jam",
+      "profile_url": "https://www.sonymusiclatin.com/artists/nicky-jam/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=nicky-jam",
+      "image_local_path": "data/images/nicky-jam.jpg",
+      "bio_excerpt": "Puerto Rican-American reggaeton pioneer Nicky Jam made one of the most celebrated comebacks in Latin music history. His 2018 World Cup anthem 'Live It Up' reached billions of streams, cementing his status as a genre-defining artist.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/nickyjam/",
+        "youtube": "https://www.youtube.com/@NickyJam",
+        "tiktok": "https://www.tiktok.com/@nickyjam",
+        "x": "https://x.com/nickyjam",
+        "spotify": "https://open.spotify.com/artist/0vbkdFhNTOEkMvq8j0IYgq",
+        "apple_music": "https://music.apple.com/us/artist/nicky-jam/20765611",
+        "facebook": "https://www.facebook.com/NickyJam"
+      }
+    },
+    {
+      "name": "Noriel",
+      "slug": "noriel",
+      "profile_url": "https://www.sonymusiclatin.com/artists/noriel/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=noriel",
+      "image_local_path": "data/images/noriel.jpg",
+      "bio_excerpt": "Puerto Rican singer Noriel is a versatile urban artist who blends reggaeton, R&B, and trap seamlessly. A prolific collaborator, he has worked with Ozuna, Bad Bunny, and Arcángel throughout his career.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/norielpuertoricooficial/",
+        "youtube": null,
+        "tiktok": null,
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Ozuna",
+      "slug": "ozuna",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ozuna/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=ozuna",
+      "image_local_path": "data/images/ozuna.jpg",
+      "bio_excerpt": "Puerto Rican Latin trap and reggaeton artist Ozuna broke streaming records with his debut album 'Odisea'. Known as 'El Negrito de Ojos Claros', he has collaborated with Cardi B, J Balvin, and Romeo Santos.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/ozuna/",
+        "youtube": "https://www.youtube.com/@OzunaVEVO",
+        "tiktok": "https://www.tiktok.com/@ozuna",
+        "x": "https://x.com/ozuna",
+        "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY",
+        "apple_music": "https://music.apple.com/us/artist/ozuna/1063433789",
+        "facebook": "https://www.facebook.com/OzunaOficial"
+      }
+    },
+    {
+      "name": "Paloma Mami",
+      "slug": "paloma-mami",
+      "profile_url": "https://www.sonymusiclatin.com/artists/paloma-mami/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=paloma-mami",
+      "image_local_path": "data/images/paloma-mami.jpg",
+      "bio_excerpt": "Chilean-American singer Paloma Mami is a Latin Grammy Award-winning artist who fuses R&B, urban, and Latin pop. Her hit 'No Te Enamores' introduced her to a global audience and she has since emerged as one of Chile's biggest pop exports.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/palomamami/",
+        "youtube": "https://www.youtube.com/@PalomaMami",
+        "tiktok": "https://www.tiktok.com/@palomamami",
+        "x": "https://x.com/palomamami",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Pedro Capó",
+      "slug": "pedro-capo",
+      "profile_url": "https://www.sonymusiclatin.com/artists/pedro-capo/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=pedro-capo",
+      "image_local_path": "data/images/pedro-capo.jpg",
+      "bio_excerpt": "Puerto Rican singer-songwriter Pedro Capó is the son of salsa legend Bobby Capó. His global hit 'Calma' with Farruko became the longest-running number-one song in Latin Airplay chart history, amassing over 2 billion Spotify streams.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/pedrocapo/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@pedrocapooficial",
+        "x": "https://x.com/pedrocapo",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/PedroCapoOficial"
+      }
+    },
+    {
+      "name": "Pitbull",
+      "slug": "pitbull",
+      "profile_url": "https://www.sonymusiclatin.com/artists/pitbull/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=pitbull",
+      "image_local_path": "data/images/pitbull.jpg",
+      "bio_excerpt": "Miami-born Cuban-American rapper Pitbull, born Armando Christian Pérez, is one of the best-selling music artists of all time with over 100 million records sold. Known as 'Mr. Worldwide' and 'Mr. 305', he bridges Latin and mainstream pop with energetic club anthems.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/pitbull/",
+        "youtube": "https://www.youtube.com/@Pitbull",
+        "tiktok": "https://www.tiktok.com/@pitbull",
+        "x": "https://x.com/pitbull",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/Pitbull"
+      }
+    },
+    {
+      "name": "Plan B",
+      "slug": "plan-b",
+      "profile_url": "https://www.sonymusiclatin.com/artists/plan-b/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=plan-b",
+      "image_local_path": "data/images/plan-b.jpg",
+      "bio_excerpt": "Puerto Rican reggaeton duo Plan B, composed of Chencho Corleone and Maldy, were a dominant force in urban Latin music throughout the 2010s. The duo went on hiatus and both members have since pursued successful solo careers.",
+      "social_links": {
+        "instagram": null,
+        "youtube": null,
+        "tiktok": null,
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Polimá Westcoast",
+      "slug": "polima-westcoast",
+      "profile_url": "https://www.sonymusiclatin.com/artists/polima-westcoast/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=polima-westcoast",
+      "image_local_path": "data/images/polima-westcoast.jpg",
+      "bio_excerpt": "Chilean rapper and singer Polimá Westcoast is a leading figure in the new Chilean urban scene, known for his raw delivery and distinctive style. His collaboration with Paloma Mami, 'Not Steady', opened doors with international audiences.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/polimawestcoast/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@polimawestcoast",
+        "x": "https://x.com/polimawestcoast",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Prince Royce",
+      "slug": "prince-royce",
+      "profile_url": "https://www.sonymusiclatin.com/artists/prince-royce/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=prince-royce",
+      "image_local_path": "data/images/prince-royce.jpg",
+      "bio_excerpt": "Bronx-born Dominican-American singer Prince Royce is one of bachata's biggest crossover stars. He has scored multiple number-one hits on Billboard's Latin charts and collaborated with Shakira, Selena Gomez, and Jennifer Lopez.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/princeroyce/",
+        "youtube": "https://www.youtube.com/@PrinceRoyce",
+        "tiktok": "https://www.tiktok.com/@princeroyce",
+        "x": "https://x.com/princeroyce",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/princeroyce"
+      }
+    },
+    {
+      "name": "Rauw Alejandro",
+      "slug": "rauw-alejandro",
+      "profile_url": "https://www.sonymusiclatin.com/artists/rauw-alejandro/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=rauw-alejandro",
+      "image_local_path": "data/images/rauw-alejandro.jpg",
+      "bio_excerpt": "Puerto Rican singer and songwriter Rauw Alejandro is one of the leading figures of the new generation of urban Latin music. His albums 'Vice Versa' and 'Saturno' blend reggaeton, R&B, and electronic influences, earning him multiple Latin Grammy nominations.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/rauwalejandro/",
+        "youtube": "https://www.youtube.com/@RauwAlejandro",
+        "tiktok": "https://www.tiktok.com/@rauwalejandro",
+        "x": "https://x.com/rauwalejandro",
+        "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq",
+        "apple_music": "https://music.apple.com/us/artist/rauw-alejandro/1290821029",
+        "facebook": "https://www.facebook.com/RauwAlejandroOficial"
+      }
+    },
+    {
+      "name": "Reik",
+      "slug": "reik",
+      "profile_url": "https://www.sonymusiclatin.com/artists/reik/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=reik",
+      "image_local_path": "data/images/reik.jpg",
+      "bio_excerpt": "Mexican pop-rock trio Reik has been one of Latin pop's most consistent acts since 2005, known for tender ballads and collaborative hits. Their song 'Ozuna' with Ozuna and Wisin charted globally and introduced them to a new urban Latin audience.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/reikmusica/",
+        "youtube": "https://www.youtube.com/@Reik",
+        "tiktok": "https://www.tiktok.com/@reikmusica",
+        "x": "https://x.com/reikmusica",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/reikmusica"
+      }
+    },
+    {
+      "name": "Ricardo Montaner",
+      "slug": "ricardo-montaner",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ricardo-montaner/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=ricardo-montaner",
+      "image_local_path": "data/images/ricardo-montaner.jpg",
+      "bio_excerpt": "Venezuelan-Argentine singer Ricardo Montaner is one of Latin America's most revered balladists, with a career spanning four decades. Father of Evaluna Montaner, Mau y Ricky, and Ricky Montaner, he has created a remarkable family musical dynasty.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/ricardomontaner/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@ricardomontaner",
+        "x": "https://x.com/ricardomontaner",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/RicardoMontanerOficial"
+      }
+    },
+    {
+      "name": "Ricky Martin",
+      "slug": "ricky-martin",
+      "profile_url": "https://www.sonymusiclatin.com/artists/ricky-martin/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=ricky-martin",
+      "image_local_path": "data/images/ricky-martin.jpg",
+      "bio_excerpt": "Puerto Rican singer Ricky Martin ignited the Latin pop explosion in the US with 'Livin' la Vida Loca' in 1999. A UNICEF Goodwill Ambassador and activist, he has sold over 70 million records worldwide across a career spanning four decades.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/ricky_martin/",
+        "youtube": "https://www.youtube.com/@RickyMartinVEVO",
+        "tiktok": "https://www.tiktok.com/@rickymartin",
+        "x": "https://x.com/ricky_martin",
+        "spotify": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMCap",
+        "apple_music": "https://music.apple.com/us/artist/ricky-martin/217155",
+        "facebook": "https://www.facebook.com/rickymartin"
+      }
+    },
+    {
+      "name": "Río Roma",
+      "slug": "rio-roma",
+      "profile_url": "https://www.sonymusiclatin.com/artists/rio-roma/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=rio-roma",
+      "image_local_path": "data/images/rio-roma.jpg",
+      "bio_excerpt": "Mexican sibling duo Río Roma, brothers Roberto and Josué Ortega, are celebrated for emotive romantic ballads that have topped Latin charts across Central and South America.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/rioromamusic/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@rioromamusic",
+        "x": "https://x.com/rioromamusic",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/RioRomaOficial"
+      }
+    },
+    {
+      "name": "Romeo Santos",
+      "slug": "romeo-santos",
+      "profile_url": "https://www.sonymusiclatin.com/artists/romeo-santos/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=romeo-santos",
+      "image_local_path": "data/images/romeo-santos.jpg",
+      "bio_excerpt": "Bronx-born Dominican-American singer Romeo Santos, the 'King of Bachata', led Aventura before a massively successful solo career. His debut solo album 'Formula, Vol. 1' debuted at #1 on the Billboard 200, a historic achievement for a Latin act.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/romeosantos/",
+        "youtube": "https://www.youtube.com/@RomeoSantos",
+        "tiktok": "https://www.tiktok.com/@romeosantos",
+        "x": "https://x.com/romeosantos",
+        "spotify": "https://open.spotify.com/artist/6Wr3hh5QSRgsPot0RWNVPD",
+        "apple_music": "https://music.apple.com/us/artist/romeo-santos/301507963",
+        "facebook": "https://www.facebook.com/RomeoSantosOfficial"
+      }
+    },
+    {
+      "name": "Rosalía",
+      "slug": "rosalia",
+      "profile_url": "https://www.sonymusiclatin.com/artists/rosalia/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=rosalia",
+      "image_local_path": "data/images/rosalia.jpg",
+      "bio_excerpt": "Spanish singer Rosalía has redefined flamenco for the modern era, fusing it with R&B, trap, and pop on critically acclaimed albums 'El Mal Querer' and 'MOTOMAMI'. A Grammy and multiple Latin Grammy Award winner, she is one of the most celebrated artists of her generation.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/rosalia.vt/",
+        "youtube": "https://www.youtube.com/@ROSALIA",
+        "tiktok": "https://www.tiktok.com/@rosalia",
+        "x": "https://x.com/rosalia",
+        "spotify": "https://open.spotify.com/artist/79tNbIVkFhE4WM5oRROjaQ",
+        "apple_music": "https://music.apple.com/us/artist/rosal%C3%ADa/1065787758",
+        "facebook": "https://www.facebook.com/rosaliavt"
+      }
+    },
+    {
+      "name": "Rvssian",
+      "slug": "rvssian",
+      "profile_url": "https://www.sonymusiclatin.com/artists/rvssian/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=rvssian",
+      "image_local_path": "data/images/rvssian.jpg",
+      "bio_excerpt": "Jamaican-Puerto Rican producer and artist Rvssian is one of the most in-demand hitmakers in urban Latin and dancehall, having produced records for Bad Bunny, Anuel AA, and Travis Scott.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/rvssian/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@rvssian",
+        "x": "https://x.com/Rvssian",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Saiko",
+      "slug": "saiko",
+      "profile_url": "https://www.sonymusiclatin.com/artists/saiko/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=saiko",
+      "image_local_path": "data/images/saiko.jpg",
+      "bio_excerpt": "Chilean singer Saiko is a rising star in the Latin urban scene, blending melodic trap with pop sensibility. His viral hits and collaborations with Nicki Nicole and Paloma Mami have positioned him as a key voice of the new Chilean wave.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/saikobaby/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@saikobaby",
+        "x": null,
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Sebastian Yatra",
+      "slug": "sebastian-yatra",
+      "profile_url": "https://www.sonymusiclatin.com/artists/sebastian-yatra/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=sebastian-yatra",
+      "image_local_path": "data/images/sebastian-yatra.jpg",
+      "bio_excerpt": "Colombian singer Sebastian Yatra is celebrated for blending romantic pop with reggaeton. His Oscar-nominated 'Dos Oruguitas' from Disney's Encanto introduced him to a global audience beyond Latin music fans.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/sebastianyatra/",
+        "youtube": "https://www.youtube.com/@SebastianYatra",
+        "tiktok": "https://www.tiktok.com/@sebastianyatra",
+        "x": "https://x.com/sebastianyatra",
+        "spotify": "https://open.spotify.com/artist/4bHsxqR3GMrXTxEPLuK5ue",
+        "apple_music": "https://music.apple.com/us/artist/sebastian-yatra/1072498469",
+        "facebook": "https://www.facebook.com/SebastianYatraOficial"
+      }
+    },
+    {
+      "name": "Shakira",
+      "slug": "shakira",
+      "profile_url": "https://www.sonymusiclatin.com/artists/shakira/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=shakira",
+      "image_local_path": "data/images/shakira.jpg",
+      "bio_excerpt": "Colombian singer-songwriter Shakira is one of the best-selling music artists of all time, with over 100 million records sold worldwide. Known for fusing rock, pop, and Latin rhythms, she has won 3 Grammy Awards and 12 Latin Grammy Awards.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/shakira/",
+        "youtube": "https://www.youtube.com/@shakira",
+        "tiktok": "https://www.tiktok.com/@shakira",
+        "x": "https://x.com/shakira",
+        "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp",
+        "apple_music": "https://music.apple.com/us/artist/shakira/889327",
+        "facebook": "https://www.facebook.com/shakira"
+      }
+    },
+    {
+      "name": "Silvestre Dangond",
+      "slug": "silvestre-dangond",
+      "profile_url": "https://www.sonymusiclatin.com/artists/silvestre-dangond/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=silvestre-dangond",
+      "image_local_path": "data/images/silvestre-dangond.jpg",
+      "bio_excerpt": "Colombian vallenato singer Silvestre Dangond is the biggest name in modern vallenato, blending the traditional accordion-driven genre with urban influences. A multiple Latin Grammy Award winner, he has crossed over to mainstream Latin audiences.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/silvestredangond/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@silvestredangond",
+        "x": "https://x.com/silvestredangond",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/silvestredangond"
+      }
+    },
+    {
+      "name": "Thalía",
+      "slug": "thalia",
+      "profile_url": "https://www.sonymusiclatin.com/artists/thalia/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=thalia",
+      "image_local_path": "data/images/thalia.jpg",
+      "bio_excerpt": "Mexican pop icon Thalía rose to fame through telenovelas before becoming one of the best-selling Latin artists of all time, with over 40 million records sold. Known as the 'Queen of Latin Pop', she is also one of the most followed Latinas on social media.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/thalia/",
+        "youtube": "https://www.youtube.com/@Thalia",
+        "tiktok": "https://www.tiktok.com/@thalia",
+        "x": "https://x.com/thalia",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/thalia"
+      }
+    },
+    {
+      "name": "Tini",
+      "slug": "tini",
+      "profile_url": "https://www.sonymusiclatin.com/artists/tini/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=tini",
+      "image_local_path": "data/images/tini.jpg",
+      "bio_excerpt": "Argentine singer and actress Tini Stoessel transitioned from her Disney alter ego Violetta into a full-blown Latin pop superstar. Known for her powerhouse vocals and stadium tours, she is one of the most prominent voices of the new Argentine pop generation.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/tinistoessel/",
+        "youtube": "https://www.youtube.com/@TINI",
+        "tiktok": "https://www.tiktok.com/@tinistoessel",
+        "x": "https://x.com/tinistoessel",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/TiniOficial"
+      }
+    },
+    {
+      "name": "Trueno",
+      "slug": "trueno",
+      "profile_url": "https://www.sonymusiclatin.com/artists/trueno/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=trueno",
+      "image_local_path": "data/images/trueno.jpg",
+      "bio_excerpt": "Argentine rapper Trueno is a freestyle battle champion turned recording artist, known for his rapid-fire delivery and Afro-Argentine roots. His debut album 'ATREVIDO' went platinum and solidified his place at the forefront of Latin hip-hop.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/truenorap/",
+        "youtube": "https://www.youtube.com/@Trueno",
+        "tiktok": "https://www.tiktok.com/@truenorap",
+        "x": "https://x.com/truenorap",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Víctor Manuelle",
+      "slug": "victor-manuelle",
+      "profile_url": "https://www.sonymusiclatin.com/artists/victor-manuelle/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=victor-manuelle",
+      "image_local_path": "data/images/victor-manuelle.jpg",
+      "bio_excerpt": "Puerto Rican salsa singer Víctor Manuelle is one of the genre's most celebrated vocalists, known as 'El Sonero del Pueblo'. A multiple Latin Grammy Award winner, he has headlined venues across Latin America for over three decades.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/victormanuelle/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/victormanuelle",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/victormanuelle"
+      }
+    },
+    {
+      "name": "Wisin",
+      "slug": "wisin",
+      "profile_url": "https://www.sonymusiclatin.com/artists/wisin/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=wisin",
+      "image_local_path": "data/images/wisin.jpg",
+      "bio_excerpt": "Puerto Rican reggaeton singer Wisin, one half of Wisin & Yandel, has also had a prolific solo career. A pioneer of the genre since the early 2000s, he has won multiple Latin Grammy Awards and remains one of its most respected figures.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/wisin/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@wisin",
+        "x": "https://x.com/WisinOficial",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/WisinOficial"
+      }
+    },
+    {
+      "name": "Yandel",
+      "slug": "yandel",
+      "profile_url": "https://www.sonymusiclatin.com/artists/yandel/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=yandel",
+      "image_local_path": "data/images/yandel.jpg",
+      "bio_excerpt": "Puerto Rican reggaeton singer Yandel, alongside Wisin one half of Wisin & Yandel, launched a solo career while the duo was on hiatus, cementing his individual identity with successful albums and collaborations.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/yandel/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@yandel",
+        "x": "https://x.com/Yandel",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/YandelOficial"
+      }
+    },
+    {
+      "name": "Yendry",
+      "slug": "yendry",
+      "profile_url": "https://www.sonymusiclatin.com/artists/yendry/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=yendry",
+      "image_local_path": "data/images/yendry.jpg",
+      "bio_excerpt": "Dominican-Italian singer-songwriter Yendry blends Afro-Caribbean sounds with contemporary R&B and soul. Raised in Italy, she brings a distinctive cross-cultural perspective to Latin music and has built a dedicated following in Europe and the Americas.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/yendrymusic/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@yendrymusic",
+        "x": "https://x.com/yendrymusic",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Young Miko",
+      "slug": "young-miko",
+      "profile_url": "https://www.sonymusiclatin.com/artists/young-miko/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=young-miko",
+      "image_local_path": "data/images/young-miko.jpg",
+      "bio_excerpt": "Puerto Rican rapper Young Miko is one of the most exciting emerging voices in Latin trap, known for her introspective lyricism and genre-blending sound. Her debut album 'att' earned her a Latin Grammy nomination and broke streaming records for a debut Latin rap project.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/youngmikopr/",
+        "youtube": null,
+        "tiktok": "https://www.tiktok.com/@youngmikopr",
+        "x": "https://x.com/youngmikopr",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Charlie Zaa",
+      "slug": "charlie-zaa",
+      "profile_url": "https://www.sonymusiclatin.com/artists/charlie-zaa/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=charlie-zaa",
+      "image_local_path": "data/images/charlie-zaa.jpg",
+      "bio_excerpt": "Colombian bolero and romantic ballad singer Charlie Zaa found global success in the late 1990s with his album 'Entre Copas', becoming the best-selling Latin album of 1997. His nostalgic sound continues to resonate with audiences across generations.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/charliezaaoficial/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/charliezaa",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": null
+      }
+    },
+    {
+      "name": "Zion & Lennox",
+      "slug": "zion-lennox",
+      "profile_url": "https://www.sonymusiclatin.com/artists/zion-lennox/",
+      "image_url": "https://placehold.co/400x400/1A1A1A/999999?text=zion-lennox",
+      "image_local_path": "data/images/zion-lennox.jpg",
+      "bio_excerpt": "Puerto Rican reggaeton duo Zion & Lennox have been one of the genre's most consistent and beloved acts for over two decades, known for smooth harmonies and romantic production that bridge reggaeton with R&B.",
+      "social_links": {
+        "instagram": "https://www.instagram.com/zionylennox/",
+        "youtube": null,
+        "tiktok": null,
+        "x": "https://x.com/ZionYLennox",
+        "spotify": null,
+        "apple_music": null,
+        "facebook": "https://www.facebook.com/ZionYLennox"
+      }
+    }
+  ]
+}
