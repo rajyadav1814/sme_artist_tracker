@@ -437,11 +437,6 @@ function Masthead({ theme, onToggleTheme }: { theme: string; onToggleTheme: () =
       {/* Stats bar */}
       <div className="flex flex-wrap gap-x-6 gap-y-1">
         {([
-          ['Artists',       roster.artist_count.toString()],
-          ['KPIs tracked',  '11 per artist'],
-          ['Alerts',        alertCount.toString()],
-          ['Top stories',   briefing.items.length.toString()],
-          ['Prev snapshot', snapshot.previous_snapshot_date],
         ] as [string, string][]).map(([label, val]) => (
           <div key={label} className="flex items-baseline gap-1.5">
             <span className="font-[family-name:var(--font-mono)] text-[11px] tracking-widest text-[var(--color-text-muted)] uppercase">

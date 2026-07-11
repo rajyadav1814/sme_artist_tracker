@@ -40,15 +40,15 @@ Pages, S3, etc.). Designed to run on a single developer machine via launchd at
 
 ### Top-line numbers (target)
 
-| Metric | Value |
-|---|---|
-| Artists tracked | 46 (customer-curated; designed to scale to ~500 without architectural changes) |
-| KPIs per artist | 11 |
-| News items per day | Top 15 by weighted score |
+| Metric                         | Value                                                                                  |
+| ------------------------------ | -------------------------------------------------------------------------------------- |
+| Artists tracked                | 46 (customer-curated; designed to scale to ~500 without architectural changes)         |
+| KPIs per artist                | 11                                                                                     |
+| News items per day             | Top 15 by weighted score                                                               |
 | Platforms harvested per artist | 8 (Spotify, Instagram, YouTube, TikTok, X/Twitter, Facebook, Apple Music, Google News) |
-| Pipeline runtime | ~14 minutes wall clock |
-| Frontend bundle | ~3 MB raw / ~430 KB gzip |
-| Tech debt risk | Bundle growth from data baking; switch to runtime fetch above ~5 MB raw |
+| Pipeline runtime               | ~14 minutes wall clock                                                                 |
+| Frontend bundle                | ~3 MB raw / ~430 KB gzip                                                               |
+| Tech debt risk                 | Bundle growth from data baking; switch to runtime fetch above ~5 MB raw                |
 
 ---
 
@@ -122,16 +122,16 @@ the daily pipeline, deploys updates, integrates client feedback.
 
 **Key architectural decisions:**
 
-| Decision | Rationale |
-|----------|-----------|
-| Curated YAML drives the roster (not a scrape) | Customer review found the Wikipedia-scraped Sony Music Latin roster was missing strategically important Brazilian artists, Spanish artists, and non-Sony tracking targets. The customer maintains the canonical list. |
-| Scraper demoted to enrichment helper | `scripts/scrape_roster.py` is kept as a discovery tool (to find new SML signings the curated list might miss) but not in the daily pipeline. |
-| Static frontend, JSON-at-build-time | Simpler, cheaper, deployable anywhere. Trade-off: bundle grows with data; switch to runtime fetch above ~5 MB. |
-| Anthropic API called only at pipeline time | Frontend never makes API calls; editorial blurbs are baked in. Cost-bounded; no rate limits at runtime. |
-| iTunes Search API for Apple Music data | Apple Music web pages are JS-rendered and resist scraping. iTunes Search is a free public JSON endpoint covering catalog, releases, top songs, genre. |
-| kworb.net for Spotify per-track streams | Static HTML pages; per-artist Spotify IDs map to `kworb.net/spotify/artist/{id}.html`. kworb's YouTube section does NOT have per-artist pages — YouTube data comes from parsing the channel `/videos` page directly. |
-| YouTube via lockupViewModel parsing | YouTube migrated the videos grid to `lockupViewModel` blocks embedded in the page's JS state. Recognizing this format (vs. the legacy `videoRenderer`) is critical and depends on User-Agent. |
-| All comments, all formulas, all gotchas in docs | This document is the source of truth for redevelopment. |
+| Decision                                        | Rationale                                                                                                                                                                                                             |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Curated YAML drives the roster (not a scrape)   | Customer review found the Wikipedia-scraped Sony Music Latin roster was missing strategically important Brazilian artists, Spanish artists, and non-Sony tracking targets. The customer maintains the canonical list. |
+| Scraper demoted to enrichment helper            | `scripts/scrape_roster.py` is kept as a discovery tool (to find new SML signings the curated list might miss) but not in the daily pipeline.                                                                          |
+| Static frontend, JSON-at-build-time             | Simpler, cheaper, deployable anywhere. Trade-off: bundle grows with data; switch to runtime fetch above ~5 MB.                                                                                                        |
+| Anthropic API called only at pipeline time      | Frontend never makes API calls; editorial blurbs are baked in. Cost-bounded; no rate limits at runtime.                                                                                                               |
+| iTunes Search API for Apple Music data          | Apple Music web pages are JS-rendered and resist scraping. iTunes Search is a free public JSON endpoint covering catalog, releases, top songs, genre.                                                                 |
+| kworb.net for Spotify per-track streams         | Static HTML pages; per-artist Spotify IDs map to `kworb.net/spotify/artist/{id}.html`. kworb's YouTube section does NOT have per-artist pages — YouTube data comes from parsing the channel `/videos` page directly.  |
+| YouTube via lockupViewModel parsing             | YouTube migrated the videos grid to `lockupViewModel` blocks embedded in the page's JS state. Recognizing this format (vs. the legacy `videoRenderer`) is critical and depends on User-Agent.                         |
+| All comments, all formulas, all gotchas in docs | This document is the source of truth for redevelopment.                                                                                                                                                               |
 
 ---
 
@@ -280,36 +280,36 @@ maintainer: "email@chromadata.com"
 source: "Customer-provided curated list, YYYY-MM-DD"
 
 artists:
-  - name: "Display Name"                # required, used in UI
-    slug: "url-safe-slug"               # required, IMMUTABLE key
-    aliases: ["Alt Name"]               # optional, helps match legacy data
-    country: "ISO-2"                    # optional, e.g. AR, BR, ES, MX, US
-    primary_market: "free text"         # optional
-    genre_tags: [pop, urbano]           # optional, lower-case kebab
-    label_division: "free text"         # optional, e.g. "Sony Music Brasil"
-    label_status:                       # optional, allowed values:
+  - name: "Display Name" # required, used in UI
+    slug: "url-safe-slug" # required, IMMUTABLE key
+    aliases: ["Alt Name"] # optional, helps match legacy data
+    country: "ISO-2" # optional, e.g. AR, BR, ES, MX, US
+    primary_market: "free text" # optional
+    genre_tags: [pop, urbano] # optional, lower-case kebab
+    label_division: "free text" # optional, e.g. "Sony Music Brasil"
+    label_status: # optional, allowed values:
       # sony-latin | sony-brasil | sony-spain | sony-mexico | non-sony | unconfirmed
-    entity_type:                        # optional, allowed values:
+    entity_type: # optional, allowed values:
       # solo | duo | group | estate
-    members:                            # required when duo/group; optional otherwise
+    members: # required when duo/group; optional otherwise
       - { name: "Member", slug: "member-slug" }
-    status:                             # optional, allowed values:
+    status: # optional, allowed values:
       # active | hiatus | legacy_estate | archived
-    deceased_date: "YYYY-MM-DD"         # required when status=legacy_estate
-    priority:                           # optional, allowed values:
+    deceased_date: "YYYY-MM-DD" # required when status=legacy_estate
+    priority: # optional, allowed values:
       # high | standard | rising | catalog
-    social_links:                       # optional manual overrides (wins over scraper)
+    social_links: # optional manual overrides (wins over scraper)
       instagram: "https://..."
-      youtube:   "https://..."
-      tiktok:    "https://..."
-      x:         "https://..."
-      spotify:   "https://..."
+      youtube: "https://..."
+      tiktok: "https://..."
+      x: "https://..."
+      spotify: "https://..."
       apple_music: "https://..."
-      facebook:  "https://..."
-      soundcloud: "https://..."         # rarely used
-    image_url: "https://..."            # optional manual override
-    bio_excerpt: "..."                  # optional manual override
-    notes: "free text"                  # optional, for maintainers
+      facebook: "https://..."
+      soundcloud: "https://..." # rarely used
+    image_url: "https://..." # optional manual override
+    bio_excerpt: "..." # optional manual override
+    notes: "free text" # optional, for maintainers
 ```
 
 **Validation rules** (enforced by `build_roster.py` at load):
@@ -514,19 +514,19 @@ Imported by `src/data/loader.ts` at frontend build time.
 
 ### 7.1 Quick reference
 
-| # | Name | Unit | Higher better? | Source platforms |
-|--:|------|------|:--:|------|
-| 1 | Total Social Reach | followers | ✓ | All 6 social + Spotify |
-| 2 | Social Reach Velocity | % | ✓ | KPI 1 day-over-day |
-| 3 | Engagement Rate | % | ✓ | Recent posts × KPI 1 |
-| 4 | Spotify Monthly Listeners | listeners | ✓ | Spotify |
-| 5 | Spotify Listener Trend | % | ✓ | KPI 4 day-over-day |
-| 6 | Content Velocity | posts/wk | ✓ | All platforms (7-day window) |
-| 7 | Platform Diversity Score | ratio | ✓ | Account presence audit |
-| 8 | YouTube Weekly Velocity | views/wk | ✓ | YouTube recent videos |
-| 9 | Latest Release Recency | days | ✗ | Spotify + Apple Music (max date) |
-| 10 | News & Press Mentions | articles | ✓ | Google News RSS, 7-day window |
-| 11 | Apple Music Catalog Activity | releases/90d | ✓ | iTunes Search API |
+|   # | Name                         | Unit         | Higher better? | Source platforms                 |
+| --: | ---------------------------- | ------------ | :------------: | -------------------------------- |
+|   1 | Total Social Reach           | followers    |       ✓        | All 6 social + Spotify           |
+|   2 | Social Reach Velocity        | %            |       ✓        | KPI 1 day-over-day               |
+|   3 | Engagement Rate              | %            |       ✓        | Recent posts × KPI 1             |
+|   4 | Spotify Monthly Listeners    | listeners    |       ✓        | Spotify                          |
+|   5 | Spotify Listener Trend       | %            |       ✓        | KPI 4 day-over-day               |
+|   6 | Content Velocity             | posts/wk     |       ✓        | All platforms (7-day window)     |
+|   7 | Platform Diversity Score     | ratio        |       ✓        | Account presence audit           |
+|   8 | YouTube Weekly Velocity      | views/wk     |       ✓        | YouTube recent videos            |
+|   9 | Latest Release Recency       | days         |       ✗        | Spotify + Apple Music (max date) |
+|  10 | News & Press Mentions        | articles     |       ✓        | Google News RSS, 7-day window    |
+|  11 | Apple Music Catalog Activity | releases/90d |       ✓        | iTunes Search API                |
 
 ### 7.2 Formulas
 
@@ -724,20 +724,20 @@ The news desk ranks every detected change across all artists and selects the
 
 ### 8.1 Signal types and base scores
 
-| Signal | Base score | Trigger |
-|--------|-----------:|---------|
-| `milestone` | 10 | Round-number follower milestone crossed (10M, 25M, 50M, 100M etc.) |
-| `new_release` | 9 | KPI 9 ≤ 14 days |
-| `apple_music_surge` | 7 | KPI 11 delta_absolute ≥ 2 OR delta_percent ≥ 100% (current ≥ 2) |
-| `spotify_surge` | 8 | KPI 5 > 20% positive change |
-| `viral_spike` | 8 | Recent YouTube video views > 5× artist's 30-day average |
-| `pr_event` | 7 | KPI 10 > 20 in past 7 days |
-| `rapid_follower_surge` | 7 × 1.1^(velocity - 2) | KPI 2 > 2% AND ≤ 1000% (above 1000% is data discontinuity, skipped) |
-| `engagement_anomaly` | 7 | KPI 3 shifted > 50% from baseline |
-| `platform_silence` | 5 | KPI 6 = 0 |
-| `platform_silence_breaking` | 5 | KPI 6 was 0, now > 0 |
-| `declining_metrics` | 5 | Sustained drop ≥ 3 consecutive days |
-| `video_momentum` | 4 | KPI 8 > 1M views average AND not classified as viral_spike |
+| Signal                      |             Base score | Trigger                                                             |
+| --------------------------- | ---------------------: | ------------------------------------------------------------------- |
+| `milestone`                 |                     10 | Round-number follower milestone crossed (10M, 25M, 50M, 100M etc.)  |
+| `new_release`               |                      9 | KPI 9 ≤ 14 days                                                     |
+| `apple_music_surge`         |                      7 | KPI 11 delta_absolute ≥ 2 OR delta_percent ≥ 100% (current ≥ 2)     |
+| `spotify_surge`             |                      8 | KPI 5 > 20% positive change                                         |
+| `viral_spike`               |                      8 | Recent YouTube video views > 5× artist's 30-day average             |
+| `pr_event`                  |                      7 | KPI 10 > 20 in past 7 days                                          |
+| `rapid_follower_surge`      | 7 × 1.1^(velocity - 2) | KPI 2 > 2% AND ≤ 1000% (above 1000% is data discontinuity, skipped) |
+| `engagement_anomaly`        |                      7 | KPI 3 shifted > 50% from baseline                                   |
+| `platform_silence`          |                      5 | KPI 6 = 0                                                           |
+| `platform_silence_breaking` |                      5 | KPI 6 was 0, now > 0                                                |
+| `declining_metrics`         |                      5 | Sustained drop ≥ 3 consecutive days                                 |
+| `video_momentum`            |                      4 | KPI 8 > 1M views average AND not classified as viral_spike          |
 
 ### 8.2 Multipliers
 
@@ -933,17 +933,17 @@ and is > 1 KB. Use `--force` to override.
 
 For each artist (sequential, with `--delay` seconds between platforms):
 
-| Platform | Method | Output keys |
-|----------|--------|-------------|
-| Spotify | `fetch(open.spotify.com/artist/{id})` → parse monthly listeners, top tracks, latest release from HTML | `monthly_listeners, top_tracks, latest_release` |
-| Spotify (kworb augment) | `harvest_kworb.py` → kworb.net/spotify/artist/{id}.html | `kworb_top_tracks, kworb_total_streams` (merged into spotify block) |
-| Instagram | Aggregator search (Social Blade text snippets) or null | `followers, posts_count` |
-| YouTube | `fetch(youtube.com/@handle/videos)` → parse `lockupViewModel` blocks | `subscribers, recent_videos[]` |
-| TikTok | Aggregator search or null | `followers, likes_total, recent_videos[]` |
-| X / Twitter | Aggregator search or null | `followers, recent_tweets[]` |
-| Facebook | `fetch(facebook.com/{handle})` → parse "X people like this" | `page_likes, followers` |
-| Apple Music | `harvest_itunes.py` → iTunes Search API | `artist_id, latest_release, recent_releases_90d, total_albums, top_songs, primary_genre` |
-| News | Google News RSS `news.google.com/rss/search?q="{name}" music&tbs=qdr:w` → count `<item>` tags, extract first 5 headlines | `count, headlines[]` |
+| Platform                | Method                                                                                                                   | Output keys                                                                              |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| Spotify                 | `fetch(open.spotify.com/artist/{id})` → parse monthly listeners, top tracks, latest release from HTML                    | `monthly_listeners, top_tracks, latest_release`                                          |
+| Spotify (kworb augment) | `harvest_kworb.py` → kworb.net/spotify/artist/{id}.html                                                                  | `kworb_top_tracks, kworb_total_streams` (merged into spotify block)                      |
+| Instagram               | Aggregator search (Social Blade text snippets) or null                                                                   | `followers, posts_count`                                                                 |
+| YouTube                 | `fetch(youtube.com/@handle/videos)` → parse `lockupViewModel` blocks                                                     | `subscribers, recent_videos[]`                                                           |
+| TikTok                  | Aggregator search or null                                                                                                | `followers, likes_total, recent_videos[]`                                                |
+| X / Twitter             | Aggregator search or null                                                                                                | `followers, recent_tweets[]`                                                             |
+| Facebook                | `fetch(facebook.com/{handle})` → parse "X people like this"                                                              | `page_likes, followers`                                                                  |
+| Apple Music             | `harvest_itunes.py` → iTunes Search API                                                                                  | `artist_id, latest_release, recent_releases_90d, total_albums, top_songs, primary_genre` |
+| News                    | Google News RSS `news.google.com/rss/search?q="{name}" music&tbs=qdr:w` → count `<item>` tags, extract first 5 headlines | `count, headlines[]`                                                                     |
 
 **Per-platform fetch timeout:** 14 seconds via curl `--max-time`.
 
@@ -963,6 +963,7 @@ HTML formats; see §11.3 for the YouTube case.
 optionally yesterday's KPI snapshot (for deltas), `data/roster.json`
 
 **Output:**
+
 - `data/snapshots/YYYY-MM-DD-kpis.json` (rich format)
 - `data/dashboard.json` (rich, alias)
 - `data/snapshot.json` (compact frontend format)
@@ -982,6 +983,7 @@ Pass through roster metadata (`country`, `label_status`, `status`, `priority`,
 **Input:** `data/snapshots/YYYY-MM-DD-kpis.json`
 
 **Output:**
+
 - `data/news/YYYY-MM-DD.json` (dated archive)
 - `data/news.json` (frontend alias)
 
@@ -1000,6 +1002,7 @@ Pass through roster metadata (`country`, `label_status`, `status`, `priority`,
 extreme velocities (e.g., when an artist's previous baseline was effectively
 zero due to a missing URL, now populated → velocity in the millions of %).
 The detector therefore:
+
 - **Skips the signal entirely** when `velocity > 1000` (data discontinuity, not news)
 - **Clamps** the exponent at `min(velocity - 2, 100)` as a safety net
 
@@ -1034,7 +1037,7 @@ to see first). Overview, which is the help / reference page, sits last.
 
 **Masthead** — Logo (sml-logo.tsx), date with blinking terminal cursor,
 "SONY MUSIC LATIN PULSE" wordmark, "DAILY BRIEFING" centred label, stats bar
-(artists, KPI count, alerts, story count, prev snapshot date).
+(artists, KPI count, alerts, story count).
 
 **News ticker** — Full-bleed horizontal scrolling ticker of all 15 headlines.
 Always visible across every tab.
@@ -1070,7 +1073,7 @@ fetching.
 
 ```typescript
 // src/data/loader.ts
-export const roster:   Roster;
+export const roster: Roster;
 export const snapshot: Snapshot;
 export const briefing: NewsBriefing;
 ```
@@ -1084,7 +1087,9 @@ changes (search input, tier filter, expanded card, sort direction, etc.).
 syncs the local `expanded` state with that prop:
 
 ```tsx
-useEffect(() => { setExpanded(initiallyExpanded); }, [initiallyExpanded]);
+useEffect(() => {
+  setExpanded(initiallyExpanded);
+}, [initiallyExpanded]);
 ```
 
 So when the search narrows the grid to one match, the parent passes
@@ -1110,18 +1115,18 @@ scoped, to help orientation when scrolling.
 
 ```css
 :root {
-  --bg-primary:        #0A0A0A;
-  --bg-secondary:      #141414;
-  --bg-card:           #1A1A1A;
-  --bg-card-hover:     #222222;
-  --text-primary:      #FFFFFF;
-  --text-secondary:    #999999;
-  --text-muted:        #666666;
-  --border:            #2A2A2A;
-  --border-light:      #333333;
-  --accent-up:         #FFFFFF;   /* trend up */
-  --accent-down:       #666666;   /* trend down */
-  --accent-highlight:  #E0E0E0;
+  --bg-primary: #0a0a0a;
+  --bg-secondary: #141414;
+  --bg-card: #1a1a1a;
+  --bg-card-hover: #222222;
+  --text-primary: #ffffff;
+  --text-secondary: #999999;
+  --text-muted: #666666;
+  --border: #2a2a2a;
+  --border-light: #333333;
+  --accent-up: #ffffff; /* trend up */
+  --accent-down: #666666; /* trend down */
+  --accent-highlight: #e0e0e0;
 }
 ```
 
@@ -1161,17 +1166,17 @@ metrics at a glance. Within each tile, all chrome is monochrome.
 
 ```typescript
 const KPI_COLOR = {
-  1:  '#60a5fa',  // blue
-  2:  '#60a5fa',  // blue
-  3:  '#c084fc',  // purple
-  4:  '#4ade80',  // green
-  5:  '#4ade80',  // green
-  6:  '#22d3ee',  // cyan
-  7:  '#2dd4bf',  // teal
-  8:  '#f472b6',  // pink
-  9:  '#fbbf24',  // amber
-  10: '#fb923c',  // orange
-  11: '#f87171',  // rose
+  1: "#60a5fa", // blue
+  2: "#60a5fa", // blue
+  3: "#c084fc", // purple
+  4: "#4ade80", // green
+  5: "#4ade80", // green
+  6: "#22d3ee", // cyan
+  7: "#2dd4bf", // teal
+  8: "#f472b6", // pink
+  9: "#fbbf24", // amber
+  10: "#fb923c", // orange
+  11: "#f87171", // rose
 };
 ```
 
@@ -1186,6 +1191,7 @@ const KPI_COLOR = {
 **Method:** HTTP fetch via curl. Parse HTML.
 
 **Extracted fields:**
+
 - Monthly listeners: regex match on `(\d[\d,]+) monthly listeners`
 - Top tracks: parse `<script>` JSON-LD or page text
 - Latest release: parse `<script>` data
@@ -1235,6 +1241,7 @@ re.search(r'([\d.,]+[KMBkmb]?)\s+subscribers', text, re.I)
 **Method:** HTTP fetch (no auth, static HTML). Parse `<table>` rows.
 
 **Per-track row shape:**
+
 ```html
 <tr>
   <td>{peak_date YYYY/MM/DD}</td>
@@ -1298,6 +1305,7 @@ recent_releases_90d = count(r for r in releases if r.releaseDate >= cutoff_90d)
 (skip the channel title at position 0).
 
 **Status detection:**
+
 - `<channel>` present and `<item>` count > 0 → `"ok"`
 - `<channel>` missing → `"blocked"` (Google interstitial)
 - Otherwise → `"error"`
@@ -1309,6 +1317,7 @@ recent_releases_90d = count(r for r in releases if r.releaseDate >= cutoff_90d)
 **Rate limit:** 1 req/sec. Use a 1.1-second sleep between artists.
 
 **Relations to extract:**
+
 - `type: "instagram"` → instagram URL
 - `type: "youtube"` → YouTube channel URL
 - `type: "soundcloud"` → SoundCloud URL
@@ -1340,6 +1349,7 @@ When fetch succeeds, paginated pages live at `/artist/page/{N}/` — note
 **Script:** `scripts/deploy-gcs.sh`
 
 **Required env:**
+
 - `GCP_PROJECT_ID`
 - `GCP_BUCKET_NAME`
 
@@ -1365,15 +1375,15 @@ server. Useful if you later want server-side env-var injection.
 
 ```json
 {
-  "dev":         "vite",
-  "build":       "tsc -b && vite build",
-  "build:full":  "npm run pipeline && npm run build",
-  "pipeline":    ".venv/bin/python scripts/run_pipeline.py",
-  "deploy":      "bash scripts/deploy-gcs.sh",
-  "ship":        "bash scripts/deploy-gcs.sh",
-  "preview":     "vite preview",
-  "lint":        "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-  "test":        "vitest"
+  "dev": "vite",
+  "build": "tsc -b && vite build",
+  "build:full": "npm run pipeline && npm run build",
+  "pipeline": ".venv/bin/python scripts/run_pipeline.py",
+  "deploy": "bash scripts/deploy-gcs.sh",
+  "ship": "bash scripts/deploy-gcs.sh",
+  "preview": "vite preview",
+  "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+  "test": "vitest"
 }
 ```
 
@@ -1400,6 +1410,7 @@ launchctl list | grep chromadata   # verify
 ```
 
 **Manual trigger (without waiting for schedule):**
+
 ```bash
 launchctl start com.chromadata.smetracker
 ```
@@ -1554,7 +1565,7 @@ A non-exhaustive list of decisions and traps learned during development.
 
 - **Spotify Cloudflare bot wall**: The full Chrome User-Agent string returns
   a challenge page. Use the truncated `"Mozilla/5.0 (Macintosh; Intel Mac OS X
-  10_15_7) AppleWebKit/537.36"`.
+10_15_7) AppleWebKit/537.36"`.
 
 - **YouTube layout variants**: YouTube serves either `lockupViewModel` (new)
   or `videoRenderer` (legacy) depending on User-Agent and rotating A/B
@@ -1676,7 +1687,7 @@ scoring rubric are independent and can ship later than core KPIs.
 ## 19. Testing strategy
 
 - **Unit-level**: Each pure helper function (slugify, parse_abbrev,
-  _video_momentum, etc.) is small enough to test inline. Use `pytest`.
+  \_video_momentum, etc.) is small enough to test inline. Use `pytest`.
 - **Integration**: `scripts/build_roster.py --no-enrich` should run cleanly on
   the curated YAML and produce a roster.json that validates against the
   schema in §6.2.
@@ -1789,16 +1800,16 @@ SUCCESS_EMAIL_UNTIL=2026-06-10
 
 ## 21. Change log
 
-| Date | Change | Author |
-|------|--------|--------|
-| 2026-04-29 | Initial curated-roster architecture; replace SML scrape with YAML | Chromadata |
-| 2026-04-29 | Add 46 customer-curated artists; introduce `legacy_estate` handling | Chromadata |
-| 2026-04-30 | Pipeline verified end-to-end with curated roster | Chromadata |
-| 2026-05-05 | Frontend: search input on roster page; Overview moved to last tab | Chromadata |
+| Date       | Change                                                                                                                         | Author     |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| 2026-04-29 | Initial curated-roster architecture; replace SML scrape with YAML                                                              | Chromadata |
+| 2026-04-29 | Add 46 customer-curated artists; introduce `legacy_estate` handling                                                            | Chromadata |
+| 2026-04-30 | Pipeline verified end-to-end with curated roster                                                                               | Chromadata |
+| 2026-05-05 | Frontend: search input on roster page; Overview moved to last tab                                                              | Chromadata |
 | 2026-05-05 | Spotify-first image discovery; YouTube `lockupViewModel` parser; kworb Spotify; iTunes Search API; KPI 8 renamed; KPI 11 added | Chromadata |
-| 2026-05-27 | Client-provided social URLs merged (283 of 287 valid); CSV-merge validator catches 4 client copy-paste errors | Chromadata |
-| 2026-05-27 | launchd 06:00 daily schedule; success/failure email notifications | Chromadata |
-| 2026-05-27 | This document written | Chromadata |
+| 2026-05-27 | Client-provided social URLs merged (283 of 287 valid); CSV-merge validator catches 4 client copy-paste errors                  | Chromadata |
+| 2026-05-27 | launchd 06:00 daily schedule; success/failure email notifications                                                              | Chromadata |
+| 2026-05-27 | This document written                                                                                                          | Chromadata |
 
 ---
 
