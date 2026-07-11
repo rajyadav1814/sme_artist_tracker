@@ -387,9 +387,6 @@ function Overview() {
 // ── Sections ──────────────────────────────────────────────────────────────────
 
 function Masthead({ theme, onToggleTheme }: { theme: string; onToggleTheme: () => void }) {
-  const alertCount = snapshot.artists.reduce(
-    (n, a) => n + a.kpis.filter(k => k.alert !== null).length, 0
-  );
 
   return (
     <header className="anim-fade-in">
