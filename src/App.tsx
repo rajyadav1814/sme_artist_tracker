@@ -424,32 +424,6 @@ function Masthead({ theme, onToggleTheme }: { theme: string; onToggleTheme: () =
       >
         SONY MUSIC LATIN PULSE
       </h1>
-
-      {/* Rule + "DAILY BRIEFING" centred label */}
-      <div className="flex items-center gap-4 mt-3 mb-4">
-        <div className="flex-1 border-t border-[var(--color-border)]" />
-        <p className="font-[family-name:var(--font-mono)] text-[11px] tracking-[0.35em] text-[var(--color-text-muted)] uppercase whitespace-nowrap">
-          Daily Briefing
-        </p>
-        <div className="flex-1 border-t border-[var(--color-border)]" />
-      </div>
-
-      {/* Stats bar */}
-      <div className="flex flex-wrap gap-x-6 gap-y-1">
-        {([
-        ] as [string, string][]).map(([label, val]) => (
-          <div key={label} className="flex items-baseline gap-1.5">
-            <span className="font-[family-name:var(--font-mono)] text-[11px] tracking-widest text-[var(--color-text-muted)] uppercase">
-              {label}
-            </span>
-            <span className="font-[family-name:var(--font-mono)] text-[13px] text-[var(--color-text-secondary)]">
-              {val}
-            </span>
-          </div>
-        ))}
-      </div>
-
-      <div className="border-t border-[var(--color-border)] mt-4" />
     </header>
   );
 }
