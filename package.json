@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
+    "start": "serve -s dist -l $PORT",
     "build:full": "npm run pipeline && npm run build",
     "pipeline": ".venv/bin/python scripts/run_pipeline.py",
     "deploy": "bash scripts/deploy-gcs.sh",
